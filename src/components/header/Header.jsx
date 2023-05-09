@@ -41,19 +41,19 @@ const Header = () => {
          
           <li className={classes.nav_item }>
             <Link
-              to='/services'
+              to='/schedule'
               className={classes.nav_links} 
               onClick={closeMobileMenu}>
-              Услуги
+              Рассписание
             </Link>
           </li>
 
           <li className={classes.nav_item}>
             <Link
-              to='/aboutCompany'
+              to='/exams'
               className={classes.nav_links}
               onClick={closeMobileMenu}>
-              О нас
+              Даты экзаменов
             </Link> 
           </li>
          
