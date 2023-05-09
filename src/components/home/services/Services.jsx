@@ -1,6 +1,5 @@
 import React from "react"
 import OneService from "./OneService";
-import {Services_data} from "./data";
 import classes from "./Services.module.css"
  
 const Services = () => {
@@ -12,11 +11,6 @@ return (
        
         <div className={classes.service__cards}> 
           <OneService/>
-
-          {/* {Services_data.map( (services) => 
-        <OneService services = {services} />
-
-          )}  */}
         </div>
       </div>
       </section>

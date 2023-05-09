@@ -14,6 +14,12 @@ import Schedule from "./components/pages/schedule/Schedule";
 import Exams from "./components/pages/exams/Exams";
 import Lesen from "./components/pages/lesen/Lesen";
 import Horen from "./components/pages/horen/Horen";
+import Schreiben from "./components/pages/schreiben/Schreiben";
+import Sprechen from "./components/pages/sprechen/Sprechen";
+
+import Module from "./components/pages/lesen/Module";
+import ModuleSchreiben from "./components/pages/schreiben/Module_schreiben";
+import ModuleSprechen from "./components/pages/sprechen/Module_sprechen";
 
 
 function App() {
@@ -29,8 +35,15 @@ function App() {
             <Route path='/exams' element={<Exams/>}/>
             <Route path="/serviceDetail/:id" element = {<ServiceDetail/> } />
 
+
+            <Route path="/module/:id" element = {<Module/> } />
+            <Route path="/module/:id" element = {<ModuleSchreiben/> } />
+            <Route path="/module/:id" element = {<ModuleSprechen/> } />
+
             <Route path='/lesen' element={<Lesen/>}/>
             <Route path='/horen' element={<Horen/>}/>
+            <Route path='/schreiben' element={<Schreiben/>}/>
+            <Route path='/sprechen' element={<Sprechen/>}/>
 
         </Routes>
       <Footer/>

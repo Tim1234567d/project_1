@@ -3,11 +3,11 @@ import { Link } from "react-router-dom";
 import classes from "./Services.module.css"
 
 
-const OneService = ({services}) => {      
+const OneService = () => {      
 
     return (  
        
-      <div > 
+      <div className={classes.wrap} > 
       <Link to="/lesen">  
       <div className={classes.service__card}>
        <img className= {classes.service_backImg} src="https://static.wixstatic.com/media/e00276_bca2941d67fe4a5f82c9fc4f8e3e528e~mv2_d_4323_1769_s_2.jpg/v1/crop/x_0,y_167,w_4323,h_1602/fill/w_615,h_228,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/e00276_bca2941d67fe4a5f82c9fc4f8e3e528e~mv2_d_4323_1769_s_2.jpg" alt="service img"/> 

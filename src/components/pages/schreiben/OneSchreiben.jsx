@@ -1,9 +1,9 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import classes from "./Lesen.module.css"
+import classes from "./Schreiben.module.css"
 
 
-const OneLesen = ({services}) => {      
+const OneSchreiben = ({services}) => {      
 
     return (  
        
@@ -24,5 +24,5 @@ const OneLesen = ({services}) => {
     
 }
 
-export default OneLesen;
+export default OneSchreiben;
 
