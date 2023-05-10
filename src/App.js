@@ -38,9 +38,9 @@ function App() {
 
 
             <Route path="/module/:id" element = {<Module/> } />
-            <Route path="/module/:id" element = {<ModuleSchreiben/> } />
-            <Route path="/module/:id" element = {<ModuleSprechen/> } />
-            <Route path="/module/:id" element = {<ModuleHoren/> } />
+            <Route path="/module1/:id" element = {<ModuleHoren/> } />
+            <Route path="/module2/:id" element = {<ModuleSchreiben/> } />
+            <Route path="/module3/:id" element = {<ModuleSprechen/> } />
 
             <Route path='/lesen' element={<Lesen/>}/>
             <Route path='/horen' element={<Horen/>}/>

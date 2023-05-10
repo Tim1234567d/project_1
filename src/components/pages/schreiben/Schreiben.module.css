@@ -38,8 +38,8 @@
     .service__card {
         display: flex;
         flex-direction: column;
-        max-width: 536px;
-        height: 120px;
+        max-width: 700px;
+        height: 140px;
         border: 1px solid black;
         justify-content: center;
         border-top-right-radius: 60px;
