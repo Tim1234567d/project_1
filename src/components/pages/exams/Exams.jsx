@@ -4,6 +4,7 @@ import classes from "./Exams.module.css"
 
 const Exams = () => {
     return(   
+      <div className="bigWrapper">
         <div className={classes.serviceDetail_wrapper}>
                
               
@@ -38,6 +39,8 @@ const Exams = () => {
          </div> 
        
    
+           </div>
+
            </div>
      
    

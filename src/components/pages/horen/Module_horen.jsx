@@ -1,9 +1,9 @@
 import React from "react";
 import {Services_data} from './data';
 import { useParams } from "react-router-dom";
-import classes from './Lesen.module.css'
+import classes from './Horen.module.css'
 
-const Module  = () => {
+const ModuleHoren  = () => {
 
   const {id} = useParams(); 
 
@@ -53,4 +53,4 @@ const Module  = () => {
         )
 }
 
-export default Module;
+export default ModuleHoren;

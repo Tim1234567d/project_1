@@ -93,6 +93,8 @@
     
       .serviceDetail_photo {
         border-radius: 15px;
+        width: 800px;
+        height: 500px;
         
       }
       
@@ -104,14 +106,17 @@
       .serviceDetail_subtitle {
         margin-top: 70px;
         margin-bottom: 20px;
+        /* color: white; */
       }
     
       .serviceDetail_text {
         font-size: 20px;
         margin-bottom: 20px;
+        /* color: white; */
       }
       .serviceDetail_text2 {
         font-size: 20px;
+        /* color: white; */
       }
       
   

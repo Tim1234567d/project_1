@@ -5,6 +5,7 @@ import OneSprechen from "./OneSprechen";
 
 const Sprechen = () => {
     return (
+      <div className="bigWrapper">
         <section className={classes.services}>
         <div className={classes.wrapper}>
           <h2 className={classes.services_title}>Sprechen</h2>
@@ -19,6 +20,7 @@ const Sprechen = () => {
           </div>
         </div>
         </section>
+        </div>
      
       )
 }

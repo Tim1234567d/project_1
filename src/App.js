@@ -20,6 +20,7 @@ import Sprechen from "./components/pages/sprechen/Sprechen";
 import Module from "./components/pages/lesen/Module";
 import ModuleSchreiben from "./components/pages/schreiben/Module_schreiben";
 import ModuleSprechen from "./components/pages/sprechen/Module_sprechen";
+import ModuleHoren from "./components/pages/horen/Module_horen";
 
 
 function App() {
@@ -39,6 +40,7 @@ function App() {
             <Route path="/module/:id" element = {<Module/> } />
             <Route path="/module/:id" element = {<ModuleSchreiben/> } />
             <Route path="/module/:id" element = {<ModuleSprechen/> } />
+            <Route path="/module/:id" element = {<ModuleHoren/> } />
 
             <Route path='/lesen' element={<Lesen/>}/>
             <Route path='/horen' element={<Horen/>}/>

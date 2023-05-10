@@ -4,15 +4,18 @@ import {Services_data} from './data.js';
  
 const Schedule = () => {
     return(   
+      <div className="bigWrapper">
        <div className={classes.serviceDetail_wrapper}>
               
              
         <div className={classes.serviceDetail_container}>
           <div className={classes.serviceDetail_main__info}> 
             <h1></h1>
-            <div className={classes.serviceDetail_photo}><img src={Services_data.backImg} alt="nature"  />
+            <div><img className={classes.serviceDetail_photo} src={Services_data.backImg} alt="nature"  />
             </div>
   
+
+        
             <h3 className={classes.serviceDetail_subtitle}>{Services_data.title}</h3>
             <p className={classes.serviceDetail_text}> {Services_data.text}</p> 
             <p className={classes.serviceDetail_text} >{Services_data.p1}</p>
@@ -34,10 +37,14 @@ const Schedule = () => {
             <p className={classes.serviceDetail_text2} >{Services_data.task12}</p>
             <p className={classes.serviceDetail_text2} >{Services_data.task13}</p>
             <p className={classes.serviceDetail_text2} >{Services_data.task14}</p>
+
+           
          </div>  
         </div> 
+
       
   
+          </div>
           </div>
     
   

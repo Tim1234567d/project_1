@@ -5,6 +5,7 @@ import OneLesen from "./OneLesen";
 
 const Lesen = () => {
     return (
+      <div className="bigWrapper">
         <section className={classes.services}>
         <div className={classes.wrapper}>
           <h2 className={classes.services_title}>Lesen</h2>
@@ -19,6 +20,7 @@ const Lesen = () => {
           </div>
         </div>
         </section>
+        </div>
      
       )
 }

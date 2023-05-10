@@ -5,6 +5,7 @@ import OneSchreiben from "./OneSchreiben";
 
 const Schreiben = () => {
     return (
+      <div className="bigWrapper">
         <section className={classes.services}>
         <div className={classes.wrapper}>
           <h2 className={classes.services_title}>Schreiben</h2>
@@ -19,6 +20,8 @@ const Schreiben = () => {
           </div>
         </div>
         </section>
+        </div>
+      
      
       )
 }

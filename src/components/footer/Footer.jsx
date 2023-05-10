@@ -15,7 +15,7 @@ return (
         <div className={classes.footer_cantacts}>
           <div>+996 709 91 95 82</div>
           <div>ул.Ak-cholmok 115/1</div>
-          <div>cleaningBishkek@gmail.com</div>
+          <div>deutsche@gmail.com</div>
         </div>
       </div>
     </footer>
