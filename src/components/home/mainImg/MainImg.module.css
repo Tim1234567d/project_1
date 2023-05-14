@@ -1,13 +1,4 @@
-.mainImg {
-    /* width: 100%;
-    background: url('https://png.pngtree.com/background/20210714/original/pngtree-dot-blue-wave-line-light-gradient-dark-background-abstract-technology-big-picture-image_1223579.jpg') no-repeat center;
-    background-size: cover;
-    min-height: 70vh;
-    margin-bottom: 100px; */
-    
-    }
-    
-    .mainImg_shadow {
+.mainImg_shadow {
         content: "";
         top: 50px;
         left: 0;
@@ -54,7 +45,7 @@
         text-align: center;
     }
     
-     .number_1 {
+     .phone_icon {
          color: white;
         text-decoration: none;
         padding: 0.5rem 1rem;
@@ -65,26 +56,4 @@
                
      }
     
-     .number_2 {
-        color: white;
-       text-decoration: none;
-       padding: 0.5rem 1rem;
-       font-size: 22px;
-       background-color: #28a049;
-       border-radius: 20px;
-       margin-left: 50px;
-              
-    }
-
-     .phone_icon {
-         color: white;
-         width: 25px;
-         height: 25px;
-         background-color: none;
     
-     }
-
-     .whatsapp_icon {
-        width: 25px;
-        height: 25px;
-     }
