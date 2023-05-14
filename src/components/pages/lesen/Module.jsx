@@ -18,6 +18,8 @@ const Module  = () => {
           
     
           <h3 className={classes.serviceDetail_subtitle}>{services.title}</h3>
+          <h5>{services.title1}</h5>
+         
           <p className={classes.serviceDetail_text}> {services.text}</p> 
           <p className={classes.serviceDetail_text} >{services.p1}</p>
           <p className={classes.serviceDetail_text} >{services.p2}</p>
