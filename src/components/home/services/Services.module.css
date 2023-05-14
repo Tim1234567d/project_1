@@ -1,16 +1,13 @@
   /* services style start  */
 
-  .services {
+  .parts_section {
     margin-bottom: 40px;
   }
 
   .wrapper {
-    max-width: 1060px;
+      max-width: 1060px;
       margin: 0 auto;
       padding: 0 15px;
-      background-color: white;
-      /* margin: 50px;\ */
-
   }
 
   .services_title {
@@ -29,10 +26,6 @@
       flex-wrap: wrap;
       grid-template-columns: repeat(1, 1fr);
       grid-gap: 25px;
-      
-      
-      
-      
     }
   
       /* services style end  */
@@ -47,7 +40,6 @@
         border: 1px solid black;
         justify-content: center;
          margin: 10px 0 10px 0;
-         /* border-radius: 20%; */
          border-top-right-radius: 60px;
       }
   
@@ -60,9 +52,9 @@
         position: relative;
         width: 100%;
         height: 100%;
-        /* border-radius: 20%; */
         border-top-right-radius: 60px;
       }
+      
       .service_title_wrapper {
         position: absolute;
         display: flex;
@@ -74,59 +66,9 @@
         color: white;
         margin-left: 10px;
         font-size: 23px;
-       
       }
   
       /* One service style end  */
       
     
-    /* service detail start  */
     
-    .serviceDetail_wrapper {
-        max-width:1200px ;
-        margin: 0 auto;
-        margin-bottom: 100px;
-    }
-    
-    .serviceDetail_container {
-      max-width: 1200px;
-        display: flex;
-        justify-content: space-between;
-      }
-      
-      .serviceDetail_main__info {
-        width: 60%;
-        margin: 20px 0;
-    
-      }
-    
-      .serviceDetail_photo {
-        border-radius: 15px;
-        
-      }
-      
-      .serviceDetail_naturePhoto {
-       max-width: 100px;
-        height: 335px;
-        margin: 20px 0;
-      }
-      .serviceDetail_subtitle {
-        margin-top: 70px;
-        margin-bottom: 20px;
-      }
-    
-      .serviceDetail_text {
-        font-size: 20px;
-        margin-bottom: 20px;
-      }
-      .serviceDetail_text2 {
-        font-size: 20px;
-      }
-      
-  
-      
-  
-    
-    
-  
-      

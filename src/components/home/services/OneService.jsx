@@ -7,7 +7,7 @@ const OneService = () => {
 
     return (  
        
-      <div className={classes.wrap} > 
+      <div> 
       <Link to="/lesen">  
       <div className={classes.service__card}>
        <img className= {classes.service_backImg} src="https://funart.pro/uploads/posts/2022-08/thumbs/1660179943_53-funart-pro-p-sinii-fon-sport-krasivo-58.jpg" alt="service img"/> 
