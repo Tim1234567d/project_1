@@ -16,10 +16,7 @@
     font-size: 2rem;
   }
   
-  .fa_firstdraft {
-    margin-left: 0.5rem;
-    font-size: 2rem;
-  }
+  
   
   .nav_menu {
     display: grid;
@@ -86,17 +83,22 @@
     font-size: 1.8rem;
   }
 
- 
+
+  .fa_bars {
+    color: #fff;
+  }
+  .fa_bars:before {
+    content: "\f0c9";
+}
+  
+
   
   @media screen and (max-width: 960px) {
-    .NavbarItems {
-      position: relative;
-    }
-
+    
     .nav_menu {
       display: flex;
       flex-direction: column;
-      width: 100%;
+      width: 80%;
       height: 90vh;
       position: absolute;
       top: 80px;
@@ -104,6 +106,23 @@
       opacity: 1;
       transition: all 0.5s ease;
       justify-content: flex-start;
+      
+    }
+    .nav_menu_active {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      width: 100%;
+      height: 90vh;
+      position: absolute;
+      top: 80px;
+      transition: all 0.5s ease;
+      background: #242222;
+
+      left: 0;
+      opacity: 1;
+      transition: all 0.5s ease;
+      z-index: 1;
     }
 
     
@@ -125,24 +144,6 @@
       color: #eee;
      
       
-    }
-  
-    .nav_menu_active {
-      display: flex;
-      flex-direction: column;
-      width: 100%;
-      height: 90vh;
-      position: absolute;
-      top: 80px;
-      left: -100%;
-      opacity: 1;
-      transition: all 0.5s ease;
-      justify-content: flex-start;
-      background: #242222;
-      left: 0;
-      opacity: 1;
-      transition: all 0.5s ease;
-      z-index: 1;
     }
   
     .nav_links {
@@ -193,65 +194,7 @@
     button {
       display: none;
     }
-  }
-   
-  .fa_bars {
-    color: #fff;
-  }
-  .fa_bars:before {
-    content: "\f0c9";
-}
-  .fa_firstdraft {
-    margin-left: 0.5rem;
-    font-size: 1.6rem;
-  } 
-  .menu_icon {
-    display: none;
-  }
-  @media screen and (max-width: 960px) {
-    .NavbarItems {
-      position: relative;
-    }
-  
-    .nav_menu {
-      display: flex;
-      flex-direction: column;
-      width: 100%;
-      height: 90vh;
-      position: absolute;
-      top: 80px;
-      left: -100%;
-      opacity: 1;
-      transition: all 0.5s ease;
-    }
-  
-    .nav_menu_active {
-      background: #242222;
-      left: 0;
-      opacity: 1;
-      transition: all 0.5s ease;
-      z-index: 1;
-    }
-  
-    .nav_links {
-      text-align: center;
-      padding: 2rem;
-      width: 100%;
-      display: table;
-    }
-  
-    .nav_links:hover {
-      background-color: #1888ff;
-      border-radius: 0;
-    }
-  
-    .navbar_logo {
-      position: absolute;
-      top: 0;
-      left: 0;
-      transform: translate(25%, 50%);
-    }
-  
+
     .menu_icon {
       display: block;
       position: absolute;
@@ -261,15 +204,13 @@
       font-size: 1.8rem;
       cursor: pointer;
     }
-  
-    .fa_times {
-      color: #fff;
-      font-size: 2rem;
-    } 
-  
-    button {
-      display: none;
-    }
   }
+   
+
+ 
+ 
+
+
+
   
   
