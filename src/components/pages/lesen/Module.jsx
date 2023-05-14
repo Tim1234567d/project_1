@@ -1,25 +1,22 @@
 import React from "react";
-import {Services_data} from './data';
 import { useParams } from "react-router-dom";
 import classes from './Lesen.module.css'
+import {Lesen_data} from "../../../data/data.js"
 
 const Module  = () => {
 
   const {id} = useParams(); 
 
     return(
-      Services_data.filter(services => services.id === id ).map((services) => (
+      Lesen_data.filter(services => services.id === id ).map((services) => (
        
         <div className="bigWrapper"> 
      <div className={classes.serviceDetail_wrapper}>
             
       <div className={classes.serviceDetail_container}>
         <div className={classes.serviceDetail_main__info}> 
-          {/* <h1></h1>
-          <div className={classes.serviceDetail_photo}><img src={services.backImg} alt="nature"  />
-          </div> */}
           
-
+    
           <h3 className={classes.serviceDetail_subtitle}>{services.title}</h3>
           <p className={classes.serviceDetail_text}> {services.text}</p> 
           <p className={classes.serviceDetail_text} >{services.p1}</p>

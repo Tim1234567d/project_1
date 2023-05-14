@@ -1,6 +1,6 @@
 import React from "react";
 import classes from "./Lesen.module.css"
-import {Services_data} from "./data.js"
+import {Lesen_data} from "../../../data/data.js"
 import OneLesen from "./OneLesen";
 
 const Lesen = () => {
@@ -13,7 +13,7 @@ const Lesen = () => {
           <div className={classes.service__cards}> 
   
   
-            {Services_data.map( (services) => 
+            {Lesen_data.map( (services) => 
           <OneLesen services = {services} />
   
             )} 
