@@ -1,6 +1,6 @@
 import React from "react";
 import classes from "./Schedule.module.css"
-import {Services_data} from './data.js';
+import {Services_data} from '../../../data/data.js';
  
 const Schedule = () => {
     return(   
@@ -11,7 +11,8 @@ const Schedule = () => {
         <div className={classes.serviceDetail_container}>
           <div className={classes.serviceDetail_main__info}> 
             <h1></h1>
-            <div><img className={classes.serviceDetail_photo} src={Services_data.backImg} alt="nature"  />
+            <div>
+              <img className={classes.serviceDetail_photo} src={Services_data.backImg} alt="nature"/>
             </div>
   
 
