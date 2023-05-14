@@ -1,6 +1,6 @@
 import React from "react";
 import classes from "./Schreiben.module.css"
-import {Services_data} from "./data.js"
+import {Schreiben_data} from "../../../data/data.js"
 import OneSchreiben from "./OneSchreiben";
 
 const Schreiben = () => {
@@ -13,7 +13,7 @@ const Schreiben = () => {
           <div className={classes.service__cards}> 
   
   
-            {Services_data.map( (services) => 
+            {Schreiben_data.map( (services) => 
           <OneSchreiben services = {services} />
   
             )} 

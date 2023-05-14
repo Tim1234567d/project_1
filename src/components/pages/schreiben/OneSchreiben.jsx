@@ -6,7 +6,7 @@ import classes from "./Schreiben.module.css"
 const OneSchreiben = ({services}) => {      
 
     return (  
-       
+      
       <div  key={services.id}> 
       <Link to={`/module2/${services.id}`} >  
       <div className={classes.service__card}>
@@ -19,6 +19,7 @@ const OneSchreiben = ({services}) => {
         </Link>
 
         </div>
+     
          
   )
     
