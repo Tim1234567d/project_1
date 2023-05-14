@@ -1,5 +1,5 @@
 import React from "react";
-import {Services_data} from './data';
+import {Sprechen_data} from '../../../data/data.js';
 import { useParams } from "react-router-dom";
 import classes from './Sprechen.module.css'
 
@@ -8,15 +8,16 @@ const ModuleSprechen  = () => {
   const {id} = useParams(); 
 
     return(
-      Services_data.filter(services => services.id === id ).map((services) => (
-          
+      Sprechen_data.filter(services => services.id === id ).map((services) => (
+      
+        <div className="bigWrapper">
      <div className={classes.serviceDetail_wrapper}>
             
       <div className={classes.serviceDetail_container}>
         <div className={classes.serviceDetail_main__info}> 
-          <h1></h1>
+          {/* <h1></h1>
           <div className={classes.serviceDetail_photo}><img src={services.backImg} alt="nature"  />
-          </div>
+          </div> */}
 
           <h3 className={classes.serviceDetail_subtitle}>{services.title}</h3>
           <p className={classes.serviceDetail_text}> {services.text}</p> 
@@ -43,6 +44,7 @@ const ModuleSprechen  = () => {
       </div> 
     
 
+        </div>
         </div>
     ))
 
