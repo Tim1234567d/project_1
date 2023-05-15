@@ -21,6 +21,9 @@ import ModuleSchreiben from "./components/pages/schreiben/Module_schreiben";
 import ModuleSprechen from "./components/pages/sprechen/Module_sprechen";
 import ModuleHoren from "./components/pages/horen/Module_horen";
 
+import LesenTeilen from "./components/pages/lesen/Teilen/LesenTeilen";
+
+
 
 function App() {
   return (
@@ -43,6 +46,9 @@ function App() {
             <Route path='/horen' element={<Horen/>}/>
             <Route path='/schreiben' element={<Schreiben/>}/>
             <Route path='/sprechen' element={<Sprechen/>}/>
+
+
+            <Route path='/lesenteilen/:id' element={<LesenTeilen/>}/>
 
         </Routes>
       <Footer/>

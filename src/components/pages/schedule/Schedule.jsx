@@ -10,7 +10,7 @@ const Schedule = () => {
              
         <div className={classes.serviceDetail_container}>
           <div className={classes.serviceDetail_main__info}> 
-            <h1></h1>
+            {/* <h1></h1> */}
             <div>
               <img className={classes.serviceDetail_photo} src={Schedule_data.backImg} alt="nature"/>
             </div>

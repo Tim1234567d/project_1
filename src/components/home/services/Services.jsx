@@ -6,7 +6,7 @@ const Services = () => {
 
 return (
   <div  className="bigWrapper">
-      <section className={classes.parts_section}>
+      <section className={classes.services}>
       <div className={classes.wrapper}>
         <h2 className={classes.services_title}>МОДУЛИ</h2>
        
