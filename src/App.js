@@ -1,13 +1,13 @@
 import React from "react";
-import Header from "./components/header/Header";
-import Footer from "./components/footer/Footer";
-import Home from "./components/home/Home";
-
 import { Route, Routes } from "react-router-dom";
 
-import { Login } from "./components/pages/login";
-import { Registration } from "./components/pages/rigistration";
+import Header from "./components/header/Header";
+import Footer from "./components/footer/Footer";
 
+// ** pages
+import Home from "./components/home/Home";
+import Login from "./components/pages/login";
+import Registration from "./components/pages/rigistration";
 import Schedule from "./components/pages/schedule/Schedule";
 import Exams from "./components/pages/exams/Exams";
 import Lesen from "./components/pages/lesen/Lesen";
@@ -15,14 +15,14 @@ import Horen from "./components/pages/horen/Horen";
 import Schreiben from "./components/pages/schreiben/Schreiben";
 import Sprechen from "./components/pages/sprechen/Sprechen";
 
-// import Module from "./components/pages/lesen/Module";
+// ** module
 import ModuleSchreiben from "./components/pages/schreiben/Module_schreiben";
 import ModuleSprechen from "./components/pages/sprechen/Module_sprechen";
 import ModuleHoren from "./components/pages/horen/Module_horen";
-
-import LesenTeilen from "./components/pages/lesen/lesenModule/LesenTeilen";
-
 import LesenModule1 from "./components/pages/lesen/lesenModule/SubLesenModule1";
+
+//  ** module part
+import LesenTeilen from "./components/pages/lesen/lesenModule/LesenTeilen";
 
 function App() {
   return (
@@ -31,10 +31,10 @@ function App() {
       <Routes>
         {/* ** Main  */}
         <Route path="/" element={<Home />} />
-        <Route path="login" element={<Login />} />
-        <Route path="registration" element={<Registration />} />
         <Route path="schedule" element={<Schedule />} />
         <Route path="exams" element={<Exams />} />
+        <Route path="login" element={<Login />} />
+        <Route path="registration" element={<Registration />} />
 
         {/* ** Teil  */}
         <Route path="/lesen" element={<Lesen />} />
@@ -44,16 +44,13 @@ function App() {
 
         {/* ** Module  */}
         {/* <Route path="/lesenteilen/:id/:id" element = {<Module/> } /> */}
+        <Route path="/lesenModule1" element={<LesenModule1 />} />
         <Route path="/module1/:id" element={<ModuleHoren />} />
         <Route path="/module2/:id" element={<ModuleSchreiben />} />
         <Route path="/module3/:id" element={<ModuleSprechen />} />
 
-        {/* **  */}
-
+        {/* ** Module  part*/}
         <Route path="/lesenModule1/:id" element={<LesenTeilen />} />
-
-        {/* ***** */}
-        <Route path="/lesenModule1" element={<LesenModule1 />} />
       </Routes>
       <Footer />
     </div>

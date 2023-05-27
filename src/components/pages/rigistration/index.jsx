@@ -7,7 +7,7 @@ import Avatar from "@mui/material/Avatar";
 
 import styles from "./Login.module.css";
 
-export const Registration = () => {
+const Registration = () => {
   return (
     <Paper classes={{ root: styles.root }}>
       <Typography classes={{ root: styles.title }} variant="h5">
@@ -25,3 +25,5 @@ export const Registration = () => {
     </Paper>
   );
 };
+
+export default Registration;
