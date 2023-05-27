@@ -13,6 +13,7 @@ const OneLesen = ({services}) => {
        <img className= {classes.service_backImg} src={services.backImg} alt="service img"/> 
        <div className={classes.service_title_wrapper}>
           <h3 className={classes.service_title}>{services.title}</h3>
+       
         </div>
          
         </div>

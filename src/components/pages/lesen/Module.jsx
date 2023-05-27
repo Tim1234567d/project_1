@@ -12,7 +12,7 @@ const Module  = ({hey}) => {
     return(
       <div>
 
-      {data2.filter(services => services.id === id ).map ((services) => 
+      {data2.map ((services) => 
        
           <div className="bigWrapper"> 
        <div className={classes.serviceDetail_wrapper}>
@@ -20,7 +20,8 @@ const Module  = ({hey}) => {
         <div className={classes.serviceDetail_container}>
          
          <SubModule services= {services}/>
-        </div> 
+           
+        </div>  
       
   
           </div>

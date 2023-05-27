@@ -25,7 +25,7 @@ const Header = () => {
     <header>
       <nav className={classes.navbar}>
 
-        <Link to='/home' className={classes.navbar_logo} onClick={closeMobileMenu}>
+        <Link to='/' className={classes.navbar_logo} onClick={closeMobileMenu}>
           logo
         </Link>
 
@@ -34,7 +34,7 @@ const Header = () => {
         </div>
         <ul className={click ? classes.nav_menu_active : classes.nav_menu}>
           <li className={classes.nav_item }>
-            <Link to='/home' className= {classes.nav_links } onClick={closeMobileMenu}>
+            <Link to='/' className= {classes.nav_links } onClick={closeMobileMenu}>
               Главная
             </Link> 
           </li>
