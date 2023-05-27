@@ -11,11 +11,7 @@ const SubModule  = ({services}) => {
     return(
       <div>
 
-        
-
-
-        {
-            services.data.filter(services => services.id === id ).map((services) =>
+       
             <div className={classes.serviceDetail_main__info}> 
             
       
@@ -44,8 +40,8 @@ const SubModule  = ({services}) => {
             <p className={classes.serviceDetail_text2} >{services.task14}</p> */}
          </div> 
             
-            )
-        }
+            
+        
        
      
     

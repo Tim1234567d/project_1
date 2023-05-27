@@ -1,19 +1,16 @@
 import React from "react";
-import { Link } from "react-router-dom";
-import classes from "../Lesen.module.css"
-import {data2} from "./data.js"
 import { useParams } from "react-router-dom";
-import OneTeilen from "./OneTeilen";
+import classes from '../Lesen.module.css'
+// import {Lesen_data} from "../../../data/data.js"
+import { Link } from "react-router-dom";
+import { Lesen_data } from "../Teilen/data";
 
-
-
-
-const LesenTeilen = () => {      
+const SubLesenModule  = ({services}) => {
 
   const {id} = useParams(); 
-    return (  
-       
-      <div className="bigWrapper"> 
+
+    return(
+        <div className="bigWrapper"> 
       
         <section className={classes.services}>
         
@@ -38,8 +35,25 @@ const LesenTeilen = () => {
     
             </div>
         <div className={classes.service__cards}> 
+
+        {Lesen_data.map((word) => 
+
+  <Link to={`/lesenteilen/${word.id}`} > 
+
+     <div className={classes.service__card}>
+      <img className= {classes.service_backImg} src="https://funart.pro/uploads/posts/2022-08/thumbs/1660179943_53-funart-pro-p-sinii-fon-sport-krasivo-58.jpg" alt="service img"/> 
+      <div className={classes.service_title_wrapper}>
+         <h3 className={classes.service_title}>{word.title}</h3>
+      </div>
+        
+       </div> 
+
+      {/* <Teil word = {word}/> */}
+
+       </Link> 
+  )}
        
-        {data2.filter(services => services.id === id ).map((hey) => 
+        {/* {data2.filter(services => services.id === id ).map((hey) => 
 
         // {
         //   hey.data.map((word) => 
@@ -52,9 +66,9 @@ const LesenTeilen = () => {
         //    </div>
         //   )
         // }
-          <OneTeilen hey = {hey}/>  
+        //   <OneTeilen hey = {hey}/>  
         
-        )}
+        )} */}
            
         </div>
         </div>
@@ -62,11 +76,8 @@ const LesenTeilen = () => {
        
         </div>
          
-  )
-    
+
+        )
 }
 
-export default LesenTeilen;
-
-
-
+export default SubLesenModule;

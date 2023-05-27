@@ -21,7 +21,10 @@ import ModuleSchreiben from "./components/pages/schreiben/Module_schreiben";
 import ModuleSprechen from "./components/pages/sprechen/Module_sprechen";
 import ModuleHoren from "./components/pages/horen/Module_horen";
 
-import LesenTeilen from "./components/pages/lesen/Teilen/LesenTeilen";
+import LesenTeilen from "./components/pages/lesen/lesenModule/LesenTeilen";
+
+
+import LesenModule1 from "./components/pages/lesen/lesenModule/LesenModule1";
 
 
 
@@ -29,30 +32,6 @@ import LesenTeilen from "./components/pages/lesen/Teilen/LesenTeilen";
 function App() {
 
  
-
-  const subjects = [
-    {
-      id: '1',
-      name: 'Предмет 1',
-      parts: [
-        { title: 'Часть 1', info: 'Информация о части 1 предмета 1' },
-        { title: 'Часть 2', info: 'Информация о части 2 предмета 1' },
-        { title: 'Часть 3', info: 'Информация о части 3 предмета 1' },
-        { title: 'Часть 4', info: 'Информация о части 4 предмета 1' }
-      ]
-    },
-    {
-      id: '2',
-      name: 'Предмет 2',
-      parts: [
-        { title: 'Часть 1', info: 'Информация о части 1 предмета 2' },
-        { title: 'Часть 2', info: 'Информация о части 2 предмета 2' },
-        { title: 'Часть 3', info: 'Информация о части 3 предмета 2' },
-        { title: 'Часть 4', info: 'Информация о части 4 предмета 2' }
-      ]
-    }
-    // Добавьте остальные предметы и их части аналогичным образом
-  ];
   return (
     <div className="App">
       <Header/>
@@ -76,6 +55,15 @@ function App() {
 
 
             <Route path='/lesenteilen/:id' element={<LesenTeilen/>}/>
+
+
+
+
+            {/* ***** */}
+            <Route path='/lesenModule1' element={<LesenModule1/>}/>
+
+
+
 
 
           
