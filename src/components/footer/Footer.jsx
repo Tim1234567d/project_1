@@ -1,15 +1,14 @@
 import React from "react";
 import SocialList from "./SocialList";
-import classes from "./Footer.module.css"
+import classes from "./Footer.module.css";
 
 const Footer = () => {
-
-return ( 
+  return (
     <footer className={classes.footer}>
       <div className={classes.wrapper}>
         <div className={classes.logo}>Logo</div>
 
-        <SocialList/>
+        <SocialList />
 
         <div className={classes.footer_cantacts}>
           <div>+996 709 91 95 82</div>
@@ -18,7 +17,7 @@ return (
         </div>
       </div>
     </footer>
-)
-}
+  );
+};
 
 export default Footer;
