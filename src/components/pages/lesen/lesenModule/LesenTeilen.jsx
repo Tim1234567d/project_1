@@ -1,9 +1,6 @@
 import React from "react";
-// import { Link } from "react-router-dom";
 import classes from "../Lesen.module.css"
-// import {data2} from "./data.js"
 import { useParams } from "react-router-dom";
-// import OneTeilen from "./OneTeilen";
 import {Lesen_data} from "../Teilen/data.js"
 
 
@@ -31,7 +28,7 @@ const LesenTeilen = () => {
            </div>
           
         
-          // <OneTeilen hey = {hey}/>  
+          
         
         )}
            

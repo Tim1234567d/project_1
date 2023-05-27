@@ -1,10 +1,5 @@
 import React from "react";
 import classes from "./Lesen.module.css"
-// import {Lesen_data} from "../../../data/data.js"
-import {data2} from "./Teilen/data.js"
-import OneLesen from "./OneLesen";
-
-import LesenModule1 from "./lesenModule/LesenModule1";
 import { Link } from "react-router-dom";
 
 const Lesen = () => {
@@ -15,12 +10,6 @@ const Lesen = () => {
           <h2 className={classes.services_title}>Lesen</h2>
          
           <div className={classes.service__cards}> 
-  
-  
-            {/* {data2.map( (services) => 
-          <OneLesen services = {services} />
-  
-            )}  */}
 
             <Link to="/lesenModule1">
             <div className={classes.service__card}>

@@ -2,7 +2,7 @@ import React from "react";
 import { useParams } from "react-router-dom";
 import classes from '../Lesen.module.css'
 // import {Lesen_data} from "../../../data/data.js"
-import {Lesen_data} from "../Teilen/data.js"
+import {Lesen_data} from "../../../../data/data.js"
 import SubLesenModule from "./SubLesenModule1";
 
 const LesenModule1  = () => {

@@ -3,7 +3,7 @@ import { useParams } from "react-router-dom";
 import classes from '../Lesen.module.css'
 // import {Lesen_data} from "../../../data/data.js"
 import { Link } from "react-router-dom";
-import { Lesen_data } from "../Teilen/data";
+import { Lesen_data } from "../../../../data/data.js";
 
 const SubLesenModule  = ({services}) => {
 
@@ -38,7 +38,7 @@ const SubLesenModule  = ({services}) => {
 
         {Lesen_data.map((word) => 
 
-  <Link to={`/lesenteilen/${word.id}`} > 
+  <Link to={`/lesenModule1/${word.id}`} > 
 
      <div className={classes.service__card}>
       <img className= {classes.service_backImg} src="https://funart.pro/uploads/posts/2022-08/thumbs/1660179943_53-funart-pro-p-sinii-fon-sport-krasivo-58.jpg" alt="service img"/> 

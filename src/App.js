@@ -16,7 +16,7 @@ import Horen from "./components/pages/horen/Horen";
 import Schreiben from "./components/pages/schreiben/Schreiben";
 import Sprechen from "./components/pages/sprechen/Sprechen";
 
-import Module from "./components/pages/lesen/Module";
+// import Module from "./components/pages/lesen/Module";
 import ModuleSchreiben from "./components/pages/schreiben/Module_schreiben";
 import ModuleSprechen from "./components/pages/sprechen/Module_sprechen";
 import ModuleHoren from "./components/pages/horen/Module_horen";
@@ -24,7 +24,7 @@ import ModuleHoren from "./components/pages/horen/Module_horen";
 import LesenTeilen from "./components/pages/lesen/lesenModule/LesenTeilen";
 
 
-import LesenModule1 from "./components/pages/lesen/lesenModule/LesenModule1";
+import LesenModule1 from "./components/pages/lesen/lesenModule/SubLesenModule1";
 
 
 
@@ -37,26 +37,32 @@ function App() {
       <Header/>
         <Routes>
 
+        {/* ** Main  */}
             <Route path='/' element={<Home/>}/>
             <Route path='login' element={<Login/>}/>
             <Route path='registration' element={<Registration/>}/>
             <Route path='schedule' element={<Schedule/>}/>
             <Route path='exams' element={<Exams/>}/>
 
-            <Route path="/lesenteilen/:id/:id" element = {<Module/> } />
-            <Route path="/module1/:id" element = {<ModuleHoren/> } />
-            <Route path="/module2/:id" element = {<ModuleSchreiben/> } />
-            <Route path="/module3/:id" element = {<ModuleSprechen/> } />
-
+         {/* ** Teil  */}
             <Route path='/lesen' element={<Lesen/>}/>
             <Route path='/horen' element={<Horen/>}/>
             <Route path='/schreiben' element={<Schreiben/>}/>
             <Route path='/sprechen' element={<Sprechen/>}/>
 
+          {/* ** Module  */}
+            {/* <Route path="/lesenteilen/:id/:id" element = {<Module/> } /> */}
+            <Route path="/module1/:id" element = {<ModuleHoren/> } />
+            <Route path="/module2/:id" element = {<ModuleSchreiben/> } />
+            <Route path="/module3/:id" element = {<ModuleSprechen/> } />
 
-            <Route path='/lesenteilen/:id' element={<LesenTeilen/>}/>
+           
 
 
+
+          {/* **  */}
+
+            <Route path='/lesenModule1/:id' element={<LesenTeilen/>}/>
 
 
             {/* ***** */}
