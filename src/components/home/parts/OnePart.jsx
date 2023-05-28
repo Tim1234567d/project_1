@@ -1,8 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import classes from "./Services.module.css";
+import classes from "./Parts.module.css";
 
-const OneService = () => {
+const OnePart = () => {
   return (
     <div>
       <Link to="/lesen">
@@ -58,4 +58,4 @@ const OneService = () => {
   );
 };
 
-export default OneService;
+export default OnePart;

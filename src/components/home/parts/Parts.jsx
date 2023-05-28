@@ -1,8 +1,8 @@
 import React from "react";
-import OneService from "./OneService";
-import classes from "./Services.module.css";
+import classes from "./Parts.module.css";
+import OnePart from "./OnePart";
 
-const Services = () => {
+const Parts = () => {
   return (
     <div className="bigWrapper">
       <section className={classes.services}>
@@ -10,7 +10,7 @@ const Services = () => {
           <h2 className={classes.services_title}>МОДУЛИ</h2>
 
           <div className={classes.service__cards}>
-            <OneService />
+            <OnePart />
           </div>
         </div>
       </section>
@@ -18,4 +18,4 @@ const Services = () => {
   );
 };
 
-export default Services;
+export default Parts;
