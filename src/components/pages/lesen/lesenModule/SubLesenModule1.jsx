@@ -1,13 +1,12 @@
 import React from "react";
-import classes from "../Lesen.module.css";
 import { Link } from "react-router-dom";
 import { Lesen_data } from "../../../../data/data.js";
 
 const SubLesenModule = () => {
   return (
     <div className="bigWrapper">
-      <section className={classes.services}>
-        <div className={classes.wrapper}>
+      <section className="services">
+        <div className="wrapper">
           <div>
             <p>
               Für das Modul Lesen haben Sie insgesamt 65 Minuten Zeit. Die
@@ -32,17 +31,17 @@ const SubLesenModule = () => {
               keine Hilfsmittel wie Wörterbücher, Mobiltelefone usw. benutzen.
             </p>
           </div>
-          <div className={classes.service__cards}>
+          <div className="service__cards">
             {Lesen_data.map((word) => (
               <Link to={`/lesenModule1/${word.id}`}>
-                <div className={classes.service__card}>
+                <div className="service__card">
                   <img
-                    className={classes.service_backImg}
+                    className="service_backImg"
                     src="https://funart.pro/uploads/posts/2022-08/thumbs/1660179943_53-funart-pro-p-sinii-fon-sport-krasivo-58.jpg"
                     alt="service img"
                   />
-                  <div className={classes.service_title_wrapper}>
-                    <h3 className={classes.service_title}>{word.title}</h3>
+                  <div className="service_title_wrapper">
+                    <h3 className="service_title">{word.title}</h3>
                   </div>
                 </div>
               </Link>
