@@ -1,7 +1,7 @@
 import React from "react";
 import classes from "../Lesen.module.css";
 import { useParams } from "react-router-dom";
-import { Lesen_data } from "../Teilen/data.js";
+import { Lesen_data } from "../../../../data/data.js";
 
 const LesenTeilen = () => {
   const { id } = useParams();
