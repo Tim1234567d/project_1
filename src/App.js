@@ -21,7 +21,7 @@ import LesenModule1 from "./components/pages/lesen/lesenModule/SubLesenModule1";
 import SchreibenModule1 from "./components/pages/schreiben/schreibenModule/SchreibenModule1";
 import SprechenModule1 from "./components/pages/sprechen/sprechenModule/SprechenModule1";
 
-//  ** module part
+//  ** module parts
 import LesenPart from "./components/pages/lesen/lesenModule/LesenPart";
 import HorenPart from "./components/pages/horen/horenModule/HorenPart";
 import SchreibenPart from "./components/pages/schreiben/schreibenModule/SchreibenPart";

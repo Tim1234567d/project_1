@@ -1,22 +1,34 @@
-.navbar {
+.header_navbar {
     background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
     height: 150px;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 1.2rem;
+
+    .navbar_logo {
+      color: #fff;
+      justify-self: start;
+      margin-left: 20px;
+      cursor: pointer;
+      text-decoration: none;
+      font-size: 2rem;
+    }
+
   }
   
-  .navbar_logo {
+  .menu_icon {
+    display: none;
+  }
+  .menu_btn {
     color: #fff;
-    justify-self: start;
-    margin-left: 20px;
-    cursor: pointer;
-    text-decoration: none;
-    font-size: 2rem;
   }
-  
-  
+  .menu_btn:before {
+    content: "\f0c9";
+}
+  .menu_btn_close {
+    display: none;
+  }
   
   .nav_menu {
     display: grid;
@@ -27,26 +39,29 @@
     width: 70vw;
     justify-content: end;
     margin-right: 2rem;
+
+      .nav_item {
+        display: flex;
+        align-items: center;
+        height: 80px;
+      }
+
   }
   
-  .nav_item {
-    display: flex;
-    align-items: center;
-    height: 80px;
-  }
   
   .nav_links {
     color: white;
     text-decoration: none;
     padding: 0.5rem 1rem;
     font-size: 22px;
+  
+      &:hover {
+        background-color: #1888ff;
+        border-radius: 4px;
+        transition: all 0.2s ease-out;
+      }
   }
   
-  .nav_links:hover {
-    background-color: #1888ff;
-    border-radius: 4px;
-    transition: all 0.2s ease-out;
-  }
 
   .whatsapp_link {
     color: white;
@@ -55,21 +70,20 @@
     font-size: 22px;
     background-color: #28a049;
     border-radius: 20px;
-  }
 
-  .whatsapp_link:hover {
-    transform: scale(1.15);
-    transition: all 0.6s;
-    background-color: #28a049;
+      &:hover {
+        transform: scale(1.15);
+        transition: all 0.6s;
+        background-color: #28a049;
+      }
+      .whatsappIcon {
+        width: 20px;
+        height: 20px; 
+      } 
+  
   }
-
-  .whatsappIcon {
-    width: 20px;
-    height: 20px; 
-  } 
-  .menu_icon {
-    display: none;
-  }
+  
+  
   .nav_btn {
     justify-self: start;
     padding: 5px;
@@ -84,15 +98,7 @@
   }
 
 
-  .fa_bars {
-    color: #fff;
-  }
-  .fa_bars:before {
-    content: "\f0c9";
-}
-  
 
-  
   @media screen and (max-width: 960px) {
     
     .nav_menu {
@@ -151,22 +157,23 @@
       padding: 2rem;
       width: 100%;
       display: table;
+      
+        &:hover {
+          background-color: #1888ff;
+          border-radius: 0;
+        }
     }
   
-    .nav_links:hover {
-      background-color: #1888ff;
-      border-radius: 0;
-    }
-
     .whatsapp_link {
       text-align: center;
       padding: 2rem;
       width: 100%;
       display: table;
-    }
-    .whatsapp_link:hover {
-      background-color: #28a049;
-      border-radius: 0;
+       
+        &:hover {
+          background-color: #28a049;
+          border-radius: 0;
+        }
     }
   
     .navbar_logo {
@@ -184,15 +191,6 @@
       transform: translate(-100%, 60%);
       font-size: 1.8rem;
       cursor: pointer;
-    }
-  
-    .fa_times {
-      color: #fff;
-      font-size: 2rem;
-    } 
-    
-    button {
-      display: none;
     }
 
     .menu_icon {

@@ -1,80 +1,78 @@
 import React from "react";
 import { useState } from "react";
-import { Link} from "react-router-dom";
-import {FaTimes} from "react-icons/fa"
+import { Link } from "react-router-dom";
+import { FaTimes } from "react-icons/fa";
 
-
-
-
-const Header = () => { 
-
+const Header = () => {
   const [click, setClick] = useState(false);
-  const [closeToggle, setCloseToggle] = useState(false)
+  const [closeToggle, setCloseToggle] = useState(false);
 
   const handleClick = () => {
     setClick(!click);
-    setCloseToggle(!click)
-  } 
+    setCloseToggle(!click);
+  };
 
   const closeMobileMenu = () => {
     setClick(false);
-    setCloseToggle(false)
-  } 
-  
-  return ( 
-    <header>
-      <nav className="navbar">
+    setCloseToggle(false);
+  };
 
-        <Link to='/' className="navbar_logo" onClick={closeMobileMenu}>
+  return (
+    <header>
+      <nav className="header_navbar">
+        <Link to="/" className="navbar_logo" onClick={closeMobileMenu}>
           logo
         </Link>
 
         <div className="menu_icon" onClick={handleClick}>
-          <i className={click ? "fa_times" : "fa_bars"}/>
+          <i className={click ? "menu_btn_close" : "menu_btn"} />
         </div>
         <ul className={click ? "nav_menu_active" : "nav_menu"}>
           <li className="nav_item">
-            <Link to='/' className="nav_links" onClick={closeMobileMenu}>
+            <Link to="/" className="nav_links" onClick={closeMobileMenu}>
               Главная
-            </Link> 
-          </li>
-         
-          <li className="nav_item" >
-            <Link
-              to='/schedule'
-              className="nav_links" 
-              onClick={closeMobileMenu}>
-              Рассписание
             </Link>
           </li>
 
           <li className="nav_item">
             <Link
-              to='/exams'
+              to="/schedule"
               className="nav_links"
-              onClick={closeMobileMenu}>
-              Даты экзаменов
-            </Link> 
+              onClick={closeMobileMenu}
+            >
+              Рассписание
+            </Link>
           </li>
-         
+
+          <li className="nav_item">
+            <Link to="/exams" className="nav_links" onClick={closeMobileMenu}>
+              Даты экзаменов
+            </Link>
+          </li>
+
           <li className="nav_item">
             <a className="whatsapp_link" href="https://wa.me/996709919582">
               <i>
-                <img src="https://www.svgrepo.com/show/176768/whatsapp-social-media.svg" className="whatsappIcon" alt="whatsappIcon" />
-              </i> Связаться с нами
+                <img
+                  src="https://www.svgrepo.com/show/176768/whatsapp-social-media.svg"
+                  className="whatsappIcon"
+                  alt="whatsappIcon"
+                />
+              </i>{" "}
+              Связаться с нами
             </a>
           </li>
-
         </ul>
 
-        <button className={closeToggle ? "nav_btn_active" : "nav_btn"}  onClick={closeMobileMenu}>
-              <FaTimes/>
-        </button>        
-  
+        <button
+          className={closeToggle ? "nav_btn_active" : "nav_btn"}
+          onClick={closeMobileMenu}
+        >
+          <FaTimes />
+        </button>
       </nav>
-      </header>
+    </header>
   );
-     
-}
+};
 
 export default Header;
