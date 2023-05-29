@@ -1,6 +1,5 @@
 import React from "react";
-import { Sprechen_data } from "../../../data/data.js";
-import OneSprechen from "./OneSprechen";
+import { Link } from "react-router-dom";
 
 const Sprechen = () => {
   return (
@@ -10,9 +9,18 @@ const Sprechen = () => {
           <h2 className="services_title">Sprechen</h2>
 
           <div className="service__cards">
-            {Sprechen_data.map((services) => (
-              <OneSprechen services={services} />
-            ))}
+            <Link to="/sprechenModule1">
+              <div className="service__card">
+                <img
+                  className="service_backImg"
+                  src="https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A="
+                  alt="service img"
+                />
+                <div className="service_title_wrapper">
+                  <h3 className="service_title">Sprechen module 1</h3>
+                </div>
+              </div>
+            </Link>
           </div>
         </div>
       </section>
