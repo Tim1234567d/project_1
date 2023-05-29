@@ -2,7 +2,7 @@ import React from "react";
 import { useParams } from "react-router-dom";
 import { Lesen_data } from "../../../../data/data.js";
 
-const LesenTeilen = () => {
+const LesenPart = () => {
   const { id } = useParams();
   return (
     <div className="bigWrapper">
@@ -22,4 +22,4 @@ const LesenTeilen = () => {
   );
 };
 
-export default LesenTeilen;
+export default LesenPart;
