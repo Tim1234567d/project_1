@@ -18,11 +18,14 @@ import Sprechen from "./components/pages/sprechen/Sprechen";
 // ** module
 import ModuleSchreiben from "./components/pages/schreiben/Module_schreiben";
 import ModuleSprechen from "./components/pages/sprechen/Module_sprechen";
-import ModuleHoren from "./components/pages/horen/Module_horen";
+// import ModuleHoren from "./components/pages/horen/Module_horen";
+
+import HorenModule1 from "./components/pages/horen/horenModule/HorenModule1";
 import LesenModule1 from "./components/pages/lesen/lesenModule/SubLesenModule1";
 
 //  ** module part
 import LesenTeilen from "./components/pages/lesen/lesenModule/LesenTeilen";
+import HorenPart from "./components/pages/horen/horenModule/HorenPart";
 
 function App() {
   return (
@@ -45,12 +48,14 @@ function App() {
         {/* ** Module  */}
         {/* <Route path="/lesenteilen/:id/:id" element = {<Module/> } /> */}
         <Route path="/lesenModule1" element={<LesenModule1 />} />
-        <Route path="/module1/:id" element={<ModuleHoren />} />
+        <Route path="horenModule1" element={<HorenModule1 />} />
+
         <Route path="/module2/:id" element={<ModuleSchreiben />} />
         <Route path="/module3/:id" element={<ModuleSprechen />} />
 
         {/* ** Module  part*/}
         <Route path="/lesenModule1/:id" element={<LesenTeilen />} />
+        <Route path="/horenModule1/:id" element={<HorenPart />} />
       </Routes>
       <Footer />
     </div>
