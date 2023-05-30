@@ -3,15 +3,15 @@ import OnePart from "./OnePart";
 
 const Parts = () => {
   return (
-    <div className="bigWrapper">
-      <section className="services">
-        <div className="wrapper">
-          <h2 className="services_title">МОДУЛИ</h2>
+    <div className="wrapper">
+      <section className="container">
+        
+          <h2 className="parts_title">МОДУЛИ</h2>
 
-          <div className="service__cards">
+          <div className="parts_items">
             <OnePart />
           </div>
-        </div>
+        
       </section>
     </div>
   );
