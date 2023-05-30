@@ -1,42 +1,31 @@
-.serviceDetail_wrapper {
-    max-width:1200px ;
-    margin: 0 auto;
-    margin-bottom: 100px;
-  }  
-    
-  
-  .serviceDetail_container {
-    max-width: 1200px;
-      display: flex;
-      justify-content: space-between;
-    }
-    
-    
-    .serviceDetail_main__info {
-      width: 60%;
-      margin: 20px 0;
-  
-    }
-    
-    .serviceDetail_photo {
+.exams_contioner {
+  max-width: 800px;
+  height: auto;
+  margin: 0 auto;
+  padding: 50px 0;
+
+    .exams_photo {
       border-radius: 15px;
       max-width: 800px;
       max-height: 500px;
       
     }
-  
-    .serviceDetail_subtitle {
+    
+    .exams_subtitle {
       margin-top: 70px;
       margin-bottom: 20px;
     }
-  
-    .serviceDetail_text {
+    
+    .exams_text {
       font-size: 20px;
       margin-bottom: 20px;
     }
-    .serviceDetail_text2 {
+    .exams_text2 {
       font-size: 20px;
     }
+
+}
+    
     
     
     
