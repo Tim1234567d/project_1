@@ -5,8 +5,8 @@ const MainImg = () => {
     <>
       <div className="mainImg_shadow">
         <div className="mainImg_wrapper">
-          <h1 className="title">КУРСЫ НЕМЕЦКОГО ЯЗЫКА УРОВНЯ B1, B2</h1>
-          <p className="subtitle">
+          <h1 className="mainImg_title">КУРСЫ НЕМЕЦКОГО ЯЗЫКА УРОВНЯ B1, B2</h1>
+          <p className="mainImg_subtitle">
             Вы остановились на уроке "B12. Lesen часть №3"
           </p>
           <div className="num_wrapper">
