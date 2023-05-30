@@ -4,7 +4,7 @@ import OnePart from "./OnePart";
 const Parts = () => {
   return (
     <div className="wrapper">
-      <section className="container">
+      <section className="parts_section">
         
           <h2 className="parts_title">МОДУЛИ</h2>
 

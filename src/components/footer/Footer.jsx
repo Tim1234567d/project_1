@@ -5,7 +5,7 @@ import SocialList from "./SocialList";
 const Footer = () => {
   return (
     <footer className="footer">
-      <div className="wrapper">
+      <div className="footer_container">
         <div className="logo">Logo</div>
 
         <SocialList />
