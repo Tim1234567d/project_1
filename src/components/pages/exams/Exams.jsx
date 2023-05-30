@@ -4,7 +4,7 @@ import { Exam_data } from "../../../data/data.js";
 const Exams = () => {
   return (
     <div className="wrapper">
-      <section className="exams_contioner">
+      <section className="exams_container">
         <img className="exams_photo" src={Exam_data.backImg} alt="nature" />
 
         <h3 className="exams_subtitle">{Exam_data.title}</h3>
