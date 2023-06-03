@@ -1,41 +1,27 @@
-  /* services style start  */
-
-  .services {
-    margin-bottom: 100px;
-  }
-
-  // .wrapper {
-  //   max-width: 1060px;
-  //     margin: 0 auto;
-  //     padding: 0 15px;
-  // }
-
-  .services_title {
-     
-    margin-bottom: 100px;
-    text-align: center;
-    border-bottom: 1px solid black;
-    line-height: 100px;
-    font-size: 30px; 
-
-  }
-    
-    .service__cards {
-      max-width: 956px;
-      display: grid;
-      flex-wrap: wrap;
-      grid-template-columns: repeat(1, 1fr);
-      grid-gap: 25px;
-      
-      
-      
-    }
+  /* Sprechen style start  */
+  .sprechen_section {
+    max-width: 1060px;
+    margin: 0 auto;
+    padding: 0 15px;
+    padding-bottom: 100px;
   
-      /* services style end  */
-
-      /* One service style start  */
-
-    .service__card {
+    .sprechen_title {    
+      margin-bottom: 100px;
+      text-align: center;
+      border-bottom: 1px solid black;
+      line-height: 100px;
+      font-size: 30px; 
+    }
+  }
+      
+  .sprechen_modules {
+    max-width: 956px;
+    display: grid;
+    flex-wrap: wrap;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 25px;   
+  
+      .sprechen_module {
         display: flex;
         flex-direction: column;
         max-width: 700px;
@@ -44,84 +30,101 @@
         justify-content: center;
         border-top-right-radius: 60px;
         border-bottom-right-radius: 60px;
-      }
+        margin-bottom: 20px;
   
-      .service__card:hover {
-        transform: scale(1.07);
-        transition: all 0.6s; 
-    }
-  
-      .service_backImg{
-        position: relative;
-        width: 100%;
-        height: 100%;
-        border-top-right-radius: 60px;
-        border-bottom-right-radius: 60px;
-      }
-      .service_title_wrapper {
-        position: absolute;
-        display: flex;
-        align-items: center;
-  
-      }
-
-      .service_title {
-        color: white;
-        margin-left: 10px;
-        font-size: 23px;
-       
-      }
-  
-      /* One service style end  */
-      
-    
-    /* service detail start  */
-    
-    .serviceDetail_wrapper {
-        max-width:1200px ;
-        margin: 0 auto;
-        margin-bottom: 100px;
-    }
-    
-    .serviceDetail_container {
-      max-width: 1200px;
-        display: flex;
-        justify-content: space-between;
-      }
-      
-      .serviceDetail_main__info {
-        width: 60%;
-        margin: 20px 0;
-    
-      }
-    
-      .serviceDetail_photo {
-        border-radius: 15px;
+        &:hover{
+          transform: scale(1.07);
+          transition: all 0.6s; 
+        }
         
-      }
-      
-      .serviceDetail_naturePhoto {
-       max-width: 100px;
-        height: 335px;
-        margin: 20px 0;
-      }
-      .serviceDetail_subtitle {
-        margin-top: 70px;
-        margin-bottom: 20px;
-      }
-    
-      .serviceDetail_text {
-        font-size: 20px;
-        margin-bottom: 20px;
-      }
-      .serviceDetail_text2 {
-        font-size: 20px;
-      }
-      
+        .sprechen_backImg{
+          position: relative;
+          width: 100%;
+          height: 100%;
+          border-top-right-radius: 60px;
+          border-bottom-right-radius: 60px;
+        }
   
-      
+        .sprechen_title_wrapper {
+          position: absolute;
+          display: flex;
+          align-items: center;
+              .sprechen_module_title {
+                color: white;
+                margin-left: 10px;
+                font-size: 23px;
+              }  
+        }
+      }
+  }
   
-    
-    
+  /* Srechen style end  */
+        
+  /* Srechen module start  */
   
-      
+  .sprechenModule_section {
+    max-width: 1060px;
+    margin: 0 auto;
+    padding: 0 15px;
+    padding-bottom: 100px;
+  
+    .sprechenModule_title {
+      padding-top: 25px;
+      padding-bottom: 25px;
+    }
+  }
+  
+  .sprechenModule_parts {
+    max-width: 956px;
+    display: grid;
+    flex-wrap: wrap;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 25px;  
+  
+    .sprechenModule_part {
+      display: flex;
+      flex-direction: column;
+      max-width: 700px;
+      height: 140px;
+      border: 1px solid black;
+      justify-content: center;
+      border-top-right-radius: 60px;
+      border-bottom-right-radius: 60px;
+      margin-bottom: 20px;
+  
+        &:hover {
+          transform: scale(1.07);
+          transition: all 0.6s; 
+        }
+  
+        .sprechenModule_backImg{
+          position: relative;
+          width: 100%;
+          height: 100%;
+          border-top-right-radius: 60px;
+          border-bottom-right-radius: 60px;
+        }
+  
+        .sprechenModule_part_title_wrapper {
+          position: absolute;
+          display: flex;
+          align-items: center;
+              .sprechenModule_parts_title {
+                color: white;
+                margin-left: 10px;
+                font-size: 23px;
+              } 
+            }
+    }
+  
+  }
+  
+  // Sprechen part style start 
+  
+  .sprechenPart_section {
+    max-width: 1060px;
+    margin: 0 auto;
+    padding: 0 15px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }  
