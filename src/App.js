@@ -17,12 +17,12 @@ import Sprechen from "./components/pages/sprechen/Sprechen";
 
 // ** module
 import HorenModule1 from "./components/pages/horen/horenModule/HorenModule1";
-import LesenModule1 from "./components/pages/lesen/lesenModule/SubLesenModule1";
+import LesenModule1 from "./components/pages/lesen/lesenModule/LesenModule1/LesenModule1";
 import SchreibenModule1 from "./components/pages/schreiben/schreibenModule/SchreibenModule1";
 import SprechenModule1 from "./components/pages/sprechen/sprechenModule/SprechenModule1";
 
 //  ** module parts
-import LesenPart from "./components/pages/lesen/lesenModule/LesenPart";
+import LesenPart from "./components/pages/lesen/lesenModule/LesenModule1/LesenPart";
 import HorenPart from "./components/pages/horen/horenModule/HorenPart";
 import SchreibenPart from "./components/pages/schreiben/schreibenModule/SchreibenPart";
 import SprechenPart from "./components/pages/sprechen/sprechenModule/SprechenPart";
