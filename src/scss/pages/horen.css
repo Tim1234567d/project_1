@@ -1,0 +1,130 @@
+/* horen style start  */
+.horen_section {
+  max-width: 1060px;
+  margin: 0 auto;
+  padding: 0 15px;
+  padding-bottom: 100px;
+}
+
+.horen_title {
+  margin-bottom: 100px;
+  text-align: center;
+  border-bottom: 1px solid black;
+  line-height: 100px;
+  font-size: 30px;
+}
+
+.horen_modules {
+  max-width: 956px;
+  display: grid;
+  flex-wrap: wrap;
+  grid-template-columns: repeat(1, 1fr);
+  grid-gap: 25px;
+}
+
+.horen_module {
+  display: flex;
+  flex-direction: column;
+  max-width: 700px;
+  height: 140px;
+  border: 1px solid black;
+  justify-content: center;
+  border-top-right-radius: 60px;
+  border-bottom-right-radius: 60px;
+  margin-bottom: 20px;
+}
+
+.horen_module:hover {
+  transform: scale(1.07);
+  transition: all 0.6s;
+}
+
+.horen_backImg {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-top-right-radius: 60px;
+  border-bottom-right-radius: 60px;
+}
+
+.horen_title_wrapper {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+
+.horen_module_title {
+  color: white;
+  margin-left: 10px;
+  font-size: 23px;
+}
+
+/* Horen style end  */
+
+/* Horen module start  */
+
+.horenModule_section {
+  max-width: 1060px;
+  margin: 0 auto;
+  padding: 0 15px;
+  padding-bottom: 100px;
+}
+
+.horenModule_title {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.horenModule_parts {
+  max-width: 956px;
+  display: grid;
+  flex-wrap: wrap;
+  grid-template-columns: repeat(1, 1fr);
+  grid-gap: 25px;
+}
+
+.horenModule_part {
+  display: flex;
+  flex-direction: column;
+  max-width: 700px;
+  height: 140px;
+  border: 1px solid black;
+  justify-content: center;
+  border-top-right-radius: 60px;
+  border-bottom-right-radius: 60px;
+  margin-bottom: 20px;
+}
+
+.horenModule_part:hover {
+  transform: scale(1.07);
+  transition: all 0.6s;
+}
+
+.horenModule_backImg {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-top-right-radius: 60px;
+  border-bottom-right-radius: 60px;
+}
+
+.horenModule_part_title_wrapper {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.horenModule_parts_title {
+  color: white;
+  margin-left: 10px;
+  font-size: 23px;
+}
+
+/* Horen part style start  */
+
+.horenPart_section {
+  max-width: 1060px;
+  margin: 0 auto;
+  padding: 0 15px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}

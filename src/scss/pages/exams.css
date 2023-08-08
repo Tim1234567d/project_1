@@ -1,0 +1,32 @@
+.exams_container {
+  max-width: 800px;
+  height: auto;
+  margin: 0 auto;
+  padding: 50px 0;   
+}
+
+.exams_photo {
+  border-radius: 15px;
+  max-width: 800px;
+  max-height: 500px;
+  
+}
+
+.exams_subtitle {
+  margin-top: 70px;
+  margin-bottom: 20px;
+}
+
+.exams_text {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.exams_text2 {
+  font-size: 20px;
+}
+
+    
+    
+    
+    
+    

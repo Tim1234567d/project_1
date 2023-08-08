@@ -1,0 +1,18 @@
+@import "./pages/header.css";
+@import "./pages/footer.css";
+
+ @import "./pages/home/mainImg.css";
+@import "./pages/home/parts.css";
+
+@import "./pages/exams.css";
+@import "./pages/horen.css";
+@import "./pages/lesen.css";
+@import "./pages/login.css";
+@import "./pages/registration.css";
+@import "./pages/schedule.css";
+@import "./pages/schreiben.css";
+@import "./pages/sprechen.css";
+
+@import "./nullstyle.css"  
+
+

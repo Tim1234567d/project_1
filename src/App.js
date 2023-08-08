@@ -51,12 +51,12 @@ function App() {
         <Route path="schreibenModule1" element={<SchreibenModule1 />} />
         <Route path="sprechenModule1" element={<SprechenModule1 />} />
 
-        {/* ** Module  parts*/}
+        {/* ** Module  parts/ */}
         <Route path="/lesenModule1/:id" element={<LesenPart />} />
         <Route path="/horenModule1/:id" element={<HorenPart />} />
         <Route path="/schreibenModule1/:id" element={<SchreibenPart />} />
         <Route path="/sprechenModule1/:id" element={<SprechenPart />} />
-      </Routes>
+      </Routes> 
       <Footer />
     </div>
   );
