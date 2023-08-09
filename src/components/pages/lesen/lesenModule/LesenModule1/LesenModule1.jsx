@@ -15,7 +15,7 @@ const LesenModule1 = () => {
             Sie jedoch, dass Sie innerhalb der 65 Minuten alle Lösungen in den
             Antwortbogen übertragen müssen.
           </p>
-
+            <br />
           <p>
             Sie können im Modul Lesen insgesamt 30 Punkte erreichen, die in 100
             Ergebnispunkte umgerechnet werden (siehe Seite 7). Zum Bestehen
