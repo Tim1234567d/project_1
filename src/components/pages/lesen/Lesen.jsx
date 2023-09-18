@@ -8,7 +8,7 @@ const Lesen = () => {
         <h2 className="lesen_title">Lesen</h2>
         <div className="lesen_modules">
           <Link to="/lesenModule1">
-            <div className="lesen_module">
+            <div className="lesen_module">  
               <img
                 className="lesen_backImg"
                 src="https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A="
@@ -23,6 +23,6 @@ const Lesen = () => {
       </section>
     </div>
   );
-};
+}; 
 
 export default Lesen;
