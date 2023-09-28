@@ -122,5 +122,9 @@
   max-width: 1060px;
   margin: 0 auto;
   padding: 0 15px;
-  padding-bottom: 100px;
+  /* padding-bottom: 100px; */
+}
+
+.part1 {
+  margin-bottom: 50px;
 }

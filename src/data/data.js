@@ -58,10 +58,9 @@ export const Lesen_data = [
     part_1: "Teil №1 lesen",
     backImg:
       "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
-    title1: "Arbeitszeit: 18 Minuten",
-    text: "Sie lesen in einem Forum, wie Menschen über ihre Wohnsituation und Wohnformen denken.",
-    text2:
-      "Auf welche der vier Personen treffen die einzelnen Aussagen zu? Die Personen können mehrmals gewählt werden.",
+    explanation_1: "Arbeitszeit: 18 Minuten",
+    explanation_1_2: "Sie lesen in einem Forum, wie Menschen über ihre Wohnsituation und Wohnformen denken.",
+    explanation_1_3: "Auf welche der vier Personen treffen die einzelnen Aussagen zu? Die Personen können mehrmals gewählt werden.",
 
     execise1: "0  Wer findet, dass die Mieten in den Städten zu hoch sind?",
     execise2: "1 Wer könnte auf Luxus beim Wohnen verzichten?",
@@ -81,8 +80,7 @@ export const Lesen_data = [
     text1:
       "Eigentlich war ich immer ein Stadtmensch. Da die Mieten für Wohnraum in den Städten immermehr steigen und gutes Wohnen bald unbezahlbar wird, haben meine Frau und ich uns entschieden, die Stadt zu verlassen. Seit einem halben Jahr leben wir auf dem Land, in einem kleinen Dorf. Und ich muss sagen, wir bereuen unsere Entscheidung nicht. Natürlich müssen wir jetzt viel mehr das Auto benutzen als früher, aber im Gegensatz zu unserer Wohnung in der Stadt gibt es jetzt keine Parkplatzprobleme mehr, wir sind nicht mehr gezwungen, stundenlang einen Parkplatz suchen zu müssen. Toll ist hier die Ruhe auf dem Land, auch wenn mich die Hektik der Stadt nicht wirklich stört, aber es ist schon angenehm, in der Natur zu leben. Ich finde, Wohnen auf dem Land kann durchaus eine Alternative zu den hohen Mietkosten in den Städten sein.",
     name2: "b Julia",
-    text2:
-      "Ich brauche Leben, ku lturel le Angebote, kurze Wege zur Arbeit. Auf dem Land zu leben, wäre nichts für mich. Für mich ist es wichtig, in der Stadt zu wohnen, im Zentrum. Was mir in unserem Haus vpr allem gefäl lt, ist der gute Kontakt zu den Nachbarn. Bei uns gibt es einen großen Hof, im Sommer grillen wir oft oder sitzen zusammen und plaudern. Vor Kurzem wurde unser Haus sa niert, es wurde außen komplett isoliert und wir bekamen neue Fenster und Türen. All das hat zu einer höheren Miete geführt. Dagegen steht aber, dass die Kosten für Strom und Gas gesunken sind. Und Umbaumaßnahmen, die die Wohnung ökologischer machen und bei denerr man auch noch Geld spa rt, finde ich sehr sinnvoll. Dafür za hle ich dann auch gern etwas mehr. Sparen kann man ja bei den Möbeln und der Einrichtung. Man muss nicht immer das Teuerste anschaffen.",
+    text2: "Ich brauche Leben, ku lturel le Angebote, kurze Wege zur Arbeit. Auf dem Land zu leben, wäre nichts für mich. Für mich ist es wichtig, in der Stadt zu wohnen, im Zentrum. Was mir in unserem Haus vpr allem gefäl lt, ist der gute Kontakt zu den Nachbarn. Bei uns gibt es einen großen Hof, im Sommer grillen wir oft oder sitzen zusammen und plaudern. Vor Kurzem wurde unser Haus sa niert, es wurde außen komplett isoliert und wir bekamen neue Fenster und Türen. All das hat zu einer höheren Miete geführt. Dagegen steht aber, dass die Kosten für Strom und Gas gesunken sind. Und Umbaumaßnahmen, die die Wohnung ökologischer machen und bei denerr man auch noch Geld spa rt, finde ich sehr sinnvoll. Dafür za hle ich dann auch gern etwas mehr. Sparen kann man ja bei den Möbeln und der Einrichtung. Man muss nicht immer das Teuerste anschaffen.",
     name3: "c Katja",
     text3:
       "Ich habe eine relativ günstige Wohnung. Trotzdem gebe ich das meiste Geld für Wohnen aus. Und das finde ich in Ordnung. Wenn ich den ganzen Tag bei der Arbeit war, brauche ich in meiner freien Zeit eine schöne Umgebung, in der ich mich wohlfühle. Und dazu gehören schöne, bequeme Möbel und schöne Farben. Ich war sogar bei einer Einrichtungsberaterin,die mir Tipps gegeben hat, wie ich meine Zimmer schön gestalten kann. Super ist auch, dass die Wohnung am Stadtrand liegt, es gibt hier kaum Verkehr. Da ich eine sehr stress ige Arbeit habe, sind in meiner Freizeit Erholung und Ruhe für mich sehr wichtig. Deswegen bin ich auch an den Stadtrand gezogen. Das Leben hier ist wirklich eine Alternative zum hektischen Stadtleben.",
@@ -173,76 +171,57 @@ export const Lesen_data = [
   {
     id: "3",
     title: "Teil №4 lesen",
+    part_4: "Teil №4 lesen",
     backImg:
       "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
-    title1: "Arbeitszeit: 18 Minuten",
-    text: "Sie lesen in einem Forum, wie Menschen über ihre Wohnsituation und Wohnformen denken.",
-    text2:
-      "Auf welche der vier Personen treffen die einzelnen Aussagen zu? Die Personen können mehrmals gewählt werden.",
+    explanation_4: "Arbeitszeit: 12 Minuten",
+    explanation_4_2: "Sie lesen in einer Zeitschrift verschiedene Meinungsäußerungen zu  einem Umweltproblem",
+    explanation_4_3: "Welche Äußerung passt zu welcher Überschrift? Eine Äußerung passt nicht. Die Äußerung a ist das Beispiel und kann nicht noch einmal verwendet werden.",
+    task_4_1:"0 Verbraucher und Industrie müssen aktiv werden",
+    task_4_2:"22 Zum Umweltschutz sollte keiner gezwungen werden",
+    task_4_3:"23 Wichtig ist, den Verbrauch einzuschränken",
+    task_4_4:"24 Wichtig ist, Umweltschutz auch über den Preis zu steuern",
+    task_4_5:"25 Neue Methoden werden sicher bei der Wiederverwertung helfen",
+    task_4_6:"26 Umweltschutz muss gelernt werden",
+    task_4_7:"27 Umdenken beim Einkauf muss nicht Verzicht bedeuten",
+    title_4: "Umweltschutz durch weniger Plastik",
 
-    execise1: "0  Wer findet, dass die Mieten in den Städten zu hoch sind?",
-    execise2: "1 Wer könnte auf Luxus beim Wohnen verzichten?",
-    execise3: "2  Wer denkt, dass Wohnen oft überbewertet wird?",
-    execise4: "3  Wer kann sich nicht vorstellen, auf dem Land zu wohnen?",
-    execise5:
-      "4  Wer hat zwar eine bezahlbare Wohnung, aber dennoch hohe Wohnkosten?",
-    execise6: "5  Für wen ist ein Stellplatz für das Auto wichtig",
-    execise7: "6  Wer interessiert sich für alternative Wohnformen?",
-    execise8:
-      "7  Für wen sind sowohl Umweltschutz als auch bezahlbare Energiekosten wichtig?",
-    execise9: "8  Wer wünscht sich unbedingt eine ruhige Wohnumgebung?",
-    execise10: "9  Wer macht sich Sorgen um seine Zukunft?",
-
-    subtitle: "Wie wir wohnen ...",
-    name1: "a Holger",
-    text1:
-      "Eigentlich war ich immer ein Stadtmensch. Da die Mieten für Wohnraum in den Städten immermehr steigen und gutes Wohnen bald unbezahlbar wird, haben meine Frau und ich uns entschieden, die Stadt zu verlassen. Seit einem halben Jahr leben wir auf dem Land, in einem kleinen Dorf. Und ich muss sagen, wir bereuen unsere Entscheidung nicht. Natürlich müssen wir jetzt viel mehr das Auto benutzen als früher, aber im Gegensatz zu unserer Wohnung in der Stadt gibt es jetzt keine Parkplatzprobleme mehr, wir sind nicht mehr gezwungen, stundenlang einen Parkplatz suchen zu müssen. Toll ist hier die Ruhe auf dem Land, auch wenn mich die Hektik der Stadt nicht wirklich stört, aber es ist schon angenehm, in der Natur zu leben. Ich finde, Wohnen auf dem Land kann durchaus eine Alternative zu den hohen Mietkosten in den Städten sein.",
-    name2: "b Julia",
-    text2:
-      "Ich brauche Leben, ku lturel le Angebote, kurze Wege zur Arbeit. Auf dem Land zu leben, wäre nichts für mich. Für mich ist es wichtig, in der Stadt zu wohnen, im Zentrum. Was mir in unserem Haus vpr allem gefäl lt, ist der gute Kontakt zu den Nachbarn. Bei uns gibt es einen großen Hof, im Sommer grillen wir oft oder sitzen zusammen und plaudern. Vor Kurzem wurde unser Haus sa niert, es wurde außen komplett isoliert und wir bekamen neue Fenster und Türen. All das hat zu einer höheren Miete geführt. Dagegen steht aber, dass die Kosten für Strom und Gas gesunken sind. Und Umbaumaßnahmen, die die Wohnung ökologischer machen und bei denerr man auch noch Geld spa rt, finde ich sehr sinnvoll. Dafür za hle ich dann auch gern etwas mehr. Sparen kann man ja bei den Möbeln und der Einrichtung. Man muss nicht immer das Teuerste anschaffen.",
-    name3: "c Katja",
-    text3:
-      "Ich habe eine relativ günstige Wohnung. Trotzdem gebe ich das meiste Geld für Wohnen aus. Und das finde ich in Ordnung. Wenn ich den ganzen Tag bei der Arbeit war, brauche ich in meiner freien Zeit eine schöne Umgebung, in der ich mich wohlfühle. Und dazu gehören schöne, bequeme Möbel und schöne Farben. Ich war sogar bei einer Einrichtungsberaterin,die mir Tipps gegeben hat, wie ich meine Zimmer schön gestalten kann. Super ist auch, dass die Wohnung am Stadtrand liegt, es gibt hier kaum Verkehr. Da ich eine sehr stress ige Arbeit habe, sind in meiner Freizeit Erholung und Ruhe für mich sehr wichtig. Deswegen bin ich auch an den Stadtrand gezogen. Das Leben hier ist wirklich eine Alternative zum hektischen Stadtleben.",
-    name4: "d Ricardo",
-    text4:
-      "Ich werde bald 65 und möchte ich mich über Wohnprojekte im Alter informieren oder über Mehrgenerationenhäuser. Denn am wichtigsten ist für mich der Kontakt zu den Mitmenschen im Haus. Und im Alter all eine zu sein, das macht mir Angst. Wohnen war für mich nie so wichtig, aber jetzt im Alter wird sich das für mich ändern. Nach wie vor bin ich aber der Meinung, dass in Deutschland Wohnen eine zu große Ro lle spielt. Es gibt so viele Zeitschriften mit Einrichtungstipps, immer so ll man neue teure Möbel kaufen, auf die neuesten Einrichtungstrends achten. Etwas Luxus brauche auch ich, aber man muss es ja nicht übertreiben.Vi elleicht wird in Deutschland für Wohnen so viel Geld ausgegeben, weil aufgrund des sch lechten Wetters die Leute hier sehr viel zu Hause sind. In meiner alten Heimat, Spanien, war Wohnen natürlich auch wichtig, aber man traf sich nicht so oft in der Wohnung,sondern draußen, auf der Straße, in Cafes.",
+    text_4: "a) Eigentlich braucht man ein komplettes Verbot von Plastikverpackungen. Der Verbrauch von Plastiktüten nimmt aufgrund neuer Gesetze bereits ab - das ist sinnvoll, aber das reicht nicht. Auch die Hersteller müssen hier in die Pflicht genommen werden. Sonst ändert sich nicht wirklich etwas. Patrick, Münster",
+    text_4_2: "b) Wir Verbraucher haben es in der Hand. Wenn wir kein Plastik mehr verwenden, wird auch keines mehr hergestellt. Die Entwicklung eines ökologischen Bewusstseins beginnt in der Schule Schulprojekte, die in diese Richtung gehen, müssen unbedingt gefördert werden. Andrea, Göttingen",
+    text_4_3: "c) Man darf nicht vergessen, dass es neben Plastik auch noch andere Probleme gibt. Wenn es zum Beispiel keine Plastikverpackungen mehr gibt, benötigt man anderes Verp~ ckungsmaterial. Und für Papier muss man Bäume fällen, das ist auch nicht gerade umweltfreundlich. Das Hauptproblem ist nicht die Verpackung, sondern unser Konsum.",
+    text_4_4: "d) Wir wissen - denke ich - inzwischen alle, dass Plastik schädlich für die Umwelt ist. Hier hat bei den Verbrauchern schon ein Umdenken stattgefunden. Bei den Herstellern geht das lang samer, auf der anderen Seite ist Recycling aber auch schon ein riesiger Industriezweig geworden. Es ist halt immer dasse lbe: Alles muss sich lohnen, auch der Umweltschutz.",
+    text_4_5: "e) Wenn nicht mehr passiert, wird es in 30 Jahren in den Meeren mehr Plastik als Fische geben. Zum Glück arbeitet man an Techniken, diesen Plastikmüll aus den Meeren zu entfernen. Riesige Anlagen sind geplant, um ihn zu recyceln und erneut als Rohstoff zu verkaufen. Auch wenn das noch Zukunftsmusik ist: An dieser Entwicklung wird kein Weg vorbeigehen.",
+    text_4_6: "f) Es hat sich schon einiges getan: Der Verbrauch von Plastiktüten ist beträchtlich zurückgegangen. Ich denke aber weniger, dass das daran liegt, dass diese heute in der Regel nicht mehr kostenlos ausgegeben werden. Aber wen schreckt eine Gebühr von 10 bis 20 Cent pro Tüte denn wirklich ab? Das sollte viel teurer sein.",
+    text_4_7: "g) Kaum jemand will beim Einkaufen immer ein schlechtes Gewissen haben. Reduktion von Plastikverpackungen ist natürlich wichtig, aber auf freiwilliger Basis. Verbote gibt es schon genug, und sie funktionieren nicht. Vor allem, wer so ll das kontrollieren?",
+    text_4_8: "h) Wichtig ist, dass wir Konsumenten aktiv werden. Inzwischen gibt es an vielen Orten Unverpackt-Läden, die alle Sachen ohne Verpackung verkaufen. Der Kunde bringt seine eigenen Behälter mit. Oder man kann sich Behälter ausleihen. An diesen Projekten kann man sehen, dass es nicht darum geht, weniger zu konsumieren, sondern anders.",
   },
   {
     id: "4",
     title: "Teil №5 lesen",
+    part_5: "Teil №5 lesen",
     backImg:
       "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
-    title1: "Arbeitszeit: 18 Minuten",
-    text: "Sie lesen in einem Forum, wie Menschen über ihre Wohnsituation und Wohnformen denken.",
-    text2:
-      "Auf welche der vier Personen treffen die einzelnen Aussagen zu? Die Personen können mehrmals gewählt werden.",
+      explanation_5: "Arbeitszeit: 6 Minuten",
+      explanation_5_2: "Sie interessieren sich für die Angebote der Stadtbibliothek und lesen die Nutzungsbedingungen.",
+      explanation_5_3: "Welche der Überschriften aus dem Inhaltsverzeichnis passen zu den Paragraphen? Vier Überschriften werden nicht gebraucht.",
 
-    execise1: "0  Wer findet, dass die Mieten in den Städten zu hoch sind?",
-    execise2: "1 Wer könnte auf Luxus beim Wohnen verzichten?",
-    execise3: "2  Wer denkt, dass Wohnen oft überbewertet wird?",
-    execise4: "3  Wer kann sich nicht vorstellen, auf dem Land zu wohnen?",
-    execise5:
-      "4  Wer hat zwar eine bezahlbare Wohnung, aber dennoch hohe Wohnkosten?",
-    execise6: "5  Für wen ist ein Stellplatz für das Auto wichtig",
-    execise7: "6  Wer interessiert sich für alternative Wohnformen?",
-    execise8:
-      "7  Für wen sind sowohl Umweltschutz als auch bezahlbare Energiekosten wichtig?",
-    execise9: "8  Wer wünscht sich unbedingt eine ruhige Wohnumgebung?",
-    execise10: "9  Wer macht sich Sorgen um seine Zukunft?",
+      title_5: "STADTBIBLIOTHEK",
+      subtitle_5:"Nutzungsbedingungen",
 
-    subtitle: "Wie wir wohnen ...",
-    name1: "a Holger",
-    text1:
-      "Eigentlich war ich immer ein Stadtmensch. Da die Mieten für Wohnraum in den Städten immermehr steigen und gutes Wohnen bald unbezahlbar wird, haben meine Frau und ich uns entschieden, die Stadt zu verlassen. Seit einem halben Jahr leben wir auf dem Land, in einem kleinen Dorf. Und ich muss sagen, wir bereuen unsere Entscheidung nicht. Natürlich müssen wir jetzt viel mehr das Auto benutzen als früher, aber im Gegensatz zu unserer Wohnung in der Stadt gibt es jetzt keine Parkplatzprobleme mehr, wir sind nicht mehr gezwungen, stundenlang einen Parkplatz suchen zu müssen. Toll ist hier die Ruhe auf dem Land, auch wenn mich die Hektik der Stadt nicht wirklich stört, aber es ist schon angenehm, in der Natur zu leben. Ich finde, Wohnen auf dem Land kann durchaus eine Alternative zu den hohen Mietkosten in den Städten sein.",
-    name2: "b Julia",
-    text2:
-      "Ich brauche Leben, ku lturel le Angebote, kurze Wege zur Arbeit. Auf dem Land zu leben, wäre nichts für mich. Für mich ist es wichtig, in der Stadt zu wohnen, im Zentrum. Was mir in unserem Haus vpr allem gefäl lt, ist der gute Kontakt zu den Nachbarn. Bei uns gibt es einen großen Hof, im Sommer grillen wir oft oder sitzen zusammen und plaudern. Vor Kurzem wurde unser Haus sa niert, es wurde außen komplett isoliert und wir bekamen neue Fenster und Türen. All das hat zu einer höheren Miete geführt. Dagegen steht aber, dass die Kosten für Strom und Gas gesunken sind. Und Umbaumaßnahmen, die die Wohnung ökologischer machen und bei denerr man auch noch Geld spa rt, finde ich sehr sinnvoll. Dafür za hle ich dann auch gern etwas mehr. Sparen kann man ja bei den Möbeln und der Einrichtung. Man muss nicht immer das Teuerste anschaffen.",
-    name3: "c Katja",
-    text3:
-      "Ich habe eine relativ günstige Wohnung. Trotzdem gebe ich das meiste Geld für Wohnen aus. Und das finde ich in Ordnung. Wenn ich den ganzen Tag bei der Arbeit war, brauche ich in meiner freien Zeit eine schöne Umgebung, in der ich mich wohlfühle. Und dazu gehören schöne, bequeme Möbel und schöne Farben. Ich war sogar bei einer Einrichtungsberaterin,die mir Tipps gegeben hat, wie ich meine Zimmer schön gestalten kann. Super ist auch, dass die Wohnung am Stadtrand liegt, es gibt hier kaum Verkehr. Da ich eine sehr stress ige Arbeit habe, sind in meiner Freizeit Erholung und Ruhe für mich sehr wichtig. Deswegen bin ich auch an den Stadtrand gezogen. Das Leben hier ist wirklich eine Alternative zum hektischen Stadtleben.",
-    name4: "d Ricardo",
-    text4:
-      "Ich werde bald 65 und möchte ich mich über Wohnprojekte im Alter informieren oder über Mehrgenerationenhäuser. Denn am wichtigsten ist für mich der Kontakt zu den Mitmenschen im Haus. Und im Alter all eine zu sein, das macht mir Angst. Wohnen war für mich nie so wichtig, aber jetzt im Alter wird sich das für mich ändern. Nach wie vor bin ich aber der Meinung, dass in Deutschland Wohnen eine zu große Ro lle spielt. Es gibt so viele Zeitschriften mit Einrichtungstipps, immer so ll man neue teure Möbel kaufen, auf die neuesten Einrichtungstrends achten. Etwas Luxus brauche auch ich, aber man muss es ja nicht übertreiben.Vi elleicht wird in Deutschland für Wohnen so viel Geld ausgegeben, weil aufgrund des sch lechten Wetters die Leute hier sehr viel zu Hause sind. In meiner alten Heimat, Spanien, war Wohnen natürlich auch wichtig, aber man traf sich nicht so oft in der Wohnung,sondern draußen, auf der Straße, in Cafes.",
+      task_5_1:"a Angebote für Kinder und Jugendliche",
+      task_5_2:"b Downloadbereich",
+      task_5_3:"c Öffnungszeiten der Bibl iothek",
+      task_5_4:"d Gebünren",
+      task_5_5:"e Veranstaltungen",
+      task_5_6:"f Medienforum",
+      task_5_7:"g Ausleihfristen",
+      task_5_8:"h Verhaltensregeln",
+
+      text_5_1: "Für die Benutzung der Einrichtungen der Stadtbibliothek und das Ausleihen von Medien benötigt man einen Leseausweis, der 20,00 € pro Jahr kostet. Studenten zahlen einen ermäßigten Beitrag, Kinder und Jugendliche unter 18 Jahren können die Angebote der Bibliothek kostenlos benutzen.",
+      text_5_2: "Bücher dürfen vier Wochen, CDs und DVDs 14 Tage mit nach Hause genommen werden. Dieser Zeitraum kann verlängert werden, wenn das betreffende Medium (Buch, CD, DVD) nicht von einem anderen Nutzer vorbeste llt ist. Bestimmte Medien (Ze itungen, Zeitschriften, Nachschlagewerke) dürfen die Bibliothek nicht verlassen.",
+      text_5_3: "Es ist nicht erlaubt, Taschen und Ähnl iches in die Bibliotheksräume mitzunehmen. Bitte benutzen Sie die Schließfächer am Haupteingang. An der Information können Sie für 1 Euro Tragetaschen erwerben, die in die Bücherei mitgenommen werden dürfen. In der Bücherei ist Es)en und Trinken streng verboten. Im zweiten Stock steht Ihnen wochentags und samstags von 9 bis 18 Uhr eine Cafete ria zur Verfügung.",
+      text_5_4: "Die Stadtbücherei bietet Ihnen sowohl im Haus wie auch on line von zu Hause aus zah lre iche digitale Angebote zum Recherchieren, Arbeiten oder einfach,um sich zu informieren. Sie können auch elektronische Medien (E-Books, E-Video, E-Music) 14 Tage auf Ihren Computer herunterladen. Hierfür benötigen Sie ein Passwort, das Sie mit Ihrem Leseausweis erhalten.",
+   
   },
 ];
 

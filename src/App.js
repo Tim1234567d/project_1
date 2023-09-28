@@ -17,12 +17,19 @@ import Sprechen from "./components/pages/sprechen/Sprechen";
 
 // ** module
 import HorenModule1 from "./components/pages/horen/horenModule/horenModule1/HorenModule1";
-import LesenModule1 from "./components/pages/lesen/lesenModule/LesenModule1/LesenModule1";
+// import LesenModule1 from "./components/pages/lesen/lesenModule/LesenModule1/LesenModule1";
+import LesenModule1 from "./components/pages/lesen/lesenModule1/LesenModule1";
 import SchreibenModule1 from "./components/pages/schreiben/schreibenModule/SchreibenModule1/SchreibenModule1";
 import SprechenModule1 from "./components/pages/sprechen/sprechenModule/SprechenModule1/SprechenModule1";
 
+//  ** module parts lesen
+import LesenPart1_1 from "./components/pages/lesen/lesenModule1/lesenParts/LesenPart1_1";
+import LesenPart1_2 from "./components/pages/lesen/lesenModule1/lesenParts/LesenPart1_2";
+import LesenPart1_3 from "./components/pages/lesen/lesenModule1/lesenParts/LesenPart1_3";
+import LesenPart1_4 from "./components/pages/lesen/lesenModule1/lesenParts/LesenPart1_4";
+import LesenPart1_5 from "./components/pages/lesen/lesenModule1/lesenParts/LesenPart1_5";
+
 //  ** module parts
-import LesenPart from "./components/pages/lesen/lesenModule/LesenModule1/LesenPart";
 import HorenPart from "./components/pages/horen/horenModule/horenModule1/HorenPart";
 import SchreibenPart from "./components/pages/schreiben/schreibenModule/SchreibenModule1/SchreibenPart";
 import SprechenPart from "./components/pages/sprechen/sprechenModule/SprechenModule1/SprechenPart";
@@ -51,8 +58,14 @@ function App() {
         <Route path="schreibenModule1" element={<SchreibenModule1 />} />
         <Route path="sprechenModule1" element={<SprechenModule1 />} />
 
-        {/* ** Module  parts/ */}
-        <Route path="/lesenModule1/:id" element={<LesenPart />} />
+        {/* ** Module  parts lesen */}
+        <Route path="/lesenModule1/lesenPart1_1" element={<LesenPart1_1 />} />
+        <Route path="/lesenModule1/lesenPart1_2" element={<LesenPart1_2 />} />
+        <Route path="/lesenModule1/lesenPart1_3" element={<LesenPart1_3 />} />
+        <Route path="/lesenModule1/lesenPart1_4" element={<LesenPart1_4 />} />
+        <Route path="/lesenModule1/lesenPart1_5" element={<LesenPart1_5 />} />
+
+         {/* ** Module  parts  */}
         <Route path="/horenModule1/:id" element={<HorenPart />} />
         <Route path="/schreibenModule1/:id" element={<SchreibenPart />} />
         <Route path="/sprechenModule1/:id" element={<SprechenPart />} />
