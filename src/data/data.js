@@ -51,7 +51,7 @@ export const Exam_data = {
   task14: "-Помоем полы , плинтусы",
 };
 
-export const Lesen_data = [
+export const Lesen_data_moduleOne = [
   {
     id: "0",
     title: "Teil №1 lesen",
