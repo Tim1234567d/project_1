@@ -1,14 +1,14 @@
 import React from "react";
-import { Lesen_data_moduleOne } from "../../../../../data/data.js";
+import { Lesen_data_moduleTwo } from "../../../../../data/data.js";
 
-const LesenPart2_1= () => {
+const LesenPart2_1 = () => { 
   return (
     <div className="wrapper">
       <section className="lesenPart_section">
-        {Lesen_data_moduleOne.map((hey) => (
-          <div>  
+        {Lesen_data_moduleTwo.map((hey) => (
+          <div>
             <h3 className="part1">{hey.part_1}</h3>
-            <p>{hey.explanation_1}</p> 
+            <p>{hey.explanation_1}</p>
             <p>{hey.explanation_1_2}</p>
             <p className="part1">{hey.explanation_1_3}</p>
             <p>{hey.execise1}</p>
@@ -21,7 +21,7 @@ const LesenPart2_1= () => {
             <p>{hey.execise8}</p>
             <p>{hey.execise9}</p>
             <p className="part1">{hey.execise10}</p>
-       
+
             <h3>{hey.subtitle}</h3>
             <p>{hey.name1}</p>
             <p className="part1">{hey.text1}</p>
@@ -31,7 +31,6 @@ const LesenPart2_1= () => {
             <p className="part1">{hey.text3}</p>
             <p>{hey.name4}</p>
             <p>{hey.text4}</p>
-
           </div>
         ))}
       </section>

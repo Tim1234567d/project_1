@@ -1,11 +1,11 @@
 import React from "react";
-import { Lesen_data_moduleOne } from "../../../../../data/data.js";
+import { Lesen_data_moduleTwo } from "../../../../../data/data.js";
 
 const LesenPart2_4 = () => {
   return (
     <div className="wrapper">
       <section className="lesenPart_section">
-        {Lesen_data_moduleOne.map((hey) => (
+        {Lesen_data_moduleTwo.map((hey) => (
           <div>
             <h3 className="part1">{hey.part_4}</h3>
             <p className="part1">{hey.explanation_4}</p>

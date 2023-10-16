@@ -224,6 +224,177 @@ export const Lesen_data_moduleOne = [
    
   },
 ];
+export const Lesen_data_moduleTwo = [
+  {
+    id: "0",
+    title: "Teil №1 lesen",
+    part_1: "Teil №1 lesen",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+    explanation_1: "Arbeitszeit: 18 Minuten",
+    explanation_1_2: "Sie lesen in einem Forum, wie Menschen über ihre Wohnsituation und Wohnformen denken.",
+    explanation_1_3: "Auf welche der vier Personen treffen die einzelnen Aussagen zu? Die Personen können mehrmals gewählt werden.",
+
+    execise1: "0  Wer macht in seiner freien Zeit sehr gerne gar nichts?",
+    execise2: "1 Wer hat sein Freizeitverhalten verändert?",
+    execise3: "2 Wer hat wenige Probleme mit Freizeitstress?",
+    execise4: "3 Wer vermisst eine klare Definition, was Freizeit eigentlich ist?",
+    execise5: "4  Wer kann sich ein längeres Nichtstun nicht vorstellen?",
+    execise6: "5  Wen stört das kommerzielle Interesse der Freizeitindustrie?",
+    execise7: "6  Für wen kann Nichtstun auch ein Mittel zur Heilung bedeuten?",
+    execise8:"7 Für wen ist die Menge der arbeitsfreien Stunden nicht entscheidend?",
+    execise9: "8  Für wen ist eine Analyse des Freizeitverha ltens wichtig?",
+    execise10: "9  Wer denkt, dass viele Menschen nicht mehr in der Lage sind, ihre Freizeit autonom zu gestalten?",
+
+    subtitle: "Freizeit und Freizeitverhalten",
+    name1: "a Jens",
+    text1:
+      "Für mich ist Freizeit sehr wichtig. Wahrscheinlich wie für jeden. Das Problem bei vielen Debatten über Freizeit ist ja, dass jeder oft etwas anderes darunter versteht. Für die meisten bedeutet Freizeit arbeitsfrei, also frei haben vom Beruf. Aber greift diese Umschreibung nicht zu kurz? Wenn ich zum Beispiel von der Arbeit frei habe, bedeutet das nicht, dass ich in meiner arbeitsfreien Zeit keine anderen Verpflichtungen hätte, und damit meine ich nicht nur die Hausarbeit, sondern auch feststehende Term ine für Hobbys, Sport, Treffen mit Freunden. Für mich bedeutet Freizeit die Anzahl der wirklich freien Stunden, die einem zur Verfügung stehen. Stunden, in denen man sich nichts vornimmt. Ich bleibe zum Beispiel am liebsten in meinen vier Wänden, ohne mir etwas vorzunehmen, auch wenn viele meiner Freunde das überhaupt nicht verstehen. Sie denken, ich würde meine Freizeit verschlafen. Na und?",
+    name2: "b lvanka",
+    text2: "Die Diskussionen über Freizeit und Freizeitgestaltung sind schon sehr sinnvol l, denn sie können dazu führen, über das eigene Leben nachzudenken. Freizeit bedeutet für mich der Zeitraum, in dem ~ ch selbst über mein Leben bestimmen kann, im Gegensatz zur Erwerbsarbeit, die fremd bestimmt ist. Dabei spielt es für mich keine Rolle, ob ich in meiner Freizeit wirklich viel freie Zeit habe oder nicht, entscheidend ist, dass ich ohne Einflüsse von außen meinen Interessen nachgehen kann. Das ist zwar eine etwas idealtypische Vorstellung in einer Zeit, in der der gesamte Freizeitbereich immer mehr vermarktet wird und ein organisiertes Event das andere'jagt, aber ich kann einfach nicht verstehen, wie man Einkaufen - verbunden mit irgendwelchen Events in Einkaufszentren - als Freizeitspaß verkaufen kann. Ich finde diese Veranstaltungen nervend, außerdem wird einem das Geld aus der Tasche gezogen. Nicht mit mir! Vielleicht hat man einfach nur verlernt, ohne Einflüsse von außen seine freie Zeit zu verbringen.",
+    name3: "c Manuel",
+    text3:
+      "Der Duden bezeichnet Freizeit als Zeit, in der man nicht arbeiten muss, keine besonderen Verpflichtungen hat. Es folgen dann Wortzusammensetzungen wie Freizeitangebot, Freizeitindustrie, Freizeitvergnügen, aber auch Freizeitstress. Und da wären wir beim Punkt. Aus Angst, etwas zu versäumen - hat man doch schon die meiste Zeit seines Lebens für die Berufsarbeit geopfert - entwickeln wir allzu sch nell ein ausgedehntes Freizeitprogramm, Aktivitäten von früh bis spät, Sport, Kino, Konzerte, Kurzreisen. Ich habe längere Zeit mit dieser Art von Freizeitstress gelebt. Aber eigentlich habe ich nichts anderes getan, als meine Freizeit genauso wie meinen Beruf zu managen. Irgendwann konnte ich vor Erschöpfung nicht mehr arbeiten und funktionieren und bekam schwere Herz- und Kreislaufprobleme. Heute lerne ich die Wichtigkeit von Phasen wirklicher Ruhe und Nichtstun zu schätzen. Das ist nicht einfach,aber es gelingt mir immer besser.",
+    name4: "d Lena",
+    text4:
+      "Für mich bedeutet Freizeit natürlich die freien Stunden, die ich habe. Auch wenn diese freien Stunden durch Aktivitäten voll ausgefüllt sind, bleibt das für mich Freizeit. Wichtig ist, dass ich mich wohlfühle bei dem, was ich tue, auch wenn das manchmal stressig ist. Und ich führe seit Kurzem ein Freizeittagebuch. Klingt etwas seltsam, aber hat seinen Sinn. Da schreibe ich auf, welchen Aktivitäten ich nachgegangen bin, aber auch, worauf ich verzichtet habe und was ich gerne hätte machen wollen. Mit wem habe ich etwas unternommen, wen habe ich versäumt zu treffen? Und so weiter. Und auch, was hat mir keinen Spaß gemacht, was hat nicht gut funktioniert? So kann ich mein Freizeitprogramm immer verbessern. Klar kann ich auch mal ein paar Tage nichts tun und am Strand liegen. Nach einiger Zeit langweilt mich das aber. Ich brauche Sport und Aktivitäten, um mich wohlzufühlen.",
+  },
+  {
+    id: "1",
+    title: "Teil №2 lesen",
+    part_2: "Teil №2 lesen",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+    explanation_2: "Arbeitszeit: 12 Minuten",
+    explanation_2_1: "Sie lesen in einer Zeitschrift einen Artikel über die Geschichte des Fahrrads. Welche Sätze passen in die Lücken? Zwei Sätze passen nicht.",
+    title_2: "Lesen: Sind elektronische Bücher die Zukunft?",
+    // subtitle_2: "Eine Reise in die Vergangenheit und Zukunft",
+    text_2:
+      "Der italienische Schriftsteller Umberto Eco, Autor der weltbekannten Romane «Im Namen der Rose» und «Das Foucaultsche Pendel» hat sie gefürchtet, die elektronischen Lesegeräte .. 0 .. «Wir müssen nicht nur die Waldelefanten, die Orang-Utans und die Bären in den Abruzzen retten, sondern auch die Bücher.»",
+      text_2_2: "Selbst wenn das viele so sehen, trauern längst nicht alle um das Buch .. 10 .. «Das Medium ist linear, langsam, unflexibel, ja fast etwas primitiv.» Dennoch habe sich das Buch mehr als 1600 Jahre als eine handliche und übersichtliche Informationsquelle bewährt, sodass es frberdauern werde, hält der aus Argentinien stammende Schriftsteller und Bücherliebhaber Alberto Manguel dagegen. Auch sei die dreidimensionale Form zu loben, die es möglich mache, gleichzeitig mit Augen und Händen zu navigieren - ein großer Vorteil gegenüber der elektronischen Konkurrenz .",
+      text_2_3: "..11.. Ein Argument ist, dass es dem veränderten Leseverhalten der Menschen entgegenkomme. Texte werden immer mehr an Bildschirmen gelesen, wie eine Studie der «Stiftung Lesen» zeigt.",
+      text_2_4: "Auch wenn die ersten E-Book-Lesegeräte zunächst unhandlich waren, so ermöglichen sie mittlerweile die lesefreundliche Ansicht ganzer Seiten. ..12.. So gibt es mittlerweile auch eine Kombination aus Texten, Tönen und bewegten Bildern. Und auch die anfangs technischen Probleme - eine geringe Akkulaufzeit und eine schlechte Displayqualität, spielen heute kaum noch eine Rolle. Die Mediengeneration von heute, die mit dem Computer aufwächst, wird vermutlich das Interesse am Buch verlieren. ..13..",
+      text_2_5: "Nachschlagewerke und Fachbücher haben schnell ihren Weg in das E-Book gefunden, das trifft auch auf viele andere Textsorten zu. ..14 .. Denn bei ihrer Lektüre will man so tief in das Buch eintauchen, dass man dazu ein passendes Umfeld braucht, zum Beispiel das Bett oder die Parkbank. Vielleicht verspürt man auch Lust auf Eselsohren, Lust auf den Geruch gedruckten Papiers. Hier wird daher - so glauben viele Experten - das Buch weiter punkten. ..15.. Und dieser hält sich bei den elektronischen Lesegeräten in Grenzen. Folglich lässt sich sagen: Das Buch ist tot, lang lebe das Buch!",
+      // text_2_6: "Und die Zukunft des Fahrrads? Man ist sich ziemlich sicher, dass aus dem Fahrrad ein Smart-Bike werden wird: ein Fahrrad, das mit einem Navigationssystem versehen und durch Apps mit zahlreichen Funktionen vernetzt ist. ... 15 ... Nicht nur für Fahrräder, auch für E-Bikes.",
+    task_2:"0 Und er zählte das traditionelle Buch zu den bedrohten Arten.",
+    task_2_2:"a Trendforscher Matthias Horx meint, dass das Buch altmodisch sei.",
+    task_2_3:"b Und was spricht für das E-Book?",
+    task_2_4:"c Aus diesem Grund gibt es immer noch Vorbehalte gegen das digitale Buch.",
+    task_2_5:"d Das ist infolge dieser Entwicklung nachvollziehbar.",
+    task_2_6:"e Dennoch hat sich das Leseverhalten geändert.",
+    task_2_7:"f Außerdem sind neue Produkte auf den Markt gekommen.",
+    task_2_8:"g Denn der emotionale Effekt spielt hier die entscheidende Rolle.",
+    task_2_9:"h Alle rdings ist diese Entwicklung bei Produkten der schönen Literatur nicht so eindeutig.",
+  },
+  {
+    id: "2",
+    title: "Teil №3 lesen",
+    part_3: "Teil №3 lesen",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+    explanation_3: "Arbeitszeit: 12 Minuten",
+    explanation_3_2: "Sie lesen in einer Zeitung einen Artikel über eine neue Wohnform.",
+    explanation_3_3: "Wäh len Sie bei jeder Aufgabe die richtige Lösung.",
+      title_3: "Berliner Architekt baut 100-Euro-Behausungen",
+      text_3: "Eine Wohnung mit Küche, Bad, Bett, Schreibtisch und Sessel, das Ganze passt auf 6,4 Quadratmeter und kostet 100 Euro Miete? Der Berliner Architekt Van Bo Le-Mentzel will mit diesem Raumwunder etwas gegen die steigenden Wohnungspreise und den immer knapperen Wohnraum in Großstädten bewirken. Van Bo Le-Mentzel kam 1979 mit seinen Eltern aus Laos nach Berlin und studierte dort Architektur.",
+      text_3_2: "Zwei Meter ist die Musterwohnung breit, 3,20 Meter lang und verfügt über altbautaugliche 3,60 Meter Deckenhöhe. Das Bett kann als eine Art zweite Etage eingerichtet werden kann. Für Le-Mentzel kommen hier ganz große Strömungen der Gestaltung zusammen. «Die Effizienz der Raumorganisation kommt vom Bauhaus und die Ästhetik der Proportionen aus dem Barock.»",
+      text_3_3: "Derzeit steht die Mini-Wohnung auf einem Anhänger im Berliner Stadtteil Kreuzberg. Interessierte können sich hier umgucken und zur Probe übernachten. Unter den ersten Besuchern gibt es gleich ein paar Anfragen. Auch Rebekka, 34 Jahre, die gerade ihr Hausboot verkauft hat und in eine SO-Quadratmeter- Wohnung gezogen ist, kann sich vorstellen, in der Mini-Wohnung zu leben. «Es ist schön funktional, ich bin eh sehr minimalistisch.»",
+      text_3_4: "Hinter dem Projekt steht die Tinyhouse-Bewegung, die in den USA schon länger aktiv ist und mit platzsparenden Wohnmöglichkeiten experimentiert. Le-Mentzels Wohneinheiten könnten in einem Komplex auf- und nebeneinander gebaut werden, wie es eben passt - so die Vision. In den Wohnkomplexen soll es zudem große Gemeinschaftsräume geben. Diesen Raum könnten die Mieter gemeinsam gestalten. Der Unterschied zu einer WG: Jeder Mieter hat ein eigenes Bad und eine eigene Küche.",
+      text_3_5: "«Wenn es in jeder Stadt 100-Euro-Wohnungen gäbe, würde das unseren Wohlfahrtstaat und die Flüchtlingspolitik verändern», heißt es in einer Mitteilung der Tinyhouse University, eines von Le Mentzel gegründeten Kollektivs von Architekten, Menschen aus dem Bildungssektor und Geflüchteten. «Man bräuchte so keine Flüchtlings- und Obdachlosenheime mehr.» Ob man die Zielgruppe so weit fassen kann? «Ich könnte mir das nicht vorstellen», sagt ein 42-jähriger Besucher, der sich die Kreuzberger Wohnbox anschaut. «Es wäre mir einfach zu eng, ich kann mich ja kaum bewegen.»", 
+      text_3_6: "Bei der Stadt sieht man das Projekt eher skeptisch. «Ob sich Menschen, die einen dauerhaften Wohnsitz suchen, wirklich für einen 6,4 Quadratmeter großen Wohnwürfel entscheiden, bleibt abzuwarten», sagt Sprecherin Petra Rohland. Für Menschen, die sehr einfache Wohnformen bevorzugen, sei es vielleicht eine Alternative, aber eine dauerhafte Lösung des Wohnungsproblems sei es nicht. «Wohnen hat auch immer etwas mit Städtebau zu tun und diese Form in das Berliner Stadtbild zu integrieren, würde schwer fallen.»",
+      text_3_7: "Auch darf man nicht vergessen, dass es bürokratische Hindernisse gegen diese neue Wohnform geben wird. Ist diese Wohnform überhaupt mit dem Baurecht vereinbar? Bekommt man problemlos von der jeweiligen Baubehörde eine Genehmigung zum Bau dieser Wohnungen? Und wie verhält es sich mit Wasser, Gas, Kanalisation usw.? Auch wenn man sich mit einem Anhänger irgendwo hinstellen will - um so wohnen zu können, muss vieles geklärt werden.",
+      task_3_1:"0 Das Konzept der kleinen Wohnungen ...",
+      task_3_1_1:"a ist eine Antwort auf die zunehmende Wohnungsnot.  X",
+      task_3_1_2:"b stammt ursprünglich aus Laos.",
+      task_3_1_3:"c zielt auf die Entwicklung neuer Möbel.",
+
+      task_3_2:"16 Kennzeichen der Wohnungen ist, dass ...",
+      task_3_2_1:"a hier verschiedene Baustile kombiniert werden.",
+      task_3_2_2:"b sie mehrere Stockwerke haben.",
+      task_3_2_3:"c sie wie Altbauwohnungen aussehen.",
+
+      task_3_3:"17 Seine Musterwohnung ...",
+      task_3_3_1:"a kann auch auf dem Wаsser stehen.",
+      task_3_3_2:"b wird bereits als Hotel benutzt.",
+      task_3_3_3:"c stößt bereits auf öffentliches Interesse.",
+
+      task_3_4:"18 Was ist das Besondere an den Mtni-Wohnungen?",
+      task_3_4_1:"a Man kann sie flexibel anordnen.",
+      task_3_4_2:"b Sie eignen sich vor allem für Wohngemeinschaften.",
+      task_3_4_3:"c Sie sind im US-amerikanischen Baustil entworfen.",
+
+      task_3_5:"19 Le-Mentzel ist der Auffassung, dass die Mini-Wohnungen .. .",
+      task_3_5_1:"a durchaus auch vergrößert werden sollten.",
+      task_3_5_2:"b eine große gesellschaftliche Wirkung haben können.",
+      task_3_5_3:"c von der Politik gefördert werden müssten.",
+
+      task_3_6:"20 Die Sprecherin der Stadt hat Zweifel an dem Projekt, da ...",
+      task_3_6_1:"a es auch hier Wartelisten geben wird.",
+      task_3_6_2:"b es in der Stadt zu wenig freie Räume gibt.",
+      task_3_6_3:"c sie dafür keine längerfristige Perspektive sieht.",
+      
+      task_3_7:"21 Für den Bau der Mini-Wohnungen ...",
+      task_3_7_1:"a muss man voraussichtlich viele Vorsch riften beachten.",
+      task_3_7_2:"b sind neue Gesetze erforderlich.",
+      task_3_7_3:"c wird Wohnen auf einem Anhänger nur selten genehmigt.", 
+  },
+  {
+    id: "3",
+    title: "Teil №4 lesen",
+    part_4: "Teil №4 lesen",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+    explanation_4: "Arbeitszeit: 12 Minuten",
+    explanation_4_2: "Sie lesen in einer Zeitschrift verschiedene Meinungsäußerungen zu  einem Umweltproblem",
+    explanation_4_3: "Welche Äußerung passt zu welcher Überschrift? Eine Äußerung passt nicht. Die Äußerung a ist das Beispiel und kann nicht noch einmal verwendet werden.",
+    task_4_1:"0 Verbraucher und Industrie müssen aktiv werden",
+    task_4_2:"22 Zum Umweltschutz sollte keiner gezwungen werden",
+    task_4_3:"23 Wichtig ist, den Verbrauch einzuschränken",
+    task_4_4:"24 Wichtig ist, Umweltschutz auch über den Preis zu steuern",
+    task_4_5:"25 Neue Methoden werden sicher bei der Wiederverwertung helfen",
+    task_4_6:"26 Umweltschutz muss gelernt werden",
+    task_4_7:"27 Umdenken beim Einkauf muss nicht Verzicht bedeuten",
+    title_4: "Umweltschutz durch weniger Plastik",
+
+    text_4: "a) Eigentlich braucht man ein komplettes Verbot von Plastikverpackungen. Der Verbrauch von Plastiktüten nimmt aufgrund neuer Gesetze bereits ab - das ist sinnvoll, aber das reicht nicht. Auch die Hersteller müssen hier in die Pflicht genommen werden. Sonst ändert sich nicht wirklich etwas. Patrick, Münster",
+    text_4_2: "b) Wir Verbraucher haben es in der Hand. Wenn wir kein Plastik mehr verwenden, wird auch keines mehr hergestellt. Die Entwicklung eines ökologischen Bewusstseins beginnt in der Schule Schulprojekte, die in diese Richtung gehen, müssen unbedingt gefördert werden. Andrea, Göttingen",
+    text_4_3: "c) Man darf nicht vergessen, dass es neben Plastik auch noch andere Probleme gibt. Wenn es zum Beispiel keine Plastikverpackungen mehr gibt, benötigt man anderes Verp~ ckungsmaterial. Und für Papier muss man Bäume fällen, das ist auch nicht gerade umweltfreundlich. Das Hauptproblem ist nicht die Verpackung, sondern unser Konsum.",
+    text_4_4: "d) Wir wissen - denke ich - inzwischen alle, dass Plastik schädlich für die Umwelt ist. Hier hat bei den Verbrauchern schon ein Umdenken stattgefunden. Bei den Herstellern geht das lang samer, auf der anderen Seite ist Recycling aber auch schon ein riesiger Industriezweig geworden. Es ist halt immer dasse lbe: Alles muss sich lohnen, auch der Umweltschutz.",
+    text_4_5: "e) Wenn nicht mehr passiert, wird es in 30 Jahren in den Meeren mehr Plastik als Fische geben. Zum Glück arbeitet man an Techniken, diesen Plastikmüll aus den Meeren zu entfernen. Riesige Anlagen sind geplant, um ihn zu recyceln und erneut als Rohstoff zu verkaufen. Auch wenn das noch Zukunftsmusik ist: An dieser Entwicklung wird kein Weg vorbeigehen.",
+    text_4_6: "f) Es hat sich schon einiges getan: Der Verbrauch von Plastiktüten ist beträchtlich zurückgegangen. Ich denke aber weniger, dass das daran liegt, dass diese heute in der Regel nicht mehr kostenlos ausgegeben werden. Aber wen schreckt eine Gebühr von 10 bis 20 Cent pro Tüte denn wirklich ab? Das sollte viel teurer sein.",
+    text_4_7: "g) Kaum jemand will beim Einkaufen immer ein schlechtes Gewissen haben. Reduktion von Plastikverpackungen ist natürlich wichtig, aber auf freiwilliger Basis. Verbote gibt es schon genug, und sie funktionieren nicht. Vor allem, wer so ll das kontrollieren?",
+    text_4_8: "h) Wichtig ist, dass wir Konsumenten aktiv werden. Inzwischen gibt es an vielen Orten Unverpackt-Läden, die alle Sachen ohne Verpackung verkaufen. Der Kunde bringt seine eigenen Behälter mit. Oder man kann sich Behälter ausleihen. An diesen Projekten kann man sehen, dass es nicht darum geht, weniger zu konsumieren, sondern anders.",
+  },
+  {
+    id: "4",
+    title: "Teil №5 lesen",
+    part_5: "Teil №5 lesen",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+      explanation_5: "Arbeitszeit: 6 Minuten",
+      explanation_5_2: "Sie interessieren sich für die Angebote der Stadtbibliothek und lesen die Nutzungsbedingungen.",
+      explanation_5_3: "Welche der Überschriften aus dem Inhaltsverzeichnis passen zu den Paragraphen? Vier Überschriften werden nicht gebraucht.",
+
+      title_5: "STADTBIBLIOTHEK",
+      subtitle_5:"Nutzungsbedingungen",
+
+      task_5_1:"a Angebote für Kinder und Jugendliche",
+      task_5_2:"b Downloadbereich",
+      task_5_3:"c Öffnungszeiten der Bibl iothek",
+      task_5_4:"d Gebünren",
+      task_5_5:"e Veranstaltungen",
+      task_5_6:"f Medienforum",
+      task_5_7:"g Ausleihfristen",
+      task_5_8:"h Verhaltensregeln",
+
+      text_5_1: "Für die Benutzung der Einrichtungen der Stadtbibliothek und das Ausleihen von Medien benötigt man einen Leseausweis, der 20,00 € pro Jahr kostet. Studenten zahlen einen ermäßigten Beitrag, Kinder und Jugendliche unter 18 Jahren können die Angebote der Bibliothek kostenlos benutzen.",
+      text_5_2: "Bücher dürfen vier Wochen, CDs und DVDs 14 Tage mit nach Hause genommen werden. Dieser Zeitraum kann verlängert werden, wenn das betreffende Medium (Buch, CD, DVD) nicht von einem anderen Nutzer vorbeste llt ist. Bestimmte Medien (Ze itungen, Zeitschriften, Nachschlagewerke) dürfen die Bibliothek nicht verlassen.",
+      text_5_3: "Es ist nicht erlaubt, Taschen und Ähnl iches in die Bibliotheksräume mitzunehmen. Bitte benutzen Sie die Schließfächer am Haupteingang. An der Information können Sie für 1 Euro Tragetaschen erwerben, die in die Bücherei mitgenommen werden dürfen. In der Bücherei ist Es)en und Trinken streng verboten. Im zweiten Stock steht Ihnen wochentags und samstags von 9 bis 18 Uhr eine Cafete ria zur Verfügung.",
+      text_5_4: "Die Stadtbücherei bietet Ihnen sowohl im Haus wie auch on line von zu Hause aus zah lre iche digitale Angebote zum Recherchieren, Arbeiten oder einfach,um sich zu informieren. Sie können auch elektronische Medien (E-Books, E-Video, E-Music) 14 Tage auf Ihren Computer herunterladen. Hierfür benötigen Sie ein Passwort, das Sie mit Ihrem Leseausweis erhalten.",
+   
+  },
+];
+
 
 
 
