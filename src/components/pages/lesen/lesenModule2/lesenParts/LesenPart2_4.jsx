@@ -30,7 +30,6 @@ const LesenPart2_4 = () => {
             <p>{hey.text_4_6}</p>
             <p>{hey.text_4_7}</p>
             <p>{hey.text_4_8}</p>
-
           </div>
         ))}
       </section>

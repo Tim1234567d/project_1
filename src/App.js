@@ -30,13 +30,13 @@ import SchreibenModule1 from "./components/pages/schreiben/schreibenModule/Schre
 import SprechenModule1 from "./components/pages/sprechen/sprechenModule/SprechenModule1/SprechenModule1";
 
 // ******************** module parts *******************************
-// lesen parts
+// lesen parts №1
 import LesenPart1_1 from "./components/pages/lesen/lesenModule1/lesenParts/LesenPart1_1";
 import LesenPart1_2 from "./components/pages/lesen/lesenModule1/lesenParts/LesenPart1_2";
 import LesenPart1_3 from "./components/pages/lesen/lesenModule1/lesenParts/LesenPart1_3";
 import LesenPart1_4 from "./components/pages/lesen/lesenModule1/lesenParts/LesenPart1_4";
 import LesenPart1_5 from "./components/pages/lesen/lesenModule1/lesenParts/LesenPart1_5";
-
+// lesen parts №2
 import LesenPart2_1 from "./components/pages/lesen/lesenModule2/lesenParts/LesenPart2_1";
 import LesenPart2_2 from "./components/pages/lesen/lesenModule2/lesenParts/LesenPart2_2";
 import LesenPart2_3 from "./components/pages/lesen/lesenModule2/lesenParts/LesenPart2_3";

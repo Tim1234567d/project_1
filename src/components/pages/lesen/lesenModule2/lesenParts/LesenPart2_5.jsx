@@ -1,5 +1,5 @@
 import React from "react";
-import { Lesen_data_moduleTwo } from "../../../../../data/data.js";
+import {Lesen_data_moduleTwo } from "../../../../../data/data.js";
 
 const LesenPart2_5 = () => {
   return (
@@ -37,3 +37,4 @@ const LesenPart2_5 = () => {
 };
 
 export default LesenPart2_5;
+
