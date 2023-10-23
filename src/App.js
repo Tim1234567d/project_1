@@ -20,6 +20,7 @@ import Sprechen from "./components/pages/sprechen/Sprechen";
 import LesenModule1 from "./components/pages/lesen/lesenModule1/LesenModule1";
 import LesenModule2 from "./components/pages/lesen/lesenModule2/LesenModule2";
 import LesenModule3 from "./components/pages/lesen/lesenModule3/LesenModule3";
+import LesenModule4 from "./components/pages/lesen/lesenModule4/LesenModule4";
 
 // horen 
 import HorenModule1 from "./components/pages/horen/horenModule/horenModule1/HorenModule1";
@@ -37,6 +38,7 @@ import LesenPart1_2 from "./components/pages/lesen/lesenModule1/lesenParts/Lesen
 import LesenPart1_3 from "./components/pages/lesen/lesenModule1/lesenParts/LesenPart1_3";
 import LesenPart1_4 from "./components/pages/lesen/lesenModule1/lesenParts/LesenPart1_4";
 import LesenPart1_5 from "./components/pages/lesen/lesenModule1/lesenParts/LesenPart1_5";
+
 // lesen parts №2
 import LesenPart2_1 from "./components/pages/lesen/lesenModule2/lesenParts/LesenPart2_1";
 import LesenPart2_2 from "./components/pages/lesen/lesenModule2/lesenParts/LesenPart2_2";
@@ -50,6 +52,13 @@ import LesenPart3_2 from "./components/pages/lesen/lesenModule3/lesenParts/Lesen
 import LesenPart3_3 from "./components/pages/lesen/lesenModule3/lesenParts/LesenPart3_3";
 import LesenPart3_4 from "./components/pages/lesen/lesenModule3/lesenParts/LesenPart3_4";
 import LesenPart3_5 from "./components/pages/lesen/lesenModule3/lesenParts/LesenPart3_5";
+
+// lesen parts №4
+import LesenPart4_1 from "./components/pages/lesen/lesenModule4/lesenParts/LesenPart4_1";
+import LesenPart4_2 from "./components/pages/lesen/lesenModule4/lesenParts/LesenPart4_2";
+// import LesenPart3_3 from "./components/pages/lesen/lesenModule3/lesenParts/LesenPart3_3";
+// import LesenPart3_4 from "./components/pages/lesen/lesenModule3/lesenParts/LesenPart3_4";
+// import LesenPart3_5 from "./components/pages/lesen/lesenModule3/lesenParts/LesenPart3_5";
 
 // horen parts
 import HorenPart from "./components/pages/horen/horenModule/horenModule1/HorenPart";
@@ -82,6 +91,7 @@ function App() {
         <Route path="/lesenModule1" element={<LesenModule1 />} />
         <Route path="/lesenModule2" element={<LesenModule2 />} />
         <Route path="/lesenModule3" element={<LesenModule3 />} />
+        <Route path="/lesenModule4" element={<LesenModule4 />} />
 
         <Route path="horenModule1" element={<HorenModule1 />} />
         <Route path="schreibenModule1" element={<SchreibenModule1 />} />
@@ -107,6 +117,13 @@ function App() {
         <Route path="/lesenModule3/lesenPart3_3" element={<LesenPart3_3 />} />
         <Route path="/lesenModule3/lesenPart3_4" element={<LesenPart3_4 />} />
         <Route path="/lesenModule3/lesenPart3_5" element={<LesenPart3_5 />} />
+
+        {/* **  Lesen module 4 parts */}
+        <Route path="/lesenModule4/lesenPart4_1" element={<LesenPart4_1 />} />
+        <Route path="/lesenModule4/lesenPart4_2" element={<LesenPart4_2 />} />
+        {/* <Route path="/lesenModule3/lesenPart3_3" element={<LesenPart3_3 />} />
+        <Route path="/lesenModule3/lesenPart3_4" element={<LesenPart3_4 />} />
+        <Route path="/lesenModule3/lesenPart3_5" element={<LesenPart3_5 />} /> */}
 
          {/* ** Module  parts  */}
         <Route path="/horenModule1/:id" element={<HorenPart />} />

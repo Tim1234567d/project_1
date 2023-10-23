@@ -567,6 +567,178 @@ export const Lesen_data_moduleThree = [
    
   },
 ];
+export const Lesen_data_moduleFour = [
+  {
+    id: "0",
+    part_1: "Module №4 lesen",
+    teil_1: "Teil №1 lesen",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+    explanation_1: "Arbeitszeit: 18 Minuten",
+    explanation_1_2: "Sie lesen in einem Forum, wie Menschen über ihre Wohnsituation und Wohnformen denken.",
+    explanation_1_3: "Auf welche der vier Personen treffen die einzelnen Aussagen zu? Die Personen können mehrmals gewählt werden.",
+
+    execise1: "0  Wer verbindet Strandurlaube mit Wanderausflügen?  Lösung: a",
+    execise2: "1 Für wen ist das Ziel der Reise nicht das Entscheidende?",
+    execise3: "2 Wer achtet bei Reisen vor allem auf die Umwelt?",
+    execise4: "3 Für wen gibt es nur noch die Möglichkeit eines Pauschalurlaubs?",
+    execise5: "4 Wer liebt vor allem extreme Erlebnisse?",
+    execise6: "5  Wer legt wenig Wert auf Aktivurlaub?",
+    execise7: "6  Für wen ist Komfort wichtig?",
+    execise8: "7 Wer findet es wichtig, im Ausland geknüpfte Kontakte zu pflegen?",
+    execise9: "8 Wer hat schlechte Erfahrungen mit organisierten Reisen gemacht?",
+    execise10: "9 Wer würde gern mit dem Thema Reisen Geld verdienen?",
+
+    subtitle: "Urlaub und Reisen",
+    name1: "a Erik",
+    text1:
+      "Wir machen am li ebsten Urlaub am Strand, in einem wunderschönen kleinen Dorf am Meer im Süden von Kreta. Dort machen wir seit vielen Jahren Urlaub, wir wohnen in einer kleinen Pens ion, ohne viel Komfort, aber mit allem, was man benötigt. Im Zimmer gibt es einen Kühlschrank, man kann, wenn man möchte, auch etwas kochen. Und vor al len Dingen liegt das Haus, in dem wir wohnen, direkt am Strand. Oft schnappen wir uns auch die Rucksäcke und durchstreifen die bergige Umgebung. Viele unserer Freunde und Bekannte verstehen das nicht, sie sind der Auffassung, dass man im Urlaub auch einmal etwas anderes erleben muss. Aber was bringt es, immer wieder für kurze Ze it in andere Länder zu fahren? Ist es nicht sinnvoller, Menschen, die man im Urlaub kennengelernt hat, besser kennenzulernen? Wir haben auf Kreta inzwischen Freunde gefunden und freuen uns immer, wenn wir sie wieder sehen. Was noch wichtig für uns ist: Urlaub weg vom Massentourismus, auch wenn ein solcher Urlaub natürlich mehr kostet als eine organisierte Pauschalreise.",
+    name2: "b Annette",
+    text2: "Für mich bedeutet Reisen, immer wieder neue Erfahrungen zu sam meln. Früher war ich die typische Rucksacktouristin, ohne Luxus, ohne Komfort. Ich habe mit wenig Geld vie le verschiedene Länder gesehen. Jetzt bin ich verheiratet, habe zwei Kinder und die Situation hat sich verändert. Urlaub für eine ganze Familie ist teuer - wenn wir zu viert Urlaub machen woll en, müssen wir Sonderangebote finden, Flug plus Unterkunft und Essen in einem Preis. Auch gewisse Bequemlichkeiten finde ich mittlerweile wichtig. Spontaner Campingurlaub wie früher, ohne zum Beispiel gut funktionierende Duschen zu haben, geht heute nicht mehr. Es hat bei mir einige Zeit gedauert, bis ich mich an Pauschalreisen gewöhnt habe. Aber man ist ja im Hotel oder der Ferienanlage nicht eingesperrt. Und es hat ja auch Vorteile, wenn man sich im Urlaub um nichts kümmern muss.",
+    name3: "c Holger",
+    text3:
+      "Für mich wäre es eine Horrorvorstellung, immer wieder am se lben Ort Url aub zu machen. Ich brauche Abwechslung und muss immer etwas Neues sehen. Es gibt inzwischen zah lreiche Angebote für Aktivurlaube. Für mich ist Aktivurlaub aber mehr als zwei Stunden Radfahren am Tag. Ich will an meine Grenzen gehen, mich wirklich auspowern. Im letzten Jahr habe ich einen Kurs in Kitesurfen belegt, dieses Jahr versuche ich viell eicht Paragliding oder sogar Fallschirmspringen. Ich muss nicht weit reisen, kann auch in Deutschland bleiben, darauf kommtes nicht an. Wenn es dann auch noch naturnah ist und die Ressourcen unseres Planeten schont - umso besser. Wichtig ist, etwas Neues zu erleben. In diesem Zusammenhang habe ich noch weitere Pläne. Ich bin dabei, einen Reiseführer über Anders reisen -Aktivurlaube zu schreiben, in Deutschland und in anderen Ländern. Wenn das erfolgreich ist, könnte ich mit dem langweiligen Bürojob, den ich zurzeit habe, aufhören. Naja, man kann ja träumen ...",
+    name4: "d Claudia",
+    text4:
+      "Wie Urlaub machen? Eine schwierige Frage. Es gibt doch kaum noch Orte, die nicht vom Massentourismus zerstört werden. Alle kennen doch die ökologischen Schäden, die durch die unzäh ligen Flug- und Schiffsreisen verursacht werden, dennoch ändert sich nichts. Für mich bedeutet das, keinen Urlaub mehr mit Billigfl iegern, Schluss mit Urlaub im Massentourismus, keine Pauscha lreisen mehr in überfüllten Hotels. Ich habe diese Art Urlaub öfter mitgemacht und fand es sc hlimm, wie sich die Touristen am Frühstücksbuffet darüber stritten, wer das letzte Frühstücksei bekam, wie sie schon früh morgens am Hotelpool ihren Liegestuhl mit ihrem Handtuch besetzten. Das heißt nicht, dass ich gar nicht mehr verreise. Aber wenn möglich, fa hre ich mit der Bahn. Ich muss im Urlaub auch nicht viel machen und erleben, für mich reicht es, wenn ich Zeit für meine Freunde habe und wir zusammen chillen.",
+  },
+  {
+    id: "1",
+    part_2: "Module №4 lesen",
+    teil_2: "Teil №2 lesen",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+    explanation_2: "Arbeitszeit: 12 Minuten",
+    explanation_2_1: "Sie lesen in einer Zeitschrift einen Artikel über die Geschichte des Fahrrads. Welche Sätze passen in die Lücken? Zwei Sätze passen nicht.",
+    title_2: "Das Internet",
+    subtitle_2: "Vom World Wide Web zum Internet der Dinge",
+    text_2:
+      "Kaum eine technologische Entwicklung hat sich jemals so schnell verbreitet wie das Internet. Erst Mitte der 1990er-Jahre wurde das World Wide Web allgemein bekannt. Ende der 1990er-Jahre fingen immer mehr Menschen an, mit Suchmaschinen ins Netz zu gehe_n, man begann zu googeln. Und vergessen wir nicht das Smartphone. ...0...",
+      text_2_2: "Inzwischen sind über 70 Millionen Menschen in Deutschland, Österreich und der Schweiz täglich online. Das Internet ist heute nicht mehr wegzudenken. Die Entwicklung ging in rasanten Schritten weiter voran und blieb nicht bei der Vernetzung von Telefonen, Coμiputern und Internet stehen ...10... Wenn man heute von intelligenten oder smarten Geräten oder auch vom Internet der Dinge spricht, sind genau diese vernetzten Geräte gemeint, z.B. Kühlschrank, Waschmaschine, Thermostat, Alarmanlage. ...11... Man kann dann tagsüber auf der Arbeit bereits die Wohnungstemperatur einstellen, die man sich abends zu Hause wünscht. Auch können diese Geräte autonom tätig werden. Der Kühlschrank bestellt Lebensmittel, wenn sie aufgebraucht sind, die Waschmaschine fängt an zu waschen, wenn der Strompreis besonders günstig ist.",
+      text_2_3: "Auf jeden Fall erleichtern diese Geräte das Leben, sparen Zeit und Energiekosten. ...12... Kriminelle können unsere Daten missbrauchen. Wenn eine fremde Person in unser Datennetz eindringt, kann sie es nicht nur manipulieren, sie kann es auch blockieren, indem sie alle Daten verschlüsselt. Dann wird man erpressbar und soll eventuell einen Geldbetrag zahlen. ...13...",
+      text_2_4: "Auch Smart-TV s können zum Beispiel angegriffen werden: So wurden etwa gehackte Fernseher ausgespäht und ihre Besitzer abgehört. Auf diesem Wege können Kriminelle auch Zugriff auf andere Geräte unseres Netzwerks erhalten. ...14... Unsere Daten können also vielfach verwendet werden, und wir wissen nicht, wer Zugriff auf sie hat und so einen Überblick über unsere Gewohnheiten erhält.",
+      text_2_5: "Wenn wir von den Vorzügen eines vernetzten Alltags profitieren wollen, müssen wir uns vor Datenmissbrauch und IT-Kriminalität schützen. ...15... Verbraucher sollten genau überlegen, wann sie sich wie mit dem Internet verbinden, Hersteller müssen regelmäßig ihre Systeme mit Sicherheitssoftware updaten, und von staatlicher Seite müssen Sicherheitsstandards gesetzlich festgelegt werden.",
+    
+    task_2:"0 Innerhalb nur eines Jahrzehnts wurde es zum Massenprodukt.",
+    task_2_2:"a Diese Geräte lassen sich auch von unterwegs mit dem Smartphone steuern.",
+    task_2_3:"b Erst wenn das erfolgt ist, werden unsere Daten wieder freigegeben.",
+    task_2_4:"c Denn auch immer mehr andere Haushaltsgeräte lassen sich mit dem Internet verbinden.",
+    task_2_5:"d Denn diese Fernseher sind mit dem Internet verbunden.",
+    task_2_6:"e Trotzdem werden viele Daten weitergegeben.",
+    task_2_7:"f Grund dafür ist, dass wir immer weniger Zeit haben.",
+    task_2_8:"g Hier sind alle gefordert.",
+    task_2_9:"h Aber es gibt auch eine andere Seite.",
+  },
+  {
+    id: "2",
+    part_3: "Module №3 lesen",
+    teil_3: "Teil №3 lesen",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+    explanation_3: "Arbeitszeit: 12 Minuten",
+    explanation_3_2: "Sie lesen in einer Zeitung einen Artikel über eine neue Wohnform.",
+    explanation_3_3: "Wäh len Sie bei jeder Aufgabe die richtige Lösung.",
+      title_3: "Können wir ohne Freunde leben?",
+      text_3: "Immer mehr Menschen nutzen soziale Netzwerke für die Beziehungspflege. «Freunde» sind wichtig für die soziale Anbindung und das eigene Image. Doch mangels Zeit und Verbindlichkeit wird echte Freundschaft für viele zur Mangelware. Können wir auch ohne Freunde leben?",
+      text_3_2: "In die Praxis des Hochschullehrers und Psychoanalytikers Prof. Dr. Andreas Hamburger kommen viele Menschen, die mit Beziehungsproblemen kämpfen. Viele sprechen über Probleme, die sie keinem Freund mitteilen können, weil sie letztlich Zweifel haben, ob es sich um wahre Freunde handelt. Nach den Erfahrungen des Psychoanalytikers ist Freundschaft tatsächlich heute für eine wachsende Zahl von Menschen Mangelware. Jedoch nicht, weil es an Kontakten mangelt, sondern weil Tiefe fehlt, die es erst ermöglicht, sich anderen Personen zu öffnen.",
+      text_3_3: "Auch die Soziologin Dr. Ursula Nötzold, die an der Hochschule Landshut lehrt und seit Jahrzehnten zum Thema Freundschaft forscht, bestätigt die These, dass ein möglicher Mangel an Freundschaft heute in der Regel nicht auf einem Mangel an Kontakten gründet. Sondern vielmehr auf einem Zuviel an Kontakten und der damit verbundenen Überforderung, damit adäquat umzugehen.",
+      text_3_4: "Sie sieht jedoch auch einen positiven Trend. Die Vorstellung von Freundschaft ist im Wandel, weg von einem überhöhten Freundschaftsideal hin zu alltagstauglichen, lebbaren Freundschaften. Die können nämlich auch aus lnteressensgemeinschaften entstehen und zwar dort, wo sich die Menschen im Alltag begegnen, sei es in der Arbeitswelt oder in der Freizeit Zweckbündnisse, aus denen Freundschaften werden können, ohne dass anfangs zu viel vom anderen erwartet wird.",
+      text_3_5: "Allerdings erschwert ein noch immer weit verbreitetes Statusdenken Freundschaften, zum Beispiel für den Landarzt Rene Vogelsang. Er genießt hohes Ansehen, dofh seine berufliche Position ist eher eine Hemmschwelle für das Entstehen neuer Freundschaften und macht es schwierig, sich auf Augenhöhe zu fühlen. Inzwischen trifft er sich regelmäßig mit Kollegen aus dem Landkreis. Was zunächst als Zweckbündnis gestArtet war, daraus sind inzwischen freundschaftliche Beziehungen gewachsen.", 
+      text_3_6: "In der Freundschaft sieht die Soziologin Nötzold auch deshalb die passende Beziehungsform für die heutige Zeit, weil sie dem individualistischen Zeitgeist entspricht. Freundschaft beruht auf Freiwilligkeit. Sie kommt zustande, wenn genügend Übereinstimmung und Sympathie vorhanden sind. Und sie kann jederzeit auch wieder gekündigt werden.",
+      text_3_7: "Medienwissenschaftler an der Universität München haben das Verhalten von Mädchen zwischen 12 und 16 Jahren untersucht. Es zeigte sich ein deutlicher Trend, sich und die beste Freundin immer stärker durch Filme, Fotos und Kommentare im Netz zu inszenieren. Auch wenn es die Freundschaft nach alten Mustern immer noch gibt: Die Freundschaften, die ins Netz gestellt werden, sind für die Mädchen echt. Die virtuelle Freundschaftswelt ist für sie so real wie der Gang ins Klassenzimmer.",
+
+      task_3_1:"0 Immer mehr Menschen ...",
+      task_3_1_1:"a haben heute weniger Interesse an Freundschaften.",
+      task_3_1_2:"b suchen heute Freundschaften im Internet.   X",
+      task_3_1_3:"c wollen keine festen Beziehungen mehr haben.",
+
+      task_3_2:"16 Viele Klienten von Andreas Hamburger haben Schwierigkeiten, ...",
+      task_3_2_1:"a anderen Menschen zu vertrauen.",
+      task_3_2_2:"b Kontakte zu knüpfen.",
+      task_3_2_3:"c über ihre Probleme zu sprechen.",
+
+      task_3_3:"17 Nach Meinung von Frau Nötzold gibt es heute so wenige Freundschaften, weil man ...",
+      task_3_3_1:"a im Grunde heute viel mehr Kontakte hat, als man in der Regel haben sollte.",
+      task_3_3_2:"b mit Freundschaften zu viele schlechte Erfahrungen gemacht hat.",
+      task_3_3_3:"c nicht mehr in der Lage ist, mit den zahlreichen Bekanntschaften umzugehen.",
+
+      task_3_4:"18 Wie haben sich Freundschaften verändert?",
+      task_3_4_1:"a Die Ansprüche an Freundschaften sind nicht mehr so hoch.",
+      task_3_4_2:"b Freunde findet man heute meistens im Beruf.",
+      task_3_4_3:"c Freundschaften werden nur noch nach längerer Zeit geschlossen.",
+
+      task_3_5:"19 Das Beispiel eines Landarztes zeigt, dass ...",
+      task_3_5_1:"a aus kolleg ialen Beziehungen nur selten Freundschaften entstehen.",
+      task_3_5_2:"b bei Freundschaften auf Herkunft und berufliche Stellung geachtet wird.",
+      task_3_5_3:"c man auf dem Land leichter Freunde findet.",
+
+      task_3_6:"20 Freundschaften der heutigen Zeit ...",
+      task_3_6_1:"a entsprechen der aktuellen Lebensweise.",
+      task_3_6_2:"b halten nur noch kurze Zeit.",
+      task_3_6_3:"c sind stabi ler als früher.",
+      
+      task_3_7:"21 Bei Mädchen zwischen 12 und 16 Jahren ...",
+      task_3_7_1:"a bestehen neben Freundschaften in sozialen Netzwerken auch noch traditionelle Freundschaften.",
+      task_3_7_2:"b führen Internetfreundschaften oft zu wirklichen Kontakten.",
+      task_3_7_3:"c werden Freundschaften hauptsächlich in der Schule geschlossen.", 
+  },
+  {
+    id: "3",
+    part_4: "Module №3 lesen",
+    teil_4: "Teil №4 lesen",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+    explanation_4: "Arbeitszeit: 12 Minuten",
+    explanation_4_2: "Sie lesen in einer Zeitschrift verschiedene Meinungsäußerungen zu  einem Umweltproblem",
+    explanation_4_3: "Welche Äußerung passt zu welcher Überschrift? Eine Äußerung passt nicht. Die Äußerung a ist das Beispiel und kann nicht noch einmal verwendet werden.",
+    task_4_1:"0 Die Wichtigkeit einer frühen Mehrsprachigkeit. Lösung: a",
+    task_4_2:"22 Mehrsprachigkeit in der Familie braucht Regeln",
+    task_4_3:"23 Deutsch lernen muss im Vordergrund stehen",
+    task_4_4:"24 Bessere Karrierechancen und größere Weltoffenheit",
+    task_4_5:"25 Probleme nicht verschweigen",
+    task_4_6:"26 Herausforderung für die Schule",
+    task_4_7:"27 Mehrsprachigkeit in Zeiten der Migration",
+
+    title_4: "Mehrsprachige Erziehung",
+    text_4: "a) Wir alle wissen, wie schwer es ist, im Erwachsenenalter Fremdsprachen zu lernen. Umso wichtiger ist es, bereits in Kindergärten und Kitas eine weitere Sprache zu lernen, und zwar spielerisch, ohne Grammatikpaukerei, Regeln und ohne Angst haben zu müssen, Fehler zu machen. Alex, Frankfurt",
+    text_4_2: "b) In der Diskussion über die mehrsprachige Erziehung orientiert man sich zu stark an deutschen Kindern, die schon früh eine andere Sprache, meistens Engl isch, lernen sollen. Deutschland ist jedoch ein Einwanderungsland. Bei den Kindern aus anderen Ländern geht es nicht nur darum, Deutsch zu lernen, sondern den Reichtum ihrer eigenen Sprache nicht zu verlieren.  Jasmin, Bonn",
+    text_4_3: "c) Bei aller Mehrsprachigkeit: Ich finde, die Kinder sollten zuerst einmal richtig Deutsch lernen, sonst können sie Probleme bekommen. Man darf nicht vergessen: Eine fr~mde Sprache lernt man erst, wenn man seine eigene beherrscht. Und wenn man aus einem anderen Land kommt, ist Deutsch die Sprache der Integration. Oleg, Wien",
+    text_4_4: "d) Es ist doch eine Realität: In Deutschland wachsen immer mehr Kinder mehrsprachig auf, aber an Schulen wird meistens nur bilingualer Unterricht in Englisch oder Französisch angeboten. Hier ist ein Umdenken erforderlich. Man muss einfach erkennen, dass alle Sprachen den gleichen Wert haben.  Lena, Stuttgart",
+    text_4_5: "e) Ich finde mehrsprachige Erziehung ist oft der Wunsch ehrgeiziger Eltern, die wollen, dass ihre Kinder schon im Kindergarten eine besondere Leistung erbringen. Man sollte die Kinder aber nicht überfordern, später in der Schule wird sich ja herausste llen, ob sie wirklich sprachbegabt sind oder andere Talente haben.  Sebastian, Berlin",
+    text_4_6: "f) Ich finde bei mehrsprachiger Erziehung brauchen die Kinder klare Strukturen. Wenn die Eltern aus unterschiedlichen Ländern kommen, sollte die Mutter immer nur in ihrer Sprache mit dem Kind sprechen und der Vater in seiner. Die emotionale Bindung einer Sprache zu einer Person finde ich sehr entscheidend. Fatiya, Bern",
+    text_4_7: "g) Wer mehrere Sprachen spricht, hat bessere Möglichkeiten im Beruf und ist auch geübter darin, andere Kulturen besser kennenzulernen. Letztendlich ist das auch ein Ziel der Politik. Alle EU-Bürgerinnen und -Bürger sollten zusätzlich zu ihrer Muttersprache zwei Fremdsprachen sprechen können, auch wenn das viel Arbeit bedeutet. Jan, Regensburg",
+    text_4_8: "h) Bei allen Vorzügen einer mehrsprachigen Erziehung: Was ist denn, wenn das Kind während der Pubertät keine Lust mehr auf die Sprache seiner Eltern hat? Oder es fühlt sich überfordert, weil nach der spielerischen frühkindlichen Phase jetzt richtig gelernt werden muss. Man sollte nicht so tun, als gäbe es keine Schwierigkeiten.  Uta, Heilbronn",
+  },
+  {
+    id: "4",
+    part_5: "Module №3 lesen",
+    teil_5: "Teil №5 lesen",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+      explanation_5: "Arbeitszeit: 6 Minuten",
+      explanation_5_2: "Sie interessieren sich für die Angebote der Stadtbibliothek und lesen die Nutzungsbedingungen.",
+      explanation_5_3: "Welche der Überschriften aus dem Inhaltsverzeichnis passen zu den Paragraphen? Vier Überschriften werden nicht gebraucht.",
+
+      title_5: "Freundschaftsverein «MultiKulti»",
+      subtitle_5:"Satzungsauszug",
+
+      explanation_5_4: "Inhaltsverzeichnis",
+      task_5_1:"a Rechte und Pfiichten der Mitglieder",
+      task_5_2:"b Aufwandsentschädigungen",
+      task_5_3:"c Zweck und Ziel des Vereins.  X",
+      task_5_4:"d Beendigung",
+      task_5_5:"e Entlohnung und Honorare",
+      task_5_6:"f steuerliche Regelungen",
+      task_5_7:"g Aufnahme in den Verein",
+      task_5_8:"h Organe des Vereins",
+
+      text_5_1: "&0 Der Verein stellt sich zur Aufgabe, die Verständigung zwischen den zahlre ichen Kulturen im Stadtteil aktiv zu fördern, unter anderem durch Kulturveranstaltun gen, Ausstell ungen, internationale Feste, Deutschund andere Sprachkurse, Beratungen, Hausaufgabenhilfe, Mütter-Kind-Gruppen.  Antworte с",
+      text_5_2: "&28  Der Verein ist vom Finanzamt als gemeinnütziger Verein anerkannt und verfo lgt ausschl ießlich und unmittelbar gemeinnützige Zwecke. Mittel des Vereins dürfen nur für die in der Vereinssatzung genannten Zwecke verwendet werden. Mitgl iedsbeiträge und Spenden können beim Finanzamt geltend gemacht werden. Spendenquittungen ertei lt der Vorstand",
+      text_5_3: "&29 Mitglieder können alle Personen werden, die die Ziele des Vere ins unterstützen. Um Mitg lied im Verein zu werden, bedarf es einer schriftlichen Anmeldung. Minderjährige benötigen die Zustimmu ng des Erziehungsberechtigten. Über den Erwerb der Mitg liedschaft entscheidet der Vorstand. Zur Höhe des Mitgliedsbeitrags wird auf die Beitragsordnung des Vereins verwiesen.",
+      text_5_4: "&30 Der Verein kann durch Besch luss der Mitgl iederversammlung aufgelöst werden. Für den Beschluss ist eine 3/4-Mehrheit erforderl ich. Der ehema lige Vorstand muss die Auflösung im Vereinsregister anmelden und diese auch dem Finanzamt mitteilen. Nach Auflösung des Vereins wird sein übrig gebliebenes Vermögen einer Einrichtung oder einem Verein, der ähnliche Ziele verfolgt, übertragen. Hierüber entscheidet die Mitgliederversammlung.",
+   
+  },
+];
 
 
 
