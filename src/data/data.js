@@ -395,6 +395,178 @@ export const Lesen_data_moduleTwo = [
    
   },
 ];
+export const Lesen_data_moduleThree = [
+  {
+    id: "0",
+    teil_1: "Teil №1 lesen",
+    part_1: "Module №3 lesen",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+    explanation_1: "Arbeitszeit: 18 Minuten",
+    explanation_1_2: "Sie lesen in einem Forum, wie Menschen über ihre Wohnsituation und Wohnformen denken.",
+    explanation_1_3: "Auf welche der vier Personen treffen die einzelnen Aussagen zu? Die Personen können mehrmals gewählt werden.",
+
+    execise1: "0  Wer kann auf Diäten verzichten?  Lösung: a",
+    execise2: "1 Wer findet, dass Gesundheitsratgeber keinen großen Einfluss haben?",
+    execise3: "2 Wer weiß manchmal gar nicht mehr genau, welche Ernährung eigentlich gesund ist?",
+    execise4: "3 Wer findet, dass man Menschen nicht zu gesundem Leben zwingen kann",
+    execise5: "4 Wer möchte sich kein schlechtes Gewissen einreden lassen?",
+    execise6: "5  Für wen bedeutet gesundes Leben in erster Linie positives Denken?",
+    execise7: "6  Wer fordert, dass die Politik aktiver wird?",
+    execise8: "7 Für wen ist gesundes Essen nicht das einzig Entscheidende?",
+    execise9: "8 Wer denkt, dass es Zeit braucht, bis es gelingt, gesund zu leben?",
+    execise10: "9 Wer möchte sowohl gut leben als auch genießen?",
+
+    subtitle: "Gesundes Leben",
+    name1: "a Thomas",
+    text1:
+      "Wichtig für ein gesundes Leben sind natürlich eine gesunde Ernährung, viel Bewegung und ausreichender Schlaf. Nur, wie kann man diese Ziele erreichen? Oft ist es ein langer Lernprozess, mit schlechten, alten Gewohnheiten aufzuhören. Jeder weiß doch zum Beispiel, dass Rauchen schädlich ist - warum hört man dann nicht einfach auf? Gesund zu leben, bedeutet für mich das Treffen von bewussten Entscheidungen, auf bestimmte Dinge zu verzichten. Aber diese Entscheidungen muss man freiwillig treffen. Ich habe früher sehr ungesund gelebt, mich viel von Fastfood ernährt oder überhaupt nicht über meine Gesundheit nachgedacht. Auf Druck von außen habe ich dann Diäten gemacht, dann auch vie le Kilos verloren, danach aber immer wieder zugenommen und gegessen wie früher. Inzwischen habe ich erkannt, dass die Ursachen für meine ungesunde Lebensweise persönliche Probleme waren, an denen ich jetzt arbeite. Dazu brauche ich keine Diät. Und das meine ich mit Lernprozess.",
+    name2: "b Helen",
+    text2: "Ich denke, den Vorsatz, gesund zu leben, reduziert man zu oft auf gesunde Ernährung. Klar, ohne gesunde Er?ährung geht gar nichts, aber es gibt viele andere Faktoren, die meiner Meinung nach für ein gesundes Leben viel wichtiger sind. Gesund leben heißt doch immer auch sich wohlfühlen, sein Leben genießen. Stress vermeiden. Nicht nur der Körper ist wichtig, auch der Geist. Und da gibt es eine Wechselwirkung: Wenn ich mich körperli ch gut fühle, bin ich auch im Kopf vitaler. Und umgekehrt. Wenn ich mich gesund ernä hre und trotzdem mit meinem Leben unzufrieden bin, lebe ich nicht gesund. Wenn ich zum Beispiel nicht schlafen kann, lasse ich meinen Tag Revue passieren. Welche schönen Dinge habe ich erlebt? Ich versuche, den Tag mit einem guten Gefühl abzuschließen. Dann sch lafe ich besser und wache morgens entspannter auf. Übrigens: Im Internet gibt es hierzu zahlreiche Tipps und Ratgeber.",
+    name3: "c Paolo",
+    text3:
+      "Ich denke, ich lebe seit einiger Zeit sehr gesund. Ich bin zufrieden mit mir. Ich esse kein Fleisch mehr, esse sehr viel Obst und Gemüse, achte darauf, dass ich wenig Stress habe, und wenn der Stress zunimmt, mache ich Sport oder gönne mir auch mal ein Wellnesswochenende. Ich merke aber, dass ich beim Thema gesunde Ernährung zunehmend unsicherer werde. Jeden Monat präsentieren Politiker einen neuen Lebensmittelskandal: Hormone und Antibiotika in Fleisch und Fisch, Pestizide in Obst und Gemüse. Klar sind dann viele Menschen frustriert und sagen, ich esse weiter wie gehabt, es ist ja sowieso alles zu spät. Ich sehe das zwar nicht so extrem, aber inzwischen bin ich auch nicht mehr so streng mit mir. Wenn ich einmal Lust auf ungesundes Essen habe, dann gönne ich mir das auch. Dann gibt es auf einer Party halt einmal Chips und Cola, ohne dass ich das hinterher sch limm finden muss, und wenn ich mal eine rauche, sind mir die kritischen Blicke meiner Umgebung auch gleich. Die nächsten Tage ernähre ich mich dann wieder gesund und rauche nicht mehr.",
+    name4: "d Amina",
+    text4:
+      "Ich habe nicht das Gefühl, dass unsere Gesellschaft gesünder wird, trotz aller Artikel in Zeitschriften und trotz aller Ratgeber, die massenhaft in Buchläden angeboten werden. Zwar geht der Tabakkonsum zurück, das gilt aber nicht für Alkohol und vor allen Dingen Zucker. Auch immer mehr Kinder haben heute schon Übergewicht. Ich finde, dagegen vorzugehen, ist nicht nur Aufgabe der Erziehung, sondern auch Aufgabe des Staates. Wieso kann man zum Beispiel nicht die Fernsehwerbung für Kinder für zucker- und fetthaltige Lebensmittel einschränken? Man sollte sich weitere Maßnahmen überlegen, in erster Linie um Kinder und Jugendliche an gesunde Ernährung zu gewöhnen. Wir versuchen mit gutem Beispiel voranzugehen. Ein Tipp: Wir kochen zu Hause gemeinsam. Wenn unsere Kleinen beim Sa latwaschen oder Gemüseputzen mithelfen, essen sie auch lieber.",
+  },
+  {
+    id: "1",
+    part_2: "Module №3 lesen",
+    teil_2: "Teil №2 lesen",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+    explanation_2: "Arbeitszeit: 12 Minuten",
+    explanation_2_1: "Sie lesen in einer Zeitschrift einen Artikel über die Geschichte des Fahrrads. Welche Sätze passen in die Lücken? Zwei Sätze passen nicht.",
+    title_2: "Die Energiewende - die Politik hat sich ehrgeizige Ziele gesetzt",
+    // subtitle_2: "Eine Reise in die Vergangenheit und Zukunft",
+    text_2:
+      "Was versteht man eigentlich unter Energiewende? Einmal die Verabschiedung von den herkömmlichen Energieträgern Kohle, Erdöl und Erdgas, auch fossile Brennstoffe genannt. ...0... An ihrer Stelle sollen die erneuerbaren Energiequellen Sonne, Wasser und Wind treten, also Energieträger, die es immer geben wird. Bis 2050 sollen 80 % der Energie aus erneuerbaren Energien erzeugt werden. Zur Energiewende gehört ebenfalls der Ausstieg aus der Kernenergiе.",
+      text_2_2: "Schon in den l 970er-Jahren begann in Deutschland die Diskussion über die Kernenergie, bekannt geworden auch durch das Motto der Anti-Atomkraft-Bewegung «Atomkraft? Nein danke!» In den 1990er-Jahren wurde in der Gesellschaft die Debatte über einen Ausspeg aus der Kernenergie noch breiter geführt. ...10... Dieses ereignete sich 1986.",
+      text_2_3: "Vertreter der Atomenergie betonen immer wieder, dass Atomkraftwerke klimafreundlich seien, da während ihres Betriebs kein C02 ausgestoßen werde . .. 1. J. .. Denn für den Abbau von Uran, das für die Herstellung von Atomkraft erforderlich ist, den Bau der Atomkraftwerke und die Endlagerung des Atommülls ist ein hoher Energieaufwand nötig, durch den Treibhausgase entstehen. Das Hauptargument gegen die Energiegewinnung aus Atomkraft ist allerdings ihre Gefährlichkeit. Auch eine andere Frage ist bis heute nicht geklärt: ...12... Dieser wird über viele Generationen die Umwelt belasten. Nach dem Reaktorunglück in Fukushima 2013 setzte sich die Bundesregierung das ehrgeizige Ziel, dass in absehbarer Zeit in Deutschland das letzte Atomkraftwerk vom Netz gehen soll. ...13... Ob dieses Ziel erreicht werden kann, ist aber mehr als fraglich.",
+      text_2_4: "Das vermutlich größte Problem bei der Umwandlung der Energieversorgung stellt heute der Ausbau der Stromnetze dar. Wie kann es zum Beispiel gelingen, den Strom aus Windkraftanlagen, die meistens in den windreichen Regionen im Norden Deutschlands stehen, in die anderen Regionen Deutschlands zu transportieren? Eigentlich sind viele Bürger mit der Energiewende einverstanden. ...14... Die Menschen wehren sich gegen neue Stromleitungen, die durch ihre Ortschaften gehen, oder möchten keine hässlichen Windräder vor ihrer Haustür stehen haben",
+      text_2_5: "Sinnvoll wäre es, über eine dezentrale Versorgung mit Energie nachzudenken. ...15... Auf alle Fälle müssten die Bürger und Bürgerinnen bei der Realisierung der Energiewende besser beteiligt werden.",
+    
+    task_2:"0 Aber diese Energien sind endlich.",
+    task_2_2:"a Ein Beispiel sind die zahlreichen Solaranlagen, wie man sie überall auf den Dächern sieht.",
+    task_2_3:"b Wann sol len weitere Atomkraftwerke geschlossen werden?",
+    task_2_4:"c Trotzdem kommt es immer häufiger zu Protesten.",
+    task_2_5:"d Al lerdings ist das nur die ha lbe Wahrheit.",
+    task_2_6:"e Dennoch gibt es oft zu wenig Wind.",
+    task_2_7:"f Und das soll schon Ende 2022 der Fall sein.",
+    task_2_8:"g Grund dafür war das Reaktorunglück in Tschernobyl.",
+    task_2_9:"h Was soll mit dem Atommüll geschehen?",
+  },
+  {
+    id: "2",
+    part_3: "Module №3 lesen",
+    teil_3: "Teil №3 lesen",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+    explanation_3: "Arbeitszeit: 12 Minuten",
+    explanation_3_2: "Sie lesen in einer Zeitung einen Artikel über eine neue Wohnform.",
+    explanation_3_3: "Wäh len Sie bei jeder Aufgabe die richtige Lösung.",
+      title_3: "Können wir ohne Freunde leben?",
+      text_3: "Immer mehr Menschen nutzen soziale Netzwerke für die Beziehungspflege. «Freunde» sind wichtig für die soziale Anbindung und das eigene Image. Doch mangels Zeit und Verbindlichkeit wird echte Freundschaft für viele zur Mangelware. Können wir auch ohne Freunde leben?",
+      text_3_2: "In die Praxis des Hochschullehrers und Psychoanalytikers Prof. Dr. Andreas Hamburger kommen viele Menschen, die mit Beziehungsproblemen kämpfen. Viele sprechen über Probleme, die sie keinem Freund mitteilen können, weil sie letztlich Zweifel haben, ob es sich um wahre Freunde handelt. Nach den Erfahrungen des Psychoanalytikers ist Freundschaft tatsächlich heute für eine wachsende Zahl von Menschen Mangelware. Jedoch nicht, weil es an Kontakten mangelt, sondern weil Tiefe fehlt, die es erst ermöglicht, sich anderen Personen zu öffnen.",
+      text_3_3: "Auch die Soziologin Dr. Ursula Nötzold, die an der Hochschule Landshut lehrt und seit Jahrzehnten zum Thema Freundschaft forscht, bestätigt die These, dass ein möglicher Mangel an Freundschaft heute in der Regel nicht auf einem Mangel an Kontakten gründet. Sondern vielmehr auf einem Zuviel an Kontakten und der damit verbundenen Überforderung, damit adäquat umzugehen.",
+      text_3_4: "Sie sieht jedoch auch einen positiven Trend. Die Vorstellung von Freundschaft ist im Wandel, weg von einem überhöhten Freundschaftsideal hin zu alltagstauglichen, lebbaren Freundschaften. Die können nämlich auch aus lnteressensgemeinschaften entstehen und zwar dort, wo sich die Menschen im Alltag begegnen, sei es in der Arbeitswelt oder in der Freizeit Zweckbündnisse, aus denen Freundschaften werden können, ohne dass anfangs zu viel vom anderen erwartet wird.",
+      text_3_5: "Allerdings erschwert ein noch immer weit verbreitetes Statusdenken Freundschaften, zum Beispiel für den Landarzt Rene Vogelsang. Er genießt hohes Ansehen, dofh seine berufliche Position ist eher eine Hemmschwelle für das Entstehen neuer Freundschaften und macht es schwierig, sich auf Augenhöhe zu fühlen. Inzwischen trifft er sich regelmäßig mit Kollegen aus dem Landkreis. Was zunächst als Zweckbündnis gestArtet war, daraus sind inzwischen freundschaftliche Beziehungen gewachsen.", 
+      text_3_6: "In der Freundschaft sieht die Soziologin Nötzold auch deshalb die passende Beziehungsform für die heutige Zeit, weil sie dem individualistischen Zeitgeist entspricht. Freundschaft beruht auf Freiwilligkeit. Sie kommt zustande, wenn genügend Übereinstimmung und Sympathie vorhanden sind. Und sie kann jederzeit auch wieder gekündigt werden.",
+      text_3_7: "Medienwissenschaftler an der Universität München haben das Verhalten von Mädchen zwischen 12 und 16 Jahren untersucht. Es zeigte sich ein deutlicher Trend, sich und die beste Freundin immer stärker durch Filme, Fotos und Kommentare im Netz zu inszenieren. Auch wenn es die Freundschaft nach alten Mustern immer noch gibt: Die Freundschaften, die ins Netz gestellt werden, sind für die Mädchen echt. Die virtuelle Freundschaftswelt ist für sie so real wie der Gang ins Klassenzimmer.",
+
+      task_3_1:"0 Immer mehr Menschen ...",
+      task_3_1_1:"a haben heute weniger Interesse an Freundschaften.",
+      task_3_1_2:"b suchen heute Freundschaften im Internet.   X",
+      task_3_1_3:"c wollen keine festen Beziehungen mehr haben.",
+
+      task_3_2:"16 Viele Klienten von Andreas Hamburger haben Schwierigkeiten, ...",
+      task_3_2_1:"a anderen Menschen zu vertrauen.",
+      task_3_2_2:"b Kontakte zu knüpfen.",
+      task_3_2_3:"c über ihre Probleme zu sprechen.",
+
+      task_3_3:"17 Nach Meinung von Frau Nötzold gibt es heute so wenige Freundschaften, weil man ...",
+      task_3_3_1:"a im Grunde heute viel mehr Kontakte hat, als man in der Regel haben sollte.",
+      task_3_3_2:"b mit Freundschaften zu viele schlechte Erfahrungen gemacht hat.",
+      task_3_3_3:"c nicht mehr in der Lage ist, mit den zahlreichen Bekanntschaften umzugehen.",
+
+      task_3_4:"18 Wie haben sich Freundschaften verändert?",
+      task_3_4_1:"a Die Ansprüche an Freundschaften sind nicht mehr so hoch.",
+      task_3_4_2:"b Freunde findet man heute meistens im Beruf.",
+      task_3_4_3:"c Freundschaften werden nur noch nach längerer Zeit geschlossen.",
+
+      task_3_5:"19 Das Beispiel eines Landarztes zeigt, dass ...",
+      task_3_5_1:"a aus kolleg ialen Beziehungen nur selten Freundschaften entstehen.",
+      task_3_5_2:"b bei Freundschaften auf Herkunft und berufliche Stellung geachtet wird.",
+      task_3_5_3:"c man auf dem Land leichter Freunde findet.",
+
+      task_3_6:"20 Freundschaften der heutigen Zeit ...",
+      task_3_6_1:"a entsprechen der aktuellen Lebensweise.",
+      task_3_6_2:"b halten nur noch kurze Zeit.",
+      task_3_6_3:"c sind stabi ler als früher.",
+      
+      task_3_7:"21 Bei Mädchen zwischen 12 und 16 Jahren ...",
+      task_3_7_1:"a bestehen neben Freundschaften in sozialen Netzwerken auch noch traditionelle Freundschaften.",
+      task_3_7_2:"b führen Internetfreundschaften oft zu wirklichen Kontakten.",
+      task_3_7_3:"c werden Freundschaften hauptsächlich in der Schule geschlossen.", 
+  },
+  {
+    id: "3",
+    part_4: "Module №3 lesen",
+    teil_4: "Teil №4 lesen",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+    explanation_4: "Arbeitszeit: 12 Minuten",
+    explanation_4_2: "Sie lesen in einer Zeitschrift verschiedene Meinungsäußerungen zu  einem Umweltproblem",
+    explanation_4_3: "Welche Äußerung passt zu welcher Überschrift? Eine Äußerung passt nicht. Die Äußerung a ist das Beispiel und kann nicht noch einmal verwendet werden.",
+    task_4_1:"0 Die Wichtigkeit einer frühen Mehrsprachigkeit. Lösung: a",
+    task_4_2:"22 Mehrsprachigkeit in der Familie braucht Regeln",
+    task_4_3:"23 Deutsch lernen muss im Vordergrund stehen",
+    task_4_4:"24 Bessere Karrierechancen und größere Weltoffenheit",
+    task_4_5:"25 Probleme nicht verschweigen",
+    task_4_6:"26 Herausforderung für die Schule",
+    task_4_7:"27 Mehrsprachigkeit in Zeiten der Migration",
+
+    title_4: "Mehrsprachige Erziehung",
+    text_4: "a) Wir alle wissen, wie schwer es ist, im Erwachsenenalter Fremdsprachen zu lernen. Umso wichtiger ist es, bereits in Kindergärten und Kitas eine weitere Sprache zu lernen, und zwar spielerisch, ohne Grammatikpaukerei, Regeln und ohne Angst haben zu müssen, Fehler zu machen. Alex, Frankfurt",
+    text_4_2: "b) In der Diskussion über die mehrsprachige Erziehung orientiert man sich zu stark an deutschen Kindern, die schon früh eine andere Sprache, meistens Engl isch, lernen sollen. Deutschland ist jedoch ein Einwanderungsland. Bei den Kindern aus anderen Ländern geht es nicht nur darum, Deutsch zu lernen, sondern den Reichtum ihrer eigenen Sprache nicht zu verlieren.  Jasmin, Bonn",
+    text_4_3: "c) Bei aller Mehrsprachigkeit: Ich finde, die Kinder sollten zuerst einmal richtig Deutsch lernen, sonst können sie Probleme bekommen. Man darf nicht vergessen: Eine fr~mde Sprache lernt man erst, wenn man seine eigene beherrscht. Und wenn man aus einem anderen Land kommt, ist Deutsch die Sprache der Integration. Oleg, Wien",
+    text_4_4: "d) Es ist doch eine Realität: In Deutschland wachsen immer mehr Kinder mehrsprachig auf, aber an Schulen wird meistens nur bilingualer Unterricht in Englisch oder Französisch angeboten. Hier ist ein Umdenken erforderlich. Man muss einfach erkennen, dass alle Sprachen den gleichen Wert haben.  Lena, Stuttgart",
+    text_4_5: "e) Ich finde mehrsprachige Erziehung ist oft der Wunsch ehrgeiziger Eltern, die wollen, dass ihre Kinder schon im Kindergarten eine besondere Leistung erbringen. Man sollte die Kinder aber nicht überfordern, später in der Schule wird sich ja herausste llen, ob sie wirklich sprachbegabt sind oder andere Talente haben.  Sebastian, Berlin",
+    text_4_6: "f) Ich finde bei mehrsprachiger Erziehung brauchen die Kinder klare Strukturen. Wenn die Eltern aus unterschiedlichen Ländern kommen, sollte die Mutter immer nur in ihrer Sprache mit dem Kind sprechen und der Vater in seiner. Die emotionale Bindung einer Sprache zu einer Person finde ich sehr entscheidend. Fatiya, Bern",
+    text_4_7: "g) Wer mehrere Sprachen spricht, hat bessere Möglichkeiten im Beruf und ist auch geübter darin, andere Kulturen besser kennenzulernen. Letztendlich ist das auch ein Ziel der Politik. Alle EU-Bürgerinnen und -Bürger sollten zusätzlich zu ihrer Muttersprache zwei Fremdsprachen sprechen können, auch wenn das viel Arbeit bedeutet. Jan, Regensburg",
+    text_4_8: "h) Bei allen Vorzügen einer mehrsprachigen Erziehung: Was ist denn, wenn das Kind während der Pubertät keine Lust mehr auf die Sprache seiner Eltern hat? Oder es fühlt sich überfordert, weil nach der spielerischen frühkindlichen Phase jetzt richtig gelernt werden muss. Man sollte nicht so tun, als gäbe es keine Schwierigkeiten.  Uta, Heilbronn",
+  },
+  {
+    id: "4",
+    part_5: "Module №3 lesen",
+    teil_5: "Teil №5 lesen",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+      explanation_5: "Arbeitszeit: 6 Minuten",
+      explanation_5_2: "Sie interessieren sich für die Angebote der Stadtbibliothek und lesen die Nutzungsbedingungen.",
+      explanation_5_3: "Welche der Überschriften aus dem Inhaltsverzeichnis passen zu den Paragraphen? Vier Überschriften werden nicht gebraucht.",
+
+      title_5: "Freundschaftsverein «MultiKulti»",
+      subtitle_5:"Satzungsauszug",
+
+      explanation_5_4: "Inhaltsverzeichnis",
+      task_5_1:"a Rechte und Pfiichten der Mitglieder",
+      task_5_2:"b Aufwandsentschädigungen",
+      task_5_3:"c Zweck und Ziel des Vereins.  X",
+      task_5_4:"d Beendigung",
+      task_5_5:"e Entlohnung und Honorare",
+      task_5_6:"f steuerliche Regelungen",
+      task_5_7:"g Aufnahme in den Verein",
+      task_5_8:"h Organe des Vereins",
+
+      text_5_1: "&0 Der Verein stellt sich zur Aufgabe, die Verständigung zwischen den zahlre ichen Kulturen im Stadtteil aktiv zu fördern, unter anderem durch Kulturveranstaltun gen, Ausstell ungen, internationale Feste, Deutschund andere Sprachkurse, Beratungen, Hausaufgabenhilfe, Mütter-Kind-Gruppen.  Antworte с",
+      text_5_2: "&28  Der Verein ist vom Finanzamt als gemeinnütziger Verein anerkannt und verfo lgt ausschl ießlich und unmittelbar gemeinnützige Zwecke. Mittel des Vereins dürfen nur für die in der Vereinssatzung genannten Zwecke verwendet werden. Mitgl iedsbeiträge und Spenden können beim Finanzamt geltend gemacht werden. Spendenquittungen ertei lt der Vorstand",
+      text_5_3: "&29 Mitglieder können alle Personen werden, die die Ziele des Vere ins unterstützen. Um Mitg lied im Verein zu werden, bedarf es einer schriftlichen Anmeldung. Minderjährige benötigen die Zustimmu ng des Erziehungsberechtigten. Über den Erwerb der Mitg liedschaft entscheidet der Vorstand. Zur Höhe des Mitgliedsbeitrags wird auf die Beitragsordnung des Vereins verwiesen.",
+      text_5_4: "&30 Der Verein kann durch Besch luss der Mitgl iederversammlung aufgelöst werden. Für den Beschluss ist eine 3/4-Mehrheit erforderl ich. Der ehema lige Vorstand muss die Auflösung im Vereinsregister anmelden und diese auch dem Finanzamt mitteilen. Nach Auflösung des Vereins wird sein übrig gebliebenes Vermögen einer Einrichtung oder einem Verein, der ähnliche Ziele verfolgt, übertragen. Hierüber entscheidet die Mitgliederversammlung.",
+   
+  },
+];
 
 
 
