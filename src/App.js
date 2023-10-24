@@ -56,7 +56,7 @@ import LesenPart3_5 from "./components/pages/lesen/lesenModule3/lesenParts/Lesen
 // lesen parts №4
 import LesenPart4_1 from "./components/pages/lesen/lesenModule4/lesenParts/LesenPart4_1";
 import LesenPart4_2 from "./components/pages/lesen/lesenModule4/lesenParts/LesenPart4_2";
-// import LesenPart3_3 from "./components/pages/lesen/lesenModule3/lesenParts/LesenPart3_3";
+import LesenPart4_3 from "./components/pages/lesen/lesenModule4/lesenParts/LesenPart4_3";
 // import LesenPart3_4 from "./components/pages/lesen/lesenModule3/lesenParts/LesenPart3_4";
 // import LesenPart3_5 from "./components/pages/lesen/lesenModule3/lesenParts/LesenPart3_5";
 
@@ -121,8 +121,8 @@ function App() {
         {/* **  Lesen module 4 parts */}
         <Route path="/lesenModule4/lesenPart4_1" element={<LesenPart4_1 />} />
         <Route path="/lesenModule4/lesenPart4_2" element={<LesenPart4_2 />} />
-        {/* <Route path="/lesenModule3/lesenPart3_3" element={<LesenPart3_3 />} />
-        <Route path="/lesenModule3/lesenPart3_4" element={<LesenPart3_4 />} />
+        <Route path="/lesenModule4/lesenPart4_3" element={<LesenPart4_3 />} />
+        {/* <Route path="/lesenModule3/lesenPart3_4" element={<LesenPart3_4 />} />
         <Route path="/lesenModule3/lesenPart3_5" element={<LesenPart3_5 />} /> */}
 
          {/* ** Module  parts  */}
