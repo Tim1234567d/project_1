@@ -842,16 +842,52 @@ export const Horen_data_moduleOne = [
       task_2_6_1:"a Der Mensch wird neues Geld erfinden.",
       task_2_6_2:"b Der Mensch wird nur noch digital handeln.",
       task_2_6_3:"c Der Mensch wird sich andere Formen des Handels überlegen.",
-      
-      
+  },
+  {
+    id: "2",
+    part_3: "Module №1 hören",
+    teil_3: "Hören Teil 3",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
 
+      explanation_3:"Sie hören im Radio ein Gespräch mit mehreren Personen. Die Personen sprechen über Stress am Arbeitsplatz.",
+      explanation_3_2:"Sie hören den Text einmal. Wählen Sie bei jeder Aufgabe: Wer sagt das?",
+      explanation_3_3:"Lesen Sie jetzt die Aufgaben 17 bis 22. Dazu haben Sie 60 Sekunden Zeit.",
       
+      task_3_1:"0 Die Belastung am Arbeitsplatz nimmt immer mehr zu.",
+      task_3_1_1:"a Moderatorin. X",
+      task_3_1_2:"b Stressberaterin",
+      task_3_1_3:"c Betriebsratsmitglied",
 
-      
+      task_3_2:"17 Ich helfe Arbeitnehmern, die Stress haben.",
+      task_3_2_1:"a Moderatorin",
+      task_3_2_2:"b Stressberaterin",
+      task_3_2_3:"c Betriebsratsmitglied",
 
-      
-      
+      task_3_3:"18 Es wird oft nicht gesehen, dass Stress ein Problem ist.",
+      task_3_3_1:"a Moderatorin",
+      task_3_3_2:"b Stressberaterin",
+      task_3_3_3:"c Betriebsratsmitglied",
 
+      task_3_4:"19 Maßnahmen zur Vorbeugung sind wichtig.",
+      task_3_4_1:"a Moderatorin",
+      task_3_4_2:"b Stressberaterin",
+      task_3_4_3:"c Betriebsratsmitglied",
+
+      task_3_5:"20 Mitarbeiter müssen konkret motiviert werden, etwas gegen Stress zu unternehmen.",
+      task_3_5_1:"a Moderatorin",
+      task_3_5_2:"b Stressberaterin",
+      task_3_5_3:"c Betriebsratsmitglied",
+
+      task_3_6:"21 Es besteht der Wunsch nach verbindlichen Regelungen zum Stressabbau.",
+      task_3_6_1:"a Moderatorin",
+      task_3_6_2:"b Stressberaterin",
+      task_3_6_3:"c Betriebsratsmitglied",
+
+      task_3_7:"22 Maßnahmen zum Stressabbau sollen in den Betrieben geklärt werden.",
+      task_3_7_1:"a Moderatorin",
+      task_3_7_2:"b Stressberaterin",
+      task_3_7_3:"c Betriebsratsmitglied",
   },
 
 ];
