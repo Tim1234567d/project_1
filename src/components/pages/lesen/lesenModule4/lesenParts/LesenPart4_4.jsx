@@ -1,11 +1,11 @@
 import React from "react";
-import { Lesen_data_moduleThree } from "../../../../../data/data.js";
+import { Lesen_data_moduleFour } from "../../../../../data/data.js";
 
-const LesenPart3_4 = () => {
+const LesenPart4_4 = () => {
   return (
     <div className="wrapper">
       <section className="lesenPart_section">
-        {Lesen_data_moduleThree.map((hey) => (
+        {Lesen_data_moduleFour.map((hey) => (
           <div>
             <h3 className="part1">{hey.part_4}</h3>
             <h5>{hey.teil_4}</h5>
@@ -38,4 +38,4 @@ const LesenPart3_4 = () => {
   );
 };
 
-export default LesenPart3_4;
+export default LesenPart4_4;
