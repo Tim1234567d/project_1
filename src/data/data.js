@@ -711,7 +711,7 @@ export const Lesen_data_moduleFour = [
   },
   {
     id: "4",
-    part_5: "Module №3 lesen",
+    part_5: "Module №4 lesen",
     teil_5: "Teil №5 lesen",
     backImg:
       "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
@@ -719,23 +719,23 @@ export const Lesen_data_moduleFour = [
       explanation_5_2: "Sie interessieren sich für die Angebote der Stadtbibliothek und lesen die Nutzungsbedingungen.",
       explanation_5_3: "Welche der Überschriften aus dem Inhaltsverzeichnis passen zu den Paragraphen? Vier Überschriften werden nicht gebraucht.",
 
-      title_5: "Freundschaftsverein «MultiKulti»",
-      subtitle_5:"Satzungsauszug",
+      title_5: "WAHLORDNUNG",
+      subtitle_5:"für die Wahlen zum Studierendenparlament",
 
       explanation_5_4: "Inhaltsverzeichnis",
-      task_5_1:"a Rechte und Pfiichten der Mitglieder",
-      task_5_2:"b Aufwandsentschädigungen",
-      task_5_3:"c Zweck und Ziel des Vereins.  X",
-      task_5_4:"d Beendigung",
-      task_5_5:"e Entlohnung und Honorare",
-      task_5_6:"f steuerliche Regelungen",
-      task_5_7:"g Aufnahme in den Verein",
-      task_5_8:"h Organe des Vereins",
+      task_5_1:"a Aufgaben des Studierendenparlaments",
+      task_5_2:"b Einspruch gegen Wahlergebnis",
+      task_5_3:"c Wahltermin und Fristen",
+      task_5_4:"d Geltungsbereich und Wahlgru ndsätze.  X",
+      task_5_5:"e Wahlberechtigung",
+      task_5_6:"f Wahlbete il igung",
+      task_5_7:"g Wählbarkeit und Wahlverfahren",
+      // task_5_8:"h Organe des Vereins",
 
-      text_5_1: "&0 Der Verein stellt sich zur Aufgabe, die Verständigung zwischen den zahlre ichen Kulturen im Stadtteil aktiv zu fördern, unter anderem durch Kulturveranstaltun gen, Ausstell ungen, internationale Feste, Deutschund andere Sprachkurse, Beratungen, Hausaufgabenhilfe, Mütter-Kind-Gruppen.  Antworte с",
-      text_5_2: "&28  Der Verein ist vom Finanzamt als gemeinnütziger Verein anerkannt und verfo lgt ausschl ießlich und unmittelbar gemeinnützige Zwecke. Mittel des Vereins dürfen nur für die in der Vereinssatzung genannten Zwecke verwendet werden. Mitgl iedsbeiträge und Spenden können beim Finanzamt geltend gemacht werden. Spendenquittungen ertei lt der Vorstand",
-      text_5_3: "&29 Mitglieder können alle Personen werden, die die Ziele des Vere ins unterstützen. Um Mitg lied im Verein zu werden, bedarf es einer schriftlichen Anmeldung. Minderjährige benötigen die Zustimmu ng des Erziehungsberechtigten. Über den Erwerb der Mitg liedschaft entscheidet der Vorstand. Zur Höhe des Mitgliedsbeitrags wird auf die Beitragsordnung des Vereins verwiesen.",
-      text_5_4: "&30 Der Verein kann durch Besch luss der Mitgl iederversammlung aufgelöst werden. Für den Beschluss ist eine 3/4-Mehrheit erforderl ich. Der ehema lige Vorstand muss die Auflösung im Vereinsregister anmelden und diese auch dem Finanzamt mitteilen. Nach Auflösung des Vereins wird sein übrig gebliebenes Vermögen einer Einrichtung oder einem Verein, der ähnliche Ziele verfolgt, übertragen. Hierüber entscheidet die Mitgliederversammlung.",
+      text_5_1: "&0 Die Vertreter der Studierenden werden in allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl gewählt. Das Stud ierendenparlament wird für einen Zeitraum von zwei Semestern gewäh lt. Antwort D",
+      text_5_2: "&28  Alle an der Universität mindestens 30 Tage vor dem Wahltag eingeschriebenen und im Wählerverzeichnis eingetragenen Stud ierenden dürfen ihre Stimme abgeben. Das Wählerverzeichnis liegt zur Einsichtnahme beim Allgemeinen Studierendenausschuss (Asta) täg lich zwischen 9 und 17 Uhr in Raum 230, Hauptgebäude aus. Gasthörer dürfen an der Wahl nicht teil nehmen.",
+      text_5_3: "&29 Die Wahl zum Studierendenparlament ist eine Listenwahl Es können sich al le an der Universität eingeschriebenen und im Wählerverzeichnis eingetragenen Studierenden zur Wa hl stel len und auf die Listen setzen lassen. Die Wahlvqrschläge müssen spätestens am zehnten Tag vor dem Wahltag beim Wahlausschuss schriftlich eingereicht werd en. Die Li sten müssen die Namen der Kandid ierenden, ihre Anschrift und Matrike lnummer sowie j hre eigenhändige Unterschrift entha lten. Werden Kandidierende nicht zugelassen, ist innerhalb von fünfTagen Widerspruch beim Wahlausschuss möglich. Jede/r Wahlberechtigte hat insgesamt drei Stirnmen. Diese können auf verschiedene Listen und/oder Bewerber/innen verteilt werden. Pro Person können eine bis drei Stimmen abgegeben werden.",
+      text_5_4: "&30 Jede/r Wahlberechtigte kann gegen den Ausgang der Wahl Beschwerde einreichen. Diese muss während einer Frist von 14 Tagen nach Bekanntgabe des Wahlergebnisses beim Wahlausschuss schriftlich und begründet erfolgen.",
    
   },
 ];
