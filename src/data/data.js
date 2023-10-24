@@ -889,6 +889,58 @@ export const Horen_data_moduleOne = [
       task_3_7_2:"b Stressberaterin",
       task_3_7_3:"c Betriebsratsmitglied",
   },
+  {
+    id: "3",
+    part_4: "Module №1 hören",
+    teil_4: "Hören Teil 4",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+
+      explanation_4:"Sie hören einen kurzen Vortrag. Der Redner spricht über das Thema «Prüfungsängste überwinden».",
+      explanation_4_2:"Sie hören den Text zweimal. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+      explanation_4_3:"Lesen Sie jetzt die Aufgaben 23 bis 30. Dazu haben Sie 90 Sekunden Zeit.",
+      
+      task_4_1:"23 Aufregung vor einer Prüfung ...",
+      task_4_1_1:"a ist nicht nur negativ.",
+      task_4_1_2:"b schadet der Konzentration.",
+      task_4_1_3:"c sollte man vermeiden.",
+
+      task_4_2:"24 Bei der Prüfungsvorbereitung sollte man ...",
+      task_4_2_1:"a an seinen Schwächen arbeiten.",
+      task_4_2_2:"b sich an den gestellten Anforderungen orientieren.",
+      task_4_2_3:"c sich zuerst auf die einfachen Aufgaben konzentrieren.",
+
+      task_4_3:"25 Auswendig lernen ...",
+      task_4_3_1:"a ist für viele Menschen die beste Methode.",
+      task_4_3_2:"b ist in Einzelfällen sinnvoll.",
+      task_4_3_3:"c kann auch zu noch größerem Stress führen.",
+
+      task_4_4:"26 Herr Lehmann rät dazu, ...",
+      task_4_4_1:"a auch in der Freizeit Prüfungsstoff zu wiederholen.",
+      task_4_4_2:"b immer nach zehn Stunden eine lange Pause einzulegen.",
+      task_4_4_3:"c nach einem Plan zu arbeiten.",
+
+      task_4_5:"27 Morgenmenschen ...",
+      task_4_5_1:"a haben keine spezifischen Vorteile.",
+      task_4_5_2:"b können Prüfungen besser bewältigen.",
+      task_4_5_3:"c sind am nächsten Tag konzentrierter.",
+
+      task_4_6:"28 Laut Herrn Lehmann ...",
+      task_4_6_1:"a kann man am besten in Bibliotheken arbeiten.",
+      task_4_6_2:"b kann man sich zu Hause schlecht vorbereiten.",
+      task_4_6_3:"c sind Ablenkungen häufig schwer zu vermeiden.",
+
+      task_4_7:"29 Es gibt auch Menschen, die ...",
+      task_4_7_1:"a auch vor einer Prüfung Freizeitstress brauchen.",
+      task_4_7_2:"b mit Atemübungen nichts anfangen können.",
+      task_4_7_3:"c Prüfungsstress lieben.",
+
+      task_4_8:"30 Am Abend vor der Prüfung sollte man ...",
+      task_4_8_1:"a früh ins Bett gehen.",
+      task_4_8_2:"b nur noch wiederholen, was Spaß macht.",
+      task_4_8_3:"c sich nicht mehr mit der Prüfung beschäftigen.",
+
+  },
 
 ];
 
