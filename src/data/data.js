@@ -801,6 +801,56 @@ export const Horen_data_moduleOne = [
 
 
 
+  },
+  {
+    id: "1",
+    part_2: "Module №1 hören",
+    teil_2: "Hören Teil 2",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+
+      explanation_2:"Sie hören im Radio ein Interview mit einer Persönlichkeit aus der Wissenschaft.",
+      explanation_2_2:"Sie hören den Text zweimal. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+      explanation_2_3:"Lesen Sie jetzt die Aufgaben 11 bis 16. Dazu haben Sie 90 Sekunden Zeit.",
+      
+      task_2_1:"11 In einer Umfrage war die Mehrheit der Befragten dafür,",
+      task_2_1_1:"a Bargeld abzuschaffen.",
+      task_2_1_2:"b nur noch mit Karte zu zahlen.",
+      task_2_1_3:"c weiter auch bar zahlen zu können.",
+
+      task_2_2:"12 Warum wollen viele Deutsche das Bargeld behalten?",
+      task_2_2_1:"a Sie befürchten den Verlust ihrer Privatsphäre.",
+      task_2_2_2:"b Sie finden, dass Geldscheine sehr schön aussehen.",
+      task_2_2_3:"c Sie lieben es, mit Bargeld einzukaufen.",
+
+      task_2_3:"13 Was könnte nach Auffassung des Ökonomen ein Vorteil einer bargeldlosen Wirtschaft sein?",
+      task_2_3_1:"a Die Preise würden sinken.",
+      task_2_3_2:"b Kriminelle hätten weniger Möglichkeiten.",
+      task_2_3_3:"c Man bräuchte weniger Polizei.",
+
+      task_2_4:"14 Was hat sich in den letzten Jahren verändert?",
+      task_2_4_1:"a Man hat sich daran gewöhnt, bargeldlos zu zahlen.",
+      task_2_4_2:"b Smartphone-Apps sind heute sehr erfolgreich.",
+      task_2_4_3:"c Zahlungen mit Handy gelten heute als sicher.",
+
+      task_2_5:"15 Was ist nach Auffassung des Ökonomen das eigentliche Problem für viele Menschen?",
+      task_2_5_1:"a Der Wertverlust des Geldes.",
+      task_2_5_2:"b Die raschen technischen Veränderungen.",
+      task_2_5_3:"c Die veränderten Gewohnheiten.",
+
+      task_2_6:"16 Was meint der Ökonom, wenn er sagt, dass der Mensch viel Fantasie hat?",
+      task_2_6_1:"a Der Mensch wird neues Geld erfinden.",
+      task_2_6_2:"b Der Mensch wird nur noch digital handeln.",
+      task_2_6_3:"c Der Mensch wird sich andere Formen des Handels überlegen.",
+      
+      
+
+      
+
+      
+
+      
+      
 
   },
 

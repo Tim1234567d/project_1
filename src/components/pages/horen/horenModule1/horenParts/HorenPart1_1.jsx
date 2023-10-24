@@ -14,12 +14,14 @@ const HorenPart1_1= () => {
             <p >{hey.explanation_1_3}</p>
             <p className="part1">{hey.explanation_1_4}</p>
             <p >{hey.explanation_1_5}</p>
+
             <p>{hey.task_1_1}</p>
             <p>{hey.task_1_1_1}</p>
             <p>{hey.task_1_2}</p>
             <p>{hey.task_1_2_1}</p>
             <p>{hey.task_1_2_2}</p>
             <p className="part1">{hey.task_1_2_3}</p>
+            
             <p>{hey.task_1_3}</p>
             <p>{hey.task_1_3_1}</p>
             <p>{hey.task_1_4}</p>
@@ -54,12 +56,6 @@ const HorenPart1_1= () => {
             <p>{hey.task_1_12_1}</p>
             <p>{hey.task_1_12_2}</p>
             <p className="part1">{hey.task_1_12_3}</p>
-
-           
-            
-       
-         
-
           </div>
         ))}
       </section>
