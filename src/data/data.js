@@ -741,9 +741,6 @@ export const Lesen_data_moduleFour = [
 ];
 
 
-
-
-
 export const Horen_data_moduleOne = [
   {
     id: "0",
@@ -939,9 +936,203 @@ export const Horen_data_moduleOne = [
       task_4_8_1:"a früh ins Bett gehen.",
       task_4_8_2:"b nur noch wiederholen, was Spaß macht.",
       task_4_8_3:"c sich nicht mehr mit der Prüfung beschäftigen.",
+  },
+];
+
+export const Horen_data_moduleTwo = [
+  {
+    id: "0",
+    part_1: "Module №2 hören",
+    teil_1: "Hören Teil 1",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+
+      explanation_1:"Sie hören fünf Gespräche und Äußerungen.",
+      explanation_1_2:"Sie hören jeden Text einmal. Zu jedem Text lösen Sie zwei Aufgaben.",
+      explanation_1_3:"Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+      explanation_1_4:"Lesen Sie jetzt das Beispiel. Dazu haben Sie 15 Sekunden Zeit.",
+      explanation_1_5:"Beispiel:",
+      task_1_1:"01 Zwei Studenten berichten über ihre Erlebnisse bei einer Veranstaltung",
+      task_1_1_1:"Richtig. Falsch  X.",
+      task_1_2:"02 Die Veranstaltung richtet sich ...",
+      task_1_2_1:"a an alle, die sich für Naturwissenschaften interessieren.  X",
+      task_1_2_2:"b in erster Linie an Kinder.",
+      task_1_2_3:"c vor allem an Studierende.",
+
+      task_1_3:"1 Der Mann möchte Theaterkurse geben.",
+      task_1_3_1:"Richtig. Falsch.",
+      task_1_4:"2 Was ist die Voraussetzung tlafür, dass die Theatergruppe stattfindet?",
+      task_1_4_1:"a Die Teilnehmer müssen an zehn Wochenenden Zeit haben.",
+      task_1_4_2:"b Die Teilnehmer müssen sich gemeinsam auf ein Theaterstück einigen.",
+      task_1_4_3:"c Es müssen sich genügend Interessenten anmelden.",
+
+      task_1_5:"3 Die Sprecher ärgern sich über Lebensmittelverschwendung.",
+      task_1_5_1:"Richtig. Falsch.",
+      task_1_6:"4 Die Frau hat Bedenken, dass ...",
+      task_1_6_1:"a arme Leute die App vielleicht gar nicht nutzen können.",
+      task_1_6_2:"b die App kompliziert zu bedienen ist.",
+      task_1_6_3:"c die Supermärkte Lebensmittel nicht kostenlos abgeben.",
+
+      task_1_7:"5 Ein Moderator berichtet über die steigende Mobilität unter Beschäftigten.",
+      task_1_7_1:"Richtig. Falsch.",
+      task_1_8:"6 Was ist ein Grund dafür, dass so viele Menschen pendeln?",
+      task_1_8_1:"a Die Arbeitswelt ändert sich.",
+      task_1_8_2:"b Die Kosten für einen Umzug sind oft zu hoch.",
+      task_1_8_3:"c Es gibt zu wenig leer stehende Wohnungen.",
+
+      task_1_9:"7 Die Frau erzäh lt, warum sie gerne Fremdsprachen lernt.",
+      task_1_9_1:"Richtig. Falsch.",
+      task_1_10:"8 Ihr gefällt an ihrer Arbeit, dass ...",
+      task_1_10_1:"a sie ihre Sprachkenntnisse anwenden kann.",
+      task_1_10_2:"b sie selbstständig arbeiten kann.",
+      task_1_10_3:"c sie viele Menschen kennenlernt.",
+
+      task_1_11:"9 Eine Frau hat Probleme mit ihren Arbeitsbedingungen.",
+      task_1_11_1:"Richtig. Falsch.",
+      task_1_12:"10 Es fällt ihr schwer, ...",
+      task_1_12_1:"a mit ihren Kollegen zu sprechen.",
+      task_1_12_2:"b sich bei der Arbeit zu konzentrieren.",
+      task_1_12_3:"c sich für ihre Arbeit zu begeistern.",
 
   },
+  {
+    id: "1",
+    part_2: "Module №2 hören",
+    teil_2: "Hören Teil 2",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
 
+      explanation_2:"Sie hören im Radio ein Interview mit einer Persönlichkeit aus der Wissenschaft.",
+      explanation_2_2:"Sie hören den Text zweimal. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+      explanation_2_3:"Lesen Sie jetzt die Aufgaben 11 bis 16. Dazu haben Sie 90 Sekunden Zeit.",
+      
+      task_2_1:"11 Herr Dromi hat seine Zweifel, dass ...",
+      task_2_1_1:"a die Verkehrspolitik auf selbstfahrende Autos vorbereitet ist.",
+      task_2_1_2:"b es auch bald fliegende Autos geben wird.",
+      task_2_1_3:"c genug Geld zur Entwicklung selbstfahrender Autos zur Verfügung steht.",
+
+      task_2_2:"12 Warum wären die heutigen Städte schlecht für selbstfahrende Autos geeignet?",
+      task_2_2_1:"a Die heutigen Fahrbahnen sind zu klein.",
+      task_2_2_2:"b Die Städte können zusätzlichen Verkehr nicht mehr aufnehmen.",
+      task_2_2_3:"c Selbstfahrende Autos brauchen spezielle Straßen.",
+
+      task_2_3:"13 Wie würde sich das Verhalten der Fußgänger ändern?",
+      task_2_3_1:"a Sie hätten sehr große Angst vor den selbstfahrenden Autos.",
+      task_2_3_2:"b Sie würden noch weniger auf die Verkehrsregeln achten als früher.",
+      task_2_3_3:"c Sie würden sehr lange an den Fußgängerüberwegen stehen und warten.",
+
+      task_2_4:"14 Worin sieht Herr Dromi eine weitere Komplikation?",
+      task_2_4_1:"a Bei Staus funktionieren die automatisierten Systeme noch schlecht.",
+      task_2_4_2:"b Im Nebeneinander von selbstfahrenden und herkömmlichen Fahrzeugen in der Stadt.",
+      task_2_4_3:"c Selbstfahrende Fahrzeuge sind nur auf Autobahnen sinnvoll.",
+
+      task_2_5:"15 Was gilt nach Meinung von Herrn Dromi für die fliegenden Autos?",
+      task_2_5_1:"a Die Menschen werden lange brauchen, bis sie sie akzeptieren.",
+      task_2_5_2:"b Lufttaxis werden bereits erfolgreich eingesetzt.",
+      task_2_5_3:"c Man braucht für sie keine neue Infrastruktur.",
+
+      task_2_6:"16 Was ist in Zukunft wichtig?",
+      task_2_6_1:"a Eine enge Kooperation aller Fahrzeughersteller.",
+      task_2_6_2:"b Eine Kontrolle der Anzahl der fliegenden Fahrzeuge.",
+      task_2_6_3:"c Verbindliche Vorschriften für alle sich autonom fortbewegenden Fahrzeuge.",
+  },
+  {
+    id: "2",
+    part_3: "Module №1 hören",
+    teil_3: "Hören Teil 3",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+
+      explanation_3:"Sie hören im Radio ein Gespräch mit mehreren Personen. Die Personen sprechen über Stress am Arbeitsplatz.",
+      explanation_3_2:"Sie hören den Text einmal. Wählen Sie bei jeder Aufgabe: Wer sagt das?",
+      explanation_3_3:"Lesen Sie jetzt die Aufgaben 17 bis 22. Dazu haben Sie 60 Sekunden Zeit.",
+      
+      task_3_1:"0 Die Belastung am Arbeitsplatz nimmt immer mehr zu.",
+      task_3_1_1:"a Moderatorin. X",
+      task_3_1_2:"b Stressberaterin",
+      task_3_1_3:"c Betriebsratsmitglied",
+
+      task_3_2:"17 Ich helfe Arbeitnehmern, die Stress haben.",
+      task_3_2_1:"a Moderatorin",
+      task_3_2_2:"b Stressberaterin",
+      task_3_2_3:"c Betriebsratsmitglied",
+
+      task_3_3:"18 Es wird oft nicht gesehen, dass Stress ein Problem ist.",
+      task_3_3_1:"a Moderatorin",
+      task_3_3_2:"b Stressberaterin",
+      task_3_3_3:"c Betriebsratsmitglied",
+
+      task_3_4:"19 Maßnahmen zur Vorbeugung sind wichtig.",
+      task_3_4_1:"a Moderatorin",
+      task_3_4_2:"b Stressberaterin",
+      task_3_4_3:"c Betriebsratsmitglied",
+
+      task_3_5:"20 Mitarbeiter müssen konkret motiviert werden, etwas gegen Stress zu unternehmen.",
+      task_3_5_1:"a Moderatorin",
+      task_3_5_2:"b Stressberaterin",
+      task_3_5_3:"c Betriebsratsmitglied",
+
+      task_3_6:"21 Es besteht der Wunsch nach verbindlichen Regelungen zum Stressabbau.",
+      task_3_6_1:"a Moderatorin",
+      task_3_6_2:"b Stressberaterin",
+      task_3_6_3:"c Betriebsratsmitglied",
+
+      task_3_7:"22 Maßnahmen zum Stressabbau sollen in den Betrieben geklärt werden.",
+      task_3_7_1:"a Moderatorin",
+      task_3_7_2:"b Stressberaterin",
+      task_3_7_3:"c Betriebsratsmitglied",
+  },
+  {
+    id: "3",
+    part_4: "Module №1 hören",
+    teil_4: "Hören Teil 4",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+
+      explanation_4:"Sie hören einen kurzen Vortrag. Der Redner spricht über das Thema «Prüfungsängste überwinden».",
+      explanation_4_2:"Sie hören den Text zweimal. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+      explanation_4_3:"Lesen Sie jetzt die Aufgaben 23 bis 30. Dazu haben Sie 90 Sekunden Zeit.",
+      
+      task_4_1:"23 Aufregung vor einer Prüfung ...",
+      task_4_1_1:"a ist nicht nur negativ.",
+      task_4_1_2:"b schadet der Konzentration.",
+      task_4_1_3:"c sollte man vermeiden.",
+
+      task_4_2:"24 Bei der Prüfungsvorbereitung sollte man ...",
+      task_4_2_1:"a an seinen Schwächen arbeiten.",
+      task_4_2_2:"b sich an den gestellten Anforderungen orientieren.",
+      task_4_2_3:"c sich zuerst auf die einfachen Aufgaben konzentrieren.",
+
+      task_4_3:"25 Auswendig lernen ...",
+      task_4_3_1:"a ist für viele Menschen die beste Methode.",
+      task_4_3_2:"b ist in Einzelfällen sinnvoll.",
+      task_4_3_3:"c kann auch zu noch größerem Stress führen.",
+
+      task_4_4:"26 Herr Lehmann rät dazu, ...",
+      task_4_4_1:"a auch in der Freizeit Prüfungsstoff zu wiederholen.",
+      task_4_4_2:"b immer nach zehn Stunden eine lange Pause einzulegen.",
+      task_4_4_3:"c nach einem Plan zu arbeiten.",
+
+      task_4_5:"27 Morgenmenschen ...",
+      task_4_5_1:"a haben keine spezifischen Vorteile.",
+      task_4_5_2:"b können Prüfungen besser bewältigen.",
+      task_4_5_3:"c sind am nächsten Tag konzentrierter.",
+
+      task_4_6:"28 Laut Herrn Lehmann ...",
+      task_4_6_1:"a kann man am besten in Bibliotheken arbeiten.",
+      task_4_6_2:"b kann man sich zu Hause schlecht vorbereiten.",
+      task_4_6_3:"c sind Ablenkungen häufig schwer zu vermeiden.",
+
+      task_4_7:"29 Es gibt auch Menschen, die ...",
+      task_4_7_1:"a auch vor einer Prüfung Freizeitstress brauchen.",
+      task_4_7_2:"b mit Atemübungen nichts anfangen können.",
+      task_4_7_3:"c Prüfungsstress lieben.",
+
+      task_4_8:"30 Am Abend vor der Prüfung sollte man ...",
+      task_4_8_1:"a früh ins Bett gehen.",
+      task_4_8_2:"b nur noch wiederholen, was Spaß macht.",
+      task_4_8_3:"c sich nicht mehr mit der Prüfung beschäftigen.",
+  },
 ];
 
 export const Schreiben_data = [

@@ -24,6 +24,7 @@ import LesenModule4 from "./components/pages/lesen/lesenModule4/LesenModule4";
 
 // horen 
 import HorenModule1 from "./components/pages/horen/horenModule1/HorenModule1";
+import HorenModule2 from "./components/pages/horen/horenModule2/HorenModule2"
 
 // schreiben 
 import SchreibenModule1 from "./components/pages/schreiben/schreibenModule/SchreibenModule1/SchreibenModule1";
@@ -66,6 +67,12 @@ import HorenPart1_2 from "./components/pages/horen/horenModule1/horenParts/Horen
 import HorenPart1_3 from "./components/pages/horen/horenModule1/horenParts/HorenPart1_3";
 import HorenPart1_4 from "./components/pages/horen/horenModule1/horenParts/HorenPart1_4";
 
+// horen parts №2
+import HorenPart2_1 from "./components/pages/horen/horenModule2/horenParts/HorenPart2_1";
+import HorenPart2_2 from "./components/pages/horen/horenModule2/horenParts/HorenPart2_2";
+// import HorenPart1_3 from "./components/pages/horen/horenModule1/horenParts/HorenPart1_3";
+// import HorenPart1_4 from "./components/pages/horen/horenModule1/horenParts/HorenPart1_4";
+
 // schreiben parts 
 import SchreibenPart from "./components/pages/schreiben/schreibenModule/SchreibenModule1/SchreibenPart";
 
@@ -90,13 +97,17 @@ function App() {
         <Route path="/schreiben" element={<Schreiben />} />
         <Route path="/sprechen" element={<Sprechen />} />
 
-        {/* ** Module  */}
+        {/* ** Module lesen  */}
         <Route path="/lesenModule1" element={<LesenModule1 />} />
         <Route path="/lesenModule2" element={<LesenModule2 />} />
         <Route path="/lesenModule3" element={<LesenModule3 />} />
         <Route path="/lesenModule4" element={<LesenModule4 />} />
 
+        {/* ** Module horen  */}
         <Route path="horenModule1" element={<HorenModule1 />} />
+        <Route path="horenModule2" element={<HorenModule2 />} />
+
+        {/* ** Module  */}
         <Route path="schreibenModule1" element={<SchreibenModule1 />} />
         <Route path="sprechenModule1" element={<SprechenModule1 />} />
 
@@ -133,6 +144,12 @@ function App() {
         <Route path="/horenModule1/horenPart1_2" element={<HorenPart1_2 />} />
         <Route path="/horenModule1/horenPart1_3" element={<HorenPart1_3 />} />
         <Route path="/horenModule1/horenPart1_4" element={<HorenPart1_4 />} />
+
+        {/* **  Horen module 2 parts */}
+        <Route path="/horenModule2/horenPart2_1" element={<HorenPart2_1 />} />
+        <Route path="/horenModule2/horenPart2_2" element={<HorenPart2_2 />} />
+        {/* <Route path="/horenModule1/horenPart1_3" element={<HorenPart1_3 />} />
+        <Route path="/horenModule1/horenPart1_4" element={<HorenPart1_4 />} /> */}
 
 
          {/* ** Module  parts  */}

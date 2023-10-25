@@ -1,16 +1,14 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-const HorenModule1 = () => {
+const HorenModule2 = () => {
   return (
     <div className="wrapper">
       <section className="lesenModule_section">
         <div className="lesenModule_title">
-          
-
         </div>
         <div className="lesenModule_parts">
-          <Link to={`/horenModule1/horenPart1_1`}>
+          <Link to={`/horenModule2/horenPart2_1`}>
             <div className="lesenModule_part">
               <img
                 className="lesenModule_backImg"
@@ -18,11 +16,11 @@ const HorenModule1 = () => {
                 alt="service img"
               />
               <div className="lesenModule_part_title_wrapper">
-                <h3 className="lesenModule_parts_title">horen part 1</h3>
+                <h3 className="lesenModule_parts_title">horen module 2 part 1</h3>
               </div>
             </div>
           </Link>
-          <Link to={`/horenModule1/horenPart1_2`}>
+          <Link to={`/horenModule2/horenPart2_2`}>
             <div className="lesenModule_part">
               <img
                 className="lesenModule_backImg"
@@ -30,11 +28,11 @@ const HorenModule1 = () => {
                 alt="service img"
               />
               <div className="lesenModule_part_title_wrapper">
-                <h3 className="lesenModule_parts_title">horen part 2</h3>
+                <h3 className="lesenModule_parts_title">horen module 2 part 2</h3>
               </div>
             </div>
           </Link>
-          <Link to={`/horenModule1/horenPart1_3`}>
+          <Link to={`/horenModule2/horenPart2_3`}>
             <div className="lesenModule_part">
               <img
                 className="lesenModule_backImg"
@@ -42,11 +40,11 @@ const HorenModule1 = () => {
                 alt="service img"
               />
               <div className="lesenModule_part_title_wrapper">
-                <h3 className="lesenModule_parts_title">horen part 3</h3>
+                <h3 className="lesenModule_parts_title">horen module 2 part 3</h3>
               </div>
             </div>
           </Link>
-          <Link to={`/horenModule1/horenPart1_4`}>
+          <Link to={`/horenModule2/horenPart2_4`}>
             <div className="lesenModule_part">
               <img
                 className="lesenModule_backImg"
@@ -54,7 +52,7 @@ const HorenModule1 = () => {
                 alt="service img"
               />
               <div className="lesenModule_part_title_wrapper">
-                <h3 className="lesenModule_parts_title">horen part 4</h3>
+                <h3 className="lesenModule_parts_title">horen module 2 part 4</h3>
               </div>
             </div>
           </Link>
@@ -64,4 +62,4 @@ const HorenModule1 = () => {
   );
 };
 
-export default HorenModule1;
+export default HorenModule2;
