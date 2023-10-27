@@ -1,11 +1,11 @@
 import React from "react";
-import { Horen_data_moduleOne } from "../../../../../data/data.js";
+import { Horen_data_moduleThree } from "../../../../../data/data.js";
 
-const HorenPart1_3= () => {
+const HorenPart3_3= () => {
   return (
     <div className="wrapper">
       <section className="lesenPart_section">
-        {Horen_data_moduleOne.map((hey) => (
+        {Horen_data_moduleThree.map((hey) => (
           <div>  
             <h3 className="part1">{hey.part_3}</h3>
             <h3 className="part1">{hey.teil_3}</h3>
@@ -55,4 +55,4 @@ const HorenPart1_3= () => {
   );
 };
 
-export default HorenPart1_3;
+export default HorenPart3_3;
