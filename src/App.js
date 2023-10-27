@@ -26,7 +26,7 @@ import LesenModule4 from "./components/pages/lesen/lesenModule4/LesenModule4";
 import HorenModule1 from "./components/pages/horen/horenModule1/HorenModule1";
 import HorenModule2 from "./components/pages/horen/horenModule2/HorenModule2"
 import HorenModule3 from "./components/pages/horen/horenModule3/HorenModule3"
-// import HorenModule3 from "./components/pages/horen/horenModule3/HorenModule3"
+import HorenModule4 from "./components/pages/horen/horenModule4/HorenModule4"
 
 // schreiben 
 import SchreibenModule1 from "./components/pages/schreiben/schreibenModule/SchreibenModule1/SchreibenModule1";
@@ -81,6 +81,12 @@ import HorenPart3_2 from "./components/pages/horen/horenModule3/horenParts/Horen
 import HorenPart3_3 from "./components/pages/horen/horenModule3/horenParts/HorenPart3_3";
 import HorenPart3_4 from "./components/pages/horen/horenModule3/horenParts/HorenPart3_4";
 
+// horen parts №4
+import HorenPart4_1 from "./components/pages/horen/horenModule4/horenParts/HorenPart4_1";
+// import HorenPart3_2 from "./components/pages/horen/horenModule3/horenParts/HorenPart3_2";
+// import HorenPart3_3 from "./components/pages/horen/horenModule3/horenParts/HorenPart3_3";
+// import HorenPart3_4 from "./components/pages/horen/horenModule3/horenParts/HorenPart3_4";
+
 // schreiben parts 
 import SchreibenPart from "./components/pages/schreiben/schreibenModule/SchreibenModule1/SchreibenPart";
 
@@ -115,7 +121,7 @@ function App() {
         <Route path="horenModule1" element={<HorenModule1 />} />
         <Route path="horenModule2" element={<HorenModule2 />} />
         <Route path="horenModule3" element={<HorenModule3 />} />
-        {/* <Route path="horenModule2" element={<HorenModule2 />} /> */}
+        <Route path="horenModule4" element={<HorenModule4 />} />
 
         {/* ** Module  */}
         <Route path="schreibenModule1" element={<SchreibenModule1 />} />
@@ -166,6 +172,12 @@ function App() {
         <Route path="/horenModule3/horenPart3_2" element={<HorenPart3_2 />} />
         <Route path="/horenModule3/horenPart3_3" element={<HorenPart3_3 />} />
         <Route path="/horenModule3/horenPart3_4" element={<HorenPart3_4 />} />
+
+        {/* **  Horen module 4 parts */}
+        <Route path="/horenModule4/horenPart4_1" element={<HorenPart4_1 />} />
+        {/* <Route path="/horenModule3/horenPart3_2" element={<HorenPart3_2 />} />
+        <Route path="/horenModule3/horenPart3_3" element={<HorenPart3_3 />} />
+        <Route path="/horenModule3/horenPart3_4" element={<HorenPart3_4 />} /> */}
 
 
          {/* ** Module  parts  */}
