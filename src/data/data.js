@@ -1134,6 +1134,201 @@ export const Horen_data_moduleTwo = [
       task_4_8_3:"c es in anderen Ländern Interesse an einem Glücksindex gibt.",
   },
 ];
+export const Horen_data_moduleThree = [
+  {
+    id: "0",
+    part_1: "Module №3 hören",
+    teil_1: "Hören Teil 1",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+
+      explanation_1:"Sie hören fünf Gespräche und Äußerungen.",
+      explanation_1_2:"Sie hören jeden Text einmal. Zu jedem Text lösen Sie zwei Aufgaben.",
+      explanation_1_3:"Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+      explanation_1_4:"Lesen Sie jetzt das Beispiel. Dazu haben Sie 15 Sekunden Zeit.",
+      explanation_1_5:"Beispiel:",
+      task_1_1:"01 Eine Frau hat ihre Reisegewohnheiten geändert.",
+      task_1_1_1:"Richtig. Falsch  X.",
+      task_1_2:"02 Was findet sie wichtig?",
+      task_1_2_1:"a Billig zu reisen.",
+      task_1_2_2:"b Gute Informationen zu bekommen.  X",
+      task_1_2_3:"c Sich schnell zu entscheiden.",
+
+      task_1_3:"1 Ein Moderator berichtet über die Situation auf dem Arbeitsmarkt.",
+      task_1_3_1:"Richtig. Falsch.",
+      task_1_4:"2 In den vergangenen sechs Mbnaten ...",
+      task_1_4_1:"a gab es Wahlen.",
+      task_1_4_2:"b haben Arbeitnehmer besser verdient.",
+      task_1_4_3:"c sind die Preise stark gestiegen.",
+
+      task_1_5:"3 Eine Frau berichtet über die Aktivitäten einer Fitnessschule.",
+      task_1_5_1:"Richtig. Falsch.",
+      task_1_6:"4 Wenn genug Punkte auf der Bonuskarte sind, ...",
+      task_1_6_1:"a ist die Teilnahme an Gesundheitskursen billiger.",
+      task_1_6_2:"b kann man an zusätzlichen Maßnahmen teilnehmen.",
+      task_1_6_3:"c kann man zum Beispiel Sportgeräte gratis bekommen.",
+
+      task_1_7:"5 Die beiden Freunde unterhalten sich über die Sicherheit im Straßenverkehr.",
+      task_1_7_1:"Richtig. Falsch.",
+      task_1_8:"6 Eine Heimpflicht für Radfahrer ...",
+      task_1_8_1:"a finden beide nicht praktikabel.",
+      task_1_8_2:"b finden beide wichtig.",
+      task_1_8_3:"c halten beide für übertrieben.",
+
+      task_1_9:"7 Die Frau hatte gestern Besuch von einem Kunden.",
+      task_1_9_1:"Richtig. Falsch.",
+      task_1_10:"8 Was war das Problem?",
+      task_1_10_1:"a Der Kunde fand einige Produkte zu teuer.",
+      task_1_10_2:"b Einige Produkte werden nicht mehr hergeste llt.",
+      task_1_10_3:"c Nicht alle Produkte sind sofort verfügbar.",
+
+      task_1_11:"9 Ein Mann und eine Frau unterhalten sich über Filme.",
+      task_1_11_1:"Richtig. Falsch.",
+      task_1_12:"10 Der Mann findet, dass ...",
+      task_1_12_1:"a das Kinoangebot schlechter geworden ist.",
+      task_1_12_2:"b das Kino keine Zukunft mehr hat.",
+      task_1_12_3:"c es kaum noch interessante Filme gibt.",
+
+  },
+  {
+    id: "1",
+    part_2: "Module №2 hören",
+    teil_2: "Hören Teil 2",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+
+      explanation_2:"Sie hören im Radio ein Interview mit einer Persönlichkeit aus der Wissenschaft.",
+      explanation_2_2:"Sie hören den Text zweimal. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+      explanation_2_3:"Lesen Sie jetzt die Aufgaben 11 bis 16. Dazu haben Sie 90 Sekunden Zeit.",
+      
+      task_2_1:"11 Herr Dromi hat seine Zweifel, dass ...",
+      task_2_1_1:"a die Verkehrspolitik auf selbstfahrende Autos vorbereitet ist.",
+      task_2_1_2:"b es auch bald fliegende Autos geben wird.",
+      task_2_1_3:"c genug Geld zur Entwicklung selbstfahrender Autos zur Verfügung steht.",
+
+      task_2_2:"12 Warum wären die heutigen Städte schlecht für selbstfahrende Autos geeignet?",
+      task_2_2_1:"a Die heutigen Fahrbahnen sind zu klein.",
+      task_2_2_2:"b Die Städte können zusätzlichen Verkehr nicht mehr aufnehmen.",
+      task_2_2_3:"c Selbstfahrende Autos brauchen spezielle Straßen.",
+
+      task_2_3:"13 Wie würde sich das Verhalten der Fußgänger ändern?",
+      task_2_3_1:"a Sie hätten sehr große Angst vor den selbstfahrenden Autos.",
+      task_2_3_2:"b Sie würden noch weniger auf die Verkehrsregeln achten als früher.",
+      task_2_3_3:"c Sie würden sehr lange an den Fußgängerüberwegen stehen und warten.",
+
+      task_2_4:"14 Worin sieht Herr Dromi eine weitere Komplikation?",
+      task_2_4_1:"a Bei Staus funktionieren die automatisierten Systeme noch schlecht.",
+      task_2_4_2:"b Im Nebeneinander von selbstfahrenden und herkömmlichen Fahrzeugen in der Stadt.",
+      task_2_4_3:"c Selbstfahrende Fahrzeuge sind nur auf Autobahnen sinnvoll.",
+
+      task_2_5:"15 Was gilt nach Meinung von Herrn Dromi für die fliegenden Autos?",
+      task_2_5_1:"a Die Menschen werden lange brauchen, bis sie sie akzeptieren.",
+      task_2_5_2:"b Lufttaxis werden bereits erfolgreich eingesetzt.",
+      task_2_5_3:"c Man braucht für sie keine neue Infrastruktur.",
+
+      task_2_6:"16 Was ist in Zukunft wichtig?",
+      task_2_6_1:"a Eine enge Kooperation aller Fahrzeughersteller.",
+      task_2_6_2:"b Eine Kontrolle der Anzahl der fliegenden Fahrzeuge.",
+      task_2_6_3:"c Verbindliche Vorschriften für alle sich autonom fortbewegenden Fahrzeuge.",
+  },
+  {
+    id: "2",
+    part_3: "Module №2 hören",
+    teil_3: "Hören Teil 3",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+
+      explanation_3:"Sie hören im Radio ein Gespräch mit mehreren Personen. Die Personen sprechen über Stress am Arbeitsplatz.",
+      explanation_3_2:"Sie hören den Text einmal. Wählen Sie bei jeder Aufgabe: Wer sagt das?",
+      explanation_3_3:"Lesen Sie jetzt die Aufgaben 17 bis 22. Dazu haben Sie 60 Sekunden Zeit.",
+      
+      task_3_1:"0 In den Ferien haben viele Menschen ein Problem mit ihren Haustieren.",
+      task_3_1_1:"a Moderatorin. X",
+      task_3_1_2:"b Studentin",
+      task_3_1_3:"c Mitglied des Tierschutzbundes",
+
+      task_3_2:"17 Mir ist es unmöglich, tagsüber ein Tier bei mir zu haben.",
+      task_3_2_1:"a Moderatorin",
+      task_3_2_2:"b Studentin",
+      task_3_2_3:"c Mitglied des Tierschutzbundes",
+
+      task_3_3:"18 Tiere können bei der Erziehung der Kinder helfen.",
+      task_3_3_1:"a Moderatorin",
+      task_3_3_2:"b Studentin",
+      task_3_3_3:"c Mitglied des Tierschutzbundes",
+
+      task_3_4:"19 Sein Tier auf Reisen mitzunehmen, geht nur in bestimmten Fällen.",
+      task_3_4_1:"a Moderatorin",
+      task_3_4_2:"b Studentin",
+      task_3_4_3:"c Mitglied des Tierschutzbundes",
+
+      task_3_5:"20 Für mich stehen bürokratische Bestimmungen nicht an erster Stelle.",
+      task_3_5_1:"a Moderatorin",
+      task_3_5_2:"b Studentin",
+      task_3_5_3:"c Mitglied des Tierschutzbundes",
+
+      task_3_6:"21 Ich kann nicht verstehen, dass manche Leute Tiere wie Waren behandeln.",
+      task_3_6_1:"a Moderatorin",
+      task_3_6_2:"b Studentin",
+      task_3_6_3:"c Mitglied des Tierschutzbundes",
+
+      task_3_7:"22 Ich denke, dass von Seiten des Staates heute mehr Rücksicht aufTiere genommen wird.",
+      task_3_7_1:"a Moderatorin",
+      task_3_7_2:"b Studentin",
+      task_3_7_3:"c Mitglied des Tierschutzbundes",
+  },
+  {
+    id: "3",
+    part_4: "Module №2 hören",
+    teil_4: "Hören Teil 4",
+    backImg:
+      "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+
+      explanation_4:"Sie hören einen kurzen Vortrag. Der Redner spricht über das Thema «Prüfungsängste überwinden».",
+      explanation_4_2:"Sie hören den Text zweimal. Wählen Sie bei jeder Aufgabe die richtige Lösung.",
+      explanation_4_3:"Lesen Sie jetzt die Aufgaben 23 bis 30. Dazu haben Sie 90 Sekunden Zeit.",
+      
+      task_4_1:"23 Durch den Weltglückstag sollen Länder motiviert werden, ...",
+      task_4_1_1:"a die Wirtschaftspolitik zu ändern.",
+      task_4_1_2:"b etwas gegen Armut zu tun.",
+      task_4_1_3:"c Wohlstand anders zu ermitteln.",
+
+      task_4_2:"24 Viel Geld zu besitzen ...",
+      task_4_2_1:"a hängt von vielen Faktoren ab.",
+      task_4_2_2:"b ist ein wichtiges Kriterium für Glück.",
+      task_4_2_3:"c muss längerfristig nicht zu Zufriedenheit führen.",
+
+      task_4_3:"25 Wachstum als statistische Größe .. .",
+      task_4_3_1:"a arbeitet mit falschen Daten.",
+      task_4_3_2:"b erfasst nicht alle wichtigen Details.",
+      task_4_3_3:"c ist nicht mehr aktuell.",
+
+      task_4_4:"26 Laut Herrn Hölzer sollte die Wirtschaftspolitik .. .",
+      task_4_4_1:"a neue Analysen in Auftrag geben.",
+      task_4_4_2:"b neue Wege suchen.",
+      task_4_4_3:"c nicht nur national denken.",
+
+      task_4_5:"27 Was ist für den Nationalen Glücksindex entscheidend?",
+      task_4_5_1:"a Alle Bereiche des menschlichen Lebens werden berücksichtigt.",
+      task_4_5_2:"b Der Konsum spielt keine Rolle mehr.",
+      task_4_5_3:"c Persönliche Glücksvorstellungen stehen zentral.",
+
+      task_4_6:"28 Herr Hölzer ist der Meinung, dass die Erfahrungen aus Bhutan in Deutschland ...",
+      task_4_6_1:"a anwendbar sein könnten.",
+      task_4_6_2:"b den Lebensstandard nur schwer abbilden können.",
+      task_4_6_3:"c nur schwer verstanden werden.",
+
+      task_4_7:"29 Was ist der Nationale Wohlfahrtsindex?",
+      task_4_7_1:"a Eine ökologische Größe.",
+      task_4_7_2:"b Eine Zah l, die sich aus vielfältigen Daten berechnet.",
+      task_4_7_3:"c Ein Index für die Lohnentwicklung.",
+
+      task_4_8:"30 Herr Hölzer zweifelt daran, dass . ..",
+      task_4_8_1:"a die Gesellschaften weiter wachsen werden.",
+      task_4_8_2:"b ein Glücksindex dauerhaften Erfolg haben wird.",
+      task_4_8_3:"c es in anderen Ländern Interesse an einem Glücksindex gibt.",
+  },
+];
 
 export const Schreiben_data = [
   {

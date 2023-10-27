@@ -74,6 +74,18 @@ const Horen = () => {
               </div>
             </div>
           </Link>
+          <Link to="/horenModule3">
+            <div className="horen_module">
+              <img
+                className="horen_backImg"
+                src="https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A="
+                alt="lesen img"
+              />
+              <div className="horen_title_wrapper">
+                <h3 className="horen_module_title">Horen module 3</h3>
+              </div>
+            </div>
+          </Link>
         </div>
       </section>
     </div>
