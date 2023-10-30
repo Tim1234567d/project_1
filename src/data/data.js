@@ -1532,7 +1532,7 @@ export const Schedule_data = {
       backImg:
         "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
   
-        explanation_1_1: "Sie schreiben einen Forumsbeitrag zum Thema fleischreiche Ernährung.",
+        explanation_1_1: "Sie schreiben einen Forumsbeitrag zum Thema «fleischreiche Ernährung».",
         task_1_1: "• Äußern Sie Ihre Meinung zu fleischreicher Ernährung im Alltag.",
         task_1_2: "• Nennen Sie Gründe, warum eine Ernährung mit Fleisch so verbreitet ist.",
         task_1_3: "• Nennen Sie andere Möglichkeiten, sich zu ernähren.",
@@ -1554,9 +1554,6 @@ export const Schedule_data = {
         explanation_2_2: "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprach lich miteinander verknüpft sind.",
         explanation_2_3: "Vergessen Sie nicht Anrede und Gruß. Schreiben Sie mindestens 100 Wörter.",
     },
-  
-    
-  
   ];
   export const Schreiben_data_moduleTwo = [
     {
@@ -1566,11 +1563,11 @@ export const Schedule_data = {
       backImg:
         "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
   
-        explanation_1_1: "Sie schreiben einen Forumsbeitrag zum Thema fleischreiche Ernährung.",
-        task_1_1: "• Äußern Sie Ihre Meinung zu fleischreicher Ernährung im Alltag.",
-        task_1_2: "• Nennen Sie Gründe, warum eine Ernährung mit Fleisch so verbreitet ist.",
-        task_1_3: "• Nennen Sie andere Möglichkeiten, sich zu ernähren.",
-        task_1_4: "• Nennen Sie Vorteile anderer Ernährung.",
+        explanation_1_1: "Sie schreiben einen Forumsbeitrag zum Thema «Führerschein schon ab 16 Jahren».",
+        task_1_1: "• Äußern Sie Ihre Meinung zum Führerschein ab 16.",
+        task_1_2: "• Nennen Sie Gründe, warum Jugendliche mit 16 schon Auto fahren sollten.",
+        task_1_3: "• Nennen Sie andere Möglichkeiten für Jugendliche, mobil zu sein.",
+        task_1_4: "• Nennen Sie Vorteile anderer Mobilitätsarten.",
         explanation_1_2: "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.",
         explanation_1_3: "Schreiben Sie mindestens 150 Wörter.",
     },
@@ -1580,17 +1577,45 @@ export const Schedule_data = {
       backImg:
         "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
   
-        explanation_2_1: "Montagmorgen im Büro. Wegen starker Arbeitsüberlastung haben Sie es letzte Woche versäumt, eine wichtige Bestellung aufzugeben. Schreiben Sie eine Nachricht an Ihren Vorgesetzten, Herrn Schumann.",
-        task_2_1: "1 Entschu ldi gen Sie sich für I hren Fehler.",
-        task_2_2: "2 Erklären Sie, weshalb das passieren konnte .",
-        task_2_3: "3 Bitten Sie um Verständnis für Ihre Si tuat ion.",
-        task_2_4: "4 Machen Sie einen Vorschlag zur Lösung des Problems.",
-        explanation_2_2: "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprach lich miteinander verknüpft sind.",
+        explanation_2_1: "Sie machen ein Praktikum bei einer deutschen Firma. Wegen eines Missverständnisses haben Sie Einladungsmails für eine Sitzung mit falschem Datum und falscher Uhrzeit verschickt. Schreiben Sie eine Nachricht an Ihren Vorgesetzten, Herrn Sattler.",
+        task_2_1: "1 Entschuldigen Sie sich für Ihren Fehler.",
+        task_2_2: "2 Machen Sie einen Vorschlag zur Korrektur Ihres Fehlers.",
+        task_2_3: "3 Erklären Sie, wieso es zu einem Missverständnis kommen konnte.",
+        task_2_4: "4 Machen Sie einen Vorschlag, damit solche Fehler in Zukunft vermieden werden können.",
+        explanation_2_2: "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.",
         explanation_2_3: "Vergessen Sie nicht Anrede und Gruß. Schreiben Sie mindestens 100 Wörter.",
     },
+  ];
+  export const Schreiben_data_moduleThree = [
+    {
+      id: "0",
+      part_1: "Module №3 Schreiben ",
+      teil_1: "Teil №1",
+      backImg:
+        "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
   
-    
+        explanation_1_1: "Sie schreiben einen Forumsbeitrag zum Thema «Führerschein schon ab 16 Jahren».",
+        task_1_1: "• Äußern Sie Ihre Meinung zum Führerschein ab 16.",
+        task_1_2: "• Nennen Sie Gründe, warum Jugendliche mit 16 schon Auto fahren sollten.",
+        task_1_3: "• Nennen Sie andere Möglichkeiten für Jugendliche, mobil zu sein.",
+        task_1_4: "• Nennen Sie Vorteile anderer Mobilitätsarten.",
+        explanation_1_2: "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.",
+        explanation_1_3: "Schreiben Sie mindestens 150 Wörter.",
+    },
+    {
+      id: "1",
+      teil_2: "Teil №2",
+      backImg:
+        "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
   
+        explanation_2_1: "Sie machen ein Praktikum bei einer deutschen Firma. Wegen eines Missverständnisses haben Sie Einladungsmails für eine Sitzung mit falschem Datum und falscher Uhrzeit verschickt. Schreiben Sie eine Nachricht an Ihren Vorgesetzten, Herrn Sattler.",
+        task_2_1: "1 Entschuldigen Sie sich für Ihren Fehler.",
+        task_2_2: "2 Machen Sie einen Vorschlag zur Korrektur Ihres Fehlers.",
+        task_2_3: "3 Erklären Sie, wieso es zu einem Missverständnis kommen konnte.",
+        task_2_4: "4 Machen Sie einen Vorschlag, damit solche Fehler in Zukunft vermieden werden können.",
+        explanation_2_2: "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.",
+        explanation_2_3: "Vergessen Sie nicht Anrede und Gruß. Schreiben Sie mindestens 100 Wörter.",
+    },
   ];
   
   export const Sprechen_data = [

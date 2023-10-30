@@ -31,6 +31,8 @@ import HorenModule4 from "./components/pages/horen/horenModule4/HorenModule4"
 // schreiben 
 import SchreibenModule1 from "./components/pages/schreiben/schreibenModule/SchreibenModule1/SchreibenModule1";
 import SchreibenModule2 from "./components/pages/schreiben/schreibenModule/SchreibenModule2/SchreibenModule2";
+import SchreibenModule3 from "./components/pages/schreiben/schreibenModule/SchreibenModule3/SchreibenModule3";
+// import SchreibenModule2 from "./components/pages/schreiben/schreibenModule/SchreibenModule2/SchreibenModule2";
 
 // sprechen
 import SprechenModule1 from "./components/pages/sprechen/sprechenModule/SprechenModule1/SprechenModule1";
@@ -127,8 +129,8 @@ function App() {
         {/* ** Module schreiben */}
         <Route path="schreibenModule1" element={<SchreibenModule1 />} />
         <Route path="schreibenModule2" element={<SchreibenModule2 />} />
-        {/* <Route path="schreibenModule2" element={<SchreibenModule2 />} />
-        <Route path="schreibenModule2" element={<SchreibenModule2 />} /> */}
+        <Route path="schreibenModule3" element={<SchreibenModule3 />} />
+        {/* <Route path="schreibenModule2" element={<SchreibenModule2 />} /> */}
 
         {/* ** Module sprechen */}
         <Route path="sprechenModule1" element={<SprechenModule1 />} />
