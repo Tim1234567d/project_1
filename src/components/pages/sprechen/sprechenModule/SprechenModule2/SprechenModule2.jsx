@@ -1,14 +1,14 @@
 import React from "react";
-import { Sprechen_data_moduleOne } from "../../../../../data/data.js";
+import { Sprechen_data_moduleTwo } from "../../../../../data/data.js";
 
-const SprechenModule1 = () => {
+const SprechenModule2 = () => {
   return (
     <div className="wrapper">
       <section className="sprechenModule_section">
         <div className="sprechenModule_title">
         </div>
         <div className="sprechenModule_parts">
-          {Sprechen_data_moduleOne.map((word) => (
+          {Sprechen_data_moduleTwo.map((word) => (
             <div>
               <h3>{word.part_1}</h3>
               <h3>{word.teil_1}</h3>
@@ -52,4 +52,4 @@ const SprechenModule1 = () => {
   );
 };
 
-export default SprechenModule1;
+export default SprechenModule2;
