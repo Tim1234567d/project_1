@@ -1617,6 +1617,37 @@ export const Schedule_data = {
         explanation_2_3: "Vergessen Sie nicht Anrede und Gruß. Schreiben Sie mindestens 100 Wörter.",
     },
   ];
+  export const Schreiben_data_moduleFour = [
+    {
+      id: "0",
+      part_1: "Module №4 Schreiben ",
+      teil_1: "Teil №1",
+      backImg:
+        "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+  
+        explanation_1_1: "Sie schreiben einen Forums beitrag für junge Leute zum Thema «Benotung von Hausaufgaben».",
+        task_1_1: "• Äußern Sie Ihre Meinung zur Benotung von Hausaufgaben.",
+        task_1_2: "• Nennen Sie Gründe, warum die Benotung von Hausaufgaben so verbreitet ist.",
+        task_1_3: "• Nennen Sie andere Möglichkeiten, Leistungen zu bewerten.",
+        task_1_4: "• Nennen Sie Vorteile anderer Möglichkeiten der Leistungsbewertung.",
+        explanation_1_2: "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.",
+        explanation_1_3: "Schreiben Sie mindestens 150 Wörter.",
+    },
+    {
+      id: "1",
+      teil_2: "Teil №2",
+      backImg:
+        "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+  
+        explanation_2_1: "Sie arbeiten als Verkäufer/in in einem Elektromarkt. Da Ihr Kollege krank geworden ist, müssen Sie sehr viele Überstunden machen, die Arbeit ist für Sie alleine kaum noch zu schaffen. Schreiben Sie eine Nachricht an Ihre Vorgesetzte, Frau Grotefend.",
+        task_2_1: "1 Erklären Sie die Situation.",
+        task_2_2: "2 Schreiben Sie, weshalb Sie sich überlastet fühlen.",
+        task_2_3: "3 Machen Sie einen Vorschlag, wie man Sie bei der Mehrarbeit unterstützen könnte.",
+        task_2_4: "4 Machen Sie einen Vorschlag zum Ausgleich Ihrer Überstunden.",
+        explanation_2_2: "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.",
+        explanation_2_3: "Vergessen Sie nicht Anrede und Gruß. Schreiben Sie mindestens 100 Wörter.",
+    },
+  ];
   
   export const Sprechen_data = [
     {
