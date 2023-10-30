@@ -1,15 +1,15 @@
 import React from "react"
-import { Schreiben_data_moduleOne } from "../../../../../data/data.js";
+import { Schreiben_data_moduleTwo } from "../../../../../data/data.js";
 
 
-const SchreibenModule1 = () => {
+const SchreibenModule2 = () => {
   return (
     <div className="wrapper">
       <section className="schreibenModule_section">
         <div className="schreibenModule_title">
         </div>
         <div className="schreibenModule_parts">
-          {Schreiben_data_moduleOne.map((word) => (
+          {Schreiben_data_moduleTwo.map((word) => (
             <div>
               <h3>{word.part_1}</h3>
               <h3>{word.teil_1}</h3>
@@ -39,4 +39,4 @@ const SchreibenModule1 = () => {
   );
 };
 
-export default SchreibenModule1;
+export default SchreibenModule2;
