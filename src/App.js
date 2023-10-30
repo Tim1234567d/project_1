@@ -85,7 +85,7 @@ import HorenPart3_4 from "./components/pages/horen/horenModule3/horenParts/Horen
 import HorenPart4_1 from "./components/pages/horen/horenModule4/horenParts/HorenPart4_1";
 import HorenPart4_2 from "./components/pages/horen/horenModule4/horenParts/HorenPart4_2";
 import HorenPart4_3 from "./components/pages/horen/horenModule4/horenParts/HorenPart4_3";
-// import HorenPart3_4 from "./components/pages/horen/horenModule3/horenParts/HorenPart3_4";
+import HorenPart4_4 from "./components/pages/horen/horenModule4/horenParts/HorenPart4_4";
 
 // schreiben parts 
 import SchreibenPart from "./components/pages/schreiben/schreibenModule/SchreibenModule1/SchreibenPart";
@@ -177,7 +177,7 @@ function App() {
         <Route path="/horenModule4/horenPart4_1" element={<HorenPart4_1 />} />
         <Route path="/horenModule4/horenPart4_2" element={<HorenPart4_2 />} />
         <Route path="/horenModule4/horenPart4_3" element={<HorenPart4_3 />} />
-        {/* <Route path="/horenModule3/horenPart3_4" element={<HorenPart3_4 />} /> */}
+        <Route path="/horenModule4/horenPart4_4" element={<HorenPart4_4 />} />
 
 
          {/* ** Module  parts  */}
