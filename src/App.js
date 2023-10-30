@@ -36,6 +36,9 @@ import SchreibenModule4 from "./components/pages/schreiben/schreibenModule/Schre
 
 // sprechen
 import SprechenModule1 from "./components/pages/sprechen/sprechenModule/SprechenModule1/SprechenModule1";
+import SprechenModule2 from "./components/pages/sprechen/sprechenModule/SprechenModule2/SprechenModule2";
+// import SprechenModule1 from "./components/pages/sprechen/sprechenModule/SprechenModule1/SprechenModule1";
+// import SprechenModule1 from "./components/pages/sprechen/sprechenModule/SprechenModule1/SprechenModule1";
 
 // ******************** module parts *******************************
 // lesen parts №1
@@ -90,11 +93,6 @@ import HorenPart4_2 from "./components/pages/horen/horenModule4/horenParts/Horen
 import HorenPart4_3 from "./components/pages/horen/horenModule4/horenParts/HorenPart4_3";
 import HorenPart4_4 from "./components/pages/horen/horenModule4/horenParts/HorenPart4_4";
 
-// schreiben parts 
-
-
-// sprechen parts 
-import SprechenPart from "./components/pages/sprechen/sprechenModule/SprechenModule1/SprechenPart";
 
 function App() {
   return (
@@ -134,6 +132,9 @@ function App() {
 
         {/* ** Module sprechen */}
         <Route path="sprechenModule1" element={<SprechenModule1 />} />
+        <Route path="sprechenModule2" element={<SprechenModule2 />} />
+        {/* <Route path="sprechenModule1" element={<SprechenModule1 />} />
+        <Route path="sprechenModule1" element={<SprechenModule1 />} /> */}
 
         {/* **  Lesen module 1 parts */}
         <Route path="/lesenModule1/lesenPart1_1" element={<LesenPart1_1 />} />
@@ -188,9 +189,6 @@ function App() {
         <Route path="/horenModule4/horenPart4_4" element={<HorenPart4_4 />} />
 
 
-         {/* ** Module  parts  */}
-        {/* <Route path="/horenModule1/:id" element={<HorenPart />} /> */}
-        <Route path="/sprechenModule1/:id" element={<SprechenPart />} />
       </Routes> 
       <Footer />
     </div>
