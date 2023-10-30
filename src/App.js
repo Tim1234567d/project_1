@@ -84,7 +84,7 @@ import HorenPart3_4 from "./components/pages/horen/horenModule3/horenParts/Horen
 // horen parts №4
 import HorenPart4_1 from "./components/pages/horen/horenModule4/horenParts/HorenPart4_1";
 import HorenPart4_2 from "./components/pages/horen/horenModule4/horenParts/HorenPart4_2";
-// import HorenPart3_3 from "./components/pages/horen/horenModule3/horenParts/HorenPart3_3";
+import HorenPart4_3 from "./components/pages/horen/horenModule4/horenParts/HorenPart4_3";
 // import HorenPart3_4 from "./components/pages/horen/horenModule3/horenParts/HorenPart3_4";
 
 // schreiben parts 
@@ -176,8 +176,8 @@ function App() {
         {/* **  Horen module 4 parts */}
         <Route path="/horenModule4/horenPart4_1" element={<HorenPart4_1 />} />
         <Route path="/horenModule4/horenPart4_2" element={<HorenPart4_2 />} />
-        {/* <Route path="/horenModule3/horenPart3_3" element={<HorenPart3_3 />} />
-        <Route path="/horenModule3/horenPart3_4" element={<HorenPart3_4 />} /> */}
+        <Route path="/horenModule4/horenPart4_3" element={<HorenPart4_3 />} />
+        {/* <Route path="/horenModule3/horenPart3_4" element={<HorenPart3_4 />} /> */}
 
 
          {/* ** Module  parts  */}
