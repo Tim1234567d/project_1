@@ -1594,11 +1594,11 @@ export const Schedule_data = {
       backImg:
         "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
   
-        explanation_1_1: "Sie schreiben einen Forumsbeitrag zum Thema «Führerschein schon ab 16 Jahren».",
-        task_1_1: "• Äußern Sie Ihre Meinung zum Führerschein ab 16.",
-        task_1_2: "• Nennen Sie Gründe, warum Jugendliche mit 16 schon Auto fahren sollten.",
-        task_1_3: "• Nennen Sie andere Möglichkeiten für Jugendliche, mobil zu sein.",
-        task_1_4: "• Nennen Sie Vorteile anderer Mobilitätsarten.",
+        explanation_1_1: "Sie schreiben einen Forumsbeitrag zum Thema «Autofreie Innenstadt».",
+        task_1_1: "• Äußern Sie Ihre Meinung zur Verkehrssituation in den Innenstädten.",
+        task_1_2: "• Nennen Sie Gründe, warum der Verkehr in den Innenstädten verringert werden sollte.",
+        task_1_3: "• Nennen Sie andere Möglichkeiten, etwas gegen zu große Verkehrsbelastung zu unternehmen.",
+        task_1_4: "• Nennen Sie Vorteile anderer, Möglichkeiten, den Autoverkehr zu verringern.",
         explanation_1_2: "Denken Sie an eine Einleitung und einen Schluss. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.",
         explanation_1_3: "Schreiben Sie mindestens 150 Wörter.",
     },
@@ -1608,10 +1608,10 @@ export const Schedule_data = {
       backImg:
         "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
   
-        explanation_2_1: "Sie machen ein Praktikum bei einer deutschen Firma. Wegen eines Missverständnisses haben Sie Einladungsmails für eine Sitzung mit falschem Datum und falscher Uhrzeit verschickt. Schreiben Sie eine Nachricht an Ihren Vorgesetzten, Herrn Sattler.",
+        explanation_2_1: "Sie machen ein Praktikum bei einer deutschen Firma. Ohne nachzudenken waren Sie während der Arbeitszeit immer wieder privat im Internet und haben private Mails geschrieben. Deswegen haben Sie eine Mahnung bekommen. Schreiben Sie eine Nachricht an Ihre Vorgesetzte, Frau Lennart.",
         task_2_1: "1 Entschuldigen Sie sich für Ihren Fehler.",
-        task_2_2: "2 Machen Sie einen Vorschlag zur Korrektur Ihres Fehlers.",
-        task_2_3: "3 Erklären Sie, wieso es zu einem Missverständnis kommen konnte.",
+        task_2_2: "2 Geben Sie Gründe für Ihr Verhalten an und bitten Sie um Entschuldigung.",
+        task_2_3: "3 Zeigen Sie Verständnis für die Kritik Ihrer Vorgesetzten.",
         task_2_4: "4 Machen Sie einen Vorschlag, damit solche Fehler in Zukunft vermieden werden können.",
         explanation_2_2: "Überlegen Sie sich eine passende Reihenfolge für die Inhaltspunkte. Bei der Bewertung wird darauf geachtet, wie genau die Inhaltspunkte bearbeitet sind, wie korrekt der Text ist und wie gut die Sätze und Abschnitte sprachlich miteinander verknüpft sind.",
         explanation_2_3: "Vergessen Sie nicht Anrede und Gruß. Schreiben Sie mindestens 100 Wörter.",
