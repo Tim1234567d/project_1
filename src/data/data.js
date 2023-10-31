@@ -1784,3 +1784,48 @@ export const Schedule_data = {
         
     },
   ];
+  export const Sprechen_data_moduleFour = [
+    {
+      id: "0",
+      part_1: "Module №4 Sprechen ",
+      teil_1: "Sprechen Teil 1: Vortrag halten",
+      backImg:
+        "https://media.istockphoto.com/id/1284691550/de/vektor/blaue-abstrakte-geometrische-dynamische-form-papier-schichten-subtilen-hintergrundvektor.jpg?s=612x612&w=0&k=20&c=u3jENSNjf1hW7G4Q0Uxz05qCkul-IvVu63J9oVBk16A=",
+
+        explanation_1_1: "Dauer: circa acht Minuten für beide Teilnehmende zusammen",
+        explanation_1_2: "Sie nehmen an einem Seminar teil und sollen dort einen kurzen Vortrag halten.",
+        explanation_1_3: "Wählen Sie ein Thema (A oder B) aus. Ihre Gesprächspartnerinnen/ Ihre Gesprächspartner hören zu und stellen Ihnen anschließend Fragen.",
+        explanation_1_4: "Strukturieren Sie Ihren Vortrag mit einer Einleitung, einem Hauptteil und einem Sch luss. Ihre Notizen und Ideen schreiben Sie bitte in der Vorbereitungszeit auf.",
+        explanation_1_5: "Sprechen Sie circa 4 Minuten.",
+        explanation_1_6: "Teilnehmende/-r A",
+        task_1_1: "Thema A",
+        title_1_1: "Sprachen lernen",
+        task_1_1_1: "• Beschreiben Sie mehrere Möglichkeiten.",
+        task_1_1_2: "• Nennen Sie Vor- und Nachteile und bewerten Sie diese.",
+        task_1_1_3: "• Beschreiben Sie eine Möglichkeit genauer.",
+        
+        task_1_2: "Thema B",
+        title_1_2: "Fit bleiben",
+        task_1_2_1: "• Beschreiben Sie mehrere Möglichkeiten (z.B. Joggen).",
+        task_1_2_2: "• Nennen Sie Vor- und Nachteile und bewerten Sie diese.",
+        task_1_2_3: "• Beschreiben Sie eine Möglichkeit genauer.",
+      
+    },
+    {
+      id: "1",
+      teil_2: "Sprechen Teil 2: Diskussion führen",
+        explanation_2_1: "Dauer: circa fünf Minuten für beide Teilnehmende zusammen",
+        explanation_2_2: "Sie sind Teilnehmende eines Debattierclubs und diskutieren über die aktuelle Frage.",
+        task_2_1: "Ist es sinnvoll, dass Studentinnen/Studenten in Vorlesungen Handys benutzen?",
+        task_2_1_1: "• Tauschen Sie zuerst Ihren Standpunkt und Ihre Argumente aus.",
+        task_2_1_2: "• Reagieren Sie dann auf die Argumente Ihrer Gesprächspartnerin / Ihres Gesprächspartners.",
+        task_2_1_3: "• Fassen Sie am Ende zusammen: Sind Sie dafür oder dagegen?",
+
+        task_2_2: "Sie können diese Stichpunkte zu Hilfe nehmen.",
+        task_2_2_1: "• Leistungen an der Uni werden durch Handynutzung besser/schlechter?",
+        task_2_2_2: "• Konzentration nimmt zu/ab?",
+        task_2_2_3: "• Handynutzung in Vorlesungen irritiert Dozenten/ Dozentinnen?",
+        task_2_2_4: "• Regelung der Handynutzung ist nötig / nicht nötig?",
+        
+    },
+  ];
